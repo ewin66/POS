@@ -1,0 +1,64 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_12:15 PM</Name>
+    <Description>Credit Transaction</Description>
+    <Price>16.23</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-09-18T12:15:03.265625-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>2</ID>
+    <categoryID>-1</categoryID>
+    <Name>Diabolo</Name>
+    <UPC>0085761092174</UPC>
+    <Price>14.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\InventoryImages\diabolo.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-09-18T12:15:04.359375-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>3</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_12:51 PM</Name>
+    <Description>Credit Transaction</Description>
+    <Price>37.98</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-09-18T12:51:25.46875-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>4</ID>
+    <categoryID>-1</categoryID>
+    <Name>Dalmation vet kit</Name>
+    <Description>The dalmatian Vet Kit comes with everything a young veterinarian needs. It includes all the medical instruments needed to care for your little puppy. Made of the highest quality materials and comply to all US and Canadian safety regulations. Product dimensions 10.5x 8 x 8.12 inches. Includes: Medium puppy vet cage, stethoscope, small tray hammer, mirror, ear tool, tweezers, tongs, scissors, thermometer, syringe, bandages, plush puppy.</Description>
+    <UPC>062243237582</UPC>
+    <Price>34.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\InventoryImages\dalmationvet.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-09-18T12:51:26-06:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

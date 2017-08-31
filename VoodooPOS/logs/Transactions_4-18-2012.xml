@@ -1,0 +1,193 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_4:13 PM</Name>
+    <Description>Credit Transaction</Description>
+    <Price>31.41</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-18T16:13:21.96875-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>2</ID>
+    <categoryID>-1</categoryID>
+    <Name>Solar Print Paper</Name>
+    <Description>Refill pack for the Solar Print Kit, Item 4062 
+12 sheets of sun-sensitive refill paper that udergoes a chemical change when exposed to sunlight 
+Images appear in minutes and are permanent 
+Refill frame included 
+Creatively educational</Description>
+    <UPC>085761040649</UPC>
+    <Price>8.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-18T16:13:23.734375-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>3</ID>
+    <categoryID>-1</categoryID>
+    <Name>Candy Land</Name>
+    <UPC>653569441243</UPC>
+    <Price>19.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>EE Distribution</Manufacturer>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-18T16:13:24.703125-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>4</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_4:16 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>8.14</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-18T16:16:47.828125-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>5</ID>
+    <categoryID>-1</categoryID>
+    <Name>Littlest Pet Shop Shimmer and Shine 2151</Name>
+    <Description>This little pet is as fancy as can be and cant wait to play with you! This elephant pet will make an adorable and shimmery addition to your collection. You and your new pet will have all kinds of fun together!</Description>
+    <UPC>653569603023</UPC>
+    <Price>7.5</Price>
+    <WholesalePrice>4.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>ee</Manufacturer>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-18T16:17:11.546875-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>6</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_4:56 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>2.16</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-18T16:56:12.4375-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>7</ID>
+    <categoryID>-1</categoryID>
+    <Name>Gazz-it!</Name>
+    <UPC>694744226262</UPC>
+    <Price>1.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-18T16:56:48.421875-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>8</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_6:04 PM</Name>
+    <Description>Credit Transaction</Description>
+    <Price>19.52</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-18T18:04:13.640625-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>9</ID>
+    <categoryID>-1</categoryID>
+    <Name>Bungee blast</Name>
+    <Description>Pull back this soft 7 inch foam rocket blaster, let it fling, and watch it soar up to 100 feet. Assorted blue-yellow and red-yellow colors</Description>
+    <UPC>085761077881</UPC>
+    <Price>2.5</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>2</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\InventoryImages\bungeeblast.bmp</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-18T18:04:13.90625-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>10</ID>
+    <categoryID>-1</categoryID>
+    <Name>Friendship Bracelet Kit</Name>
+    <UPC>085761081505</UPC>
+    <Price>6.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>1</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-18T18:04:14.4375-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>11</ID>
+    <categoryID>-1</categoryID>
+    <Name>Party Poppers</Name>
+    <UPC>099996000798</UPC>
+    <Price>0.5</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>2</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-18T18:04:14.96875-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>12</ID>
+    <categoryID>-1</categoryID>
+    <Name>Colorful Hair Extensions</Name>
+    <Description>Add a burst of bright to dress-up trunks and playtime! Just Pretending™ dress-up headbands with 27" hair extensions assorted among the colors shown.</Description>
+    <UPC>639277300935</UPC>
+    <Price>4.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\hairextensions.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-18T18:04:15.546875-06:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

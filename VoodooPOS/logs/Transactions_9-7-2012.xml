@@ -1,0 +1,237 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_2:04 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>2.7</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-09-07T14:04:06.34375-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>2</ID>
+    <categoryID>-1</categoryID>
+    <Name>Horses 2pk</Name>
+    <UPC>639277439772</UPC>
+    <Price>2.49</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-09-07T14:04:11.28125-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>3</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_3:28 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>27.13</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-09-07T15:28:47.171875-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>4</ID>
+    <categoryID>-1</categoryID>
+    <Name>Sand Mandalas</Name>
+    <Description>•Gorgeous mandala creation made simple; A thoughtfully designed mandala kit 
+•Emphasizes creativity, attention to detail, &amp; value of precision in artistry 
+•Promotes appreciation of art across diverse cultures 
+•4 intricate mandala patterns, each 9 x 9 inches 
+•12 vibrant colors of fine grain sand, each its own transparent vial 
+•Peeling tool for simple removal of numbered stickers on mandala patterns 
+•Impressive box design keeps the project neat 
+•Detailed instruction booklet 
+•Option to create your own one-of-kind designs 
+•Makes a fabulous, frameable finished project
+
+History of the Mandala:
+Mandalas are Hindu and Buddhist pieces of art made of sand to aid in meditation.</Description>
+    <UPC>307090008634</UPC>
+    <Price>24.99</Price>
+    <WholesalePrice>12.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-09-07T15:29:05.328125-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>5</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_3:47 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>6.5</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-09-07T15:47:43.53125-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>6</ID>
+    <categoryID>-1</categoryID>
+    <Name>Magic Zendikar Booster Pack</Name>
+    <UPC>653569431329</UPC>
+    <Price>5.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-09-07T15:47:43.984375-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>7</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_4:40 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>7.59</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-09-07T16:40:07.921875-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>8</ID>
+    <categoryID>-1</categoryID>
+    <Name>Foam Pirate Sword</Name>
+    <Description>This soft and safe foam pirate sword features a 25 inch long blade.</Description>
+    <UPC>085761092280</UPC>
+    <Price>6.99</Price>
+    <WholesalePrice>1.75</WholesalePrice>
+    <SalePrice>4.95</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-09-07T16:40:08.421875-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>9</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_4:47 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>9.22</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-09-07T16:47:28.671875-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>10</ID>
+    <categoryID>-1</categoryID>
+    <Name>Plush Puppet</Name>
+    <UPC>639277092939</UPC>
+    <Price>4.5</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-09-07T16:47:29.046875-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>11</ID>
+    <categoryID>-1</categoryID>
+    <Name>Soft Sport Ball</Name>
+    <UPC>639277161178</UPC>
+    <Price>3.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-09-07T16:47:30.984375-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>12</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_5:09 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>42.28</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-09-07T17:09:37.8125-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>13</ID>
+    <categoryID>-1</categoryID>
+    <Name>Hot Wheels Zero G Drop Force Track Set</Name>
+    <UPC>027084744682</UPC>
+    <Price>38.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-09-07T17:09:38.21875-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>14</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_7:52 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>6.5</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-09-07T19:52:17.171875-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>15</ID>
+    <categoryID>-1</categoryID>
+    <Name>Magic Zendikar Booster Pack</Name>
+    <UPC>653569431329</UPC>
+    <Price>5.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-09-07T19:52:17.765625-06:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

@@ -1,0 +1,126 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_1:36 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>2.43</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-17T13:36:48.359375-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>2</ID>
+    <categoryID>-1</categoryID>
+    <Name>Candy Snickers Bar</Name>
+    <UPC>04010207</UPC>
+    <Price>1.25</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-17T13:36:48.65625-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>3</ID>
+    <categoryID>-1</categoryID>
+    <Name>Candy Spooky lollipop</Name>
+    <UPC>NA</UPC>
+    <Price>0.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Nana</Manufacturer>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-17T13:37:12.765625-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>4</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_4:32 PM</Name>
+    <Description>Credit Transaction</Description>
+    <Price>33.59</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-17T16:32:41.109375-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>5</ID>
+    <categoryID>-1</categoryID>
+    <Name>Turbo Wheels</Name>
+    <UPC>639277875303</UPC>
+    <Price>3.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>1</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-17T16:32:41.46875-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>6</ID>
+    <categoryID>-1</categoryID>
+    <Name>CAT Tough Tracks Pickup</Name>
+    <Description>CAT Tough Tracks Pickup is ready to get to you to the job site. This durable 14" wheel loader is great for indoor or outdoor play when the weather is warm. Great addition to the beach toy bag to help build sand castles. No batteries required. Recommended for ages 2 and up. 
+t's the perfect machine for little hands in the sandbox! Durable plastic 14" Junior Loader has real moving wheels and parts. Appropriate for children 18 months and up. Realistic-looking bright yellow Cat Junior Loader even has authentic Cat logos.</Description>
+    <UPC>6535695341360</UPC>
+    <Price>26.95</Price>
+    <WholesalePrice>10</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>walmart</Manufacturer>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-17T16:32:42.78125-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>7</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_4:53 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>4.61</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-17T16:53:21.375-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>8</ID>
+    <categoryID>-1</categoryID>
+    <Name>Magic Dark Ascension Booster</Name>
+    <Description>A 15 card booster pack of the newest series in the popular card game "Magic The Gathering"</Description>
+    <UPC>653569695325</UPC>
+    <Price>4.25</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Sothern Hobby</Manufacturer>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\InventoryImages\darkascensionbooster.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-17T16:53:21.6875-06:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

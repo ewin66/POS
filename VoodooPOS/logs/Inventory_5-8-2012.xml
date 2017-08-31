@@ -1,0 +1,259 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <categoryID>-1</categoryID>
+    <Name>2 Pack Pacifiers</Name>
+    <UPC>639277143587</UPC>
+    <Price>2.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>1</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-05-08T13:08:26.703125-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>2</ID>
+    <categoryID>-1</categoryID>
+    <Name>Rad Flyer</Name>
+    <UPC>639277091666</UPC>
+    <Price>4.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>3</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-05-08T13:12:32.140625-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>3</ID>
+    <categoryID>-1</categoryID>
+    <Name>Happy Nappers Dragon Castle</Name>
+    <UPC>032281867744</UPC>
+    <Price>19.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>2</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-05-08T13:16:47.796875-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>4</ID>
+    <categoryID>-1</categoryID>
+    <Name>Happy Nappers Monkey</Name>
+    <UPC>032281867782</UPC>
+    <Price>19.95</Price>
+    <WholesalePrice>9.95</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>3</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-05-08T13:19:10.59375-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>5</ID>
+    <categoryID>-1</categoryID>
+    <Name>Happy Napper Doghouse</Name>
+    <UPC>032281867737</UPC>
+    <Price>19.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-05-08T13:21:14.75-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>6</ID>
+    <categoryID>-1</categoryID>
+    <Name>Happy Nappers Poodle</Name>
+    <UPC>032281867713</UPC>
+    <Price>19.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>2</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-05-08T13:22:21.21875-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>7</ID>
+    <categoryID>-1</categoryID>
+    <Name>Happy Nappers Penguin</Name>
+    <UPC>032281867805</UPC>
+    <Price>19.95</Price>
+    <WholesalePrice>9.95</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>4</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-05-08T13:24:03.5-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>8</ID>
+    <categoryID>-1</categoryID>
+    <Name>Happy Nappers Unicorn</Name>
+    <UPC>032281867829</UPC>
+    <Price>19.95</Price>
+    <WholesalePrice>9.95</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-05-08T13:25:35.625-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>9</ID>
+    <categoryID>-1</categoryID>
+    <Name>Happy Napper Doghouse</Name>
+    <UPC>032281867737</UPC>
+    <Price>19.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>2</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-05-08T13:29:56.546875-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>10</ID>
+    <categoryID>-1</categoryID>
+    <Name>Happy Nappers Dragon Castle</Name>
+    <UPC>032281867744</UPC>
+    <Price>19.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>3</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-05-08T13:30:10.765625-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>11</ID>
+    <categoryID>-1</categoryID>
+    <Name>Happy Nappers Monkey</Name>
+    <UPC>032281867782</UPC>
+    <Price>19.95</Price>
+    <WholesalePrice>9.95</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>4</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-05-08T13:30:51.125-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>12</ID>
+    <categoryID>-1</categoryID>
+    <Name>Happy Nappers Poodle</Name>
+    <UPC>032281867713</UPC>
+    <Price>19.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>3</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-05-08T13:31:00.515625-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>13</ID>
+    <categoryID>-1</categoryID>
+    <Name>Happy Nappers Unicorn</Name>
+    <UPC>032281867829</UPC>
+    <Price>19.95</Price>
+    <WholesalePrice>9.95</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>3</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-05-08T13:31:07.34375-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>14</ID>
+    <categoryID>-1</categoryID>
+    <Name>Solar Hula Girl</Name>
+    <UPC>639277438485</UPC>
+    <Price>4.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-05-08T15:31:16.625-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>15</ID>
+    <categoryID>-1</categoryID>
+    <Name>Solar Hula Girl</Name>
+    <UPC>639277438485</UPC>
+    <Price>4.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-05-08T15:35:37.234375-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>16</ID>
+    <categoryID>-1</categoryID>
+    <Name>Avacyn Restored Fat Pack</Name>
+    <UPC>653569714637</UPC>
+    <Price>49.95</Price>
+    <WholesalePrice>24</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-05-08T17:15:02.0331988-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>17</ID>
+    <categoryID>-1</categoryID>
+    <Name>Avacyn Restored Intro Deck</Name>
+    <Description>Avacyn Restored Intro Deck</Description>
+    <UPC>653569714255</UPC>
+    <Price>15.95</Price>
+    <WholesalePrice>7.3</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>6</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-05-08T17:15:20.7988238-06:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

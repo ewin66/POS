@@ -1,0 +1,299 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_1:07 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>8.13</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-12-21T13:07:02.953125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>2</ID>
+    <categoryID>-1</categoryID>
+    <Name>Soft Sport Ball</Name>
+    <UPC>639277161178</UPC>
+    <Price>3.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-12-21T13:07:03.609375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>3</ID>
+    <categoryID>-1</categoryID>
+    <Price>3.5</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-12-21T13:07:25.515625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>4</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_1:25 PM</Name>
+    <Description>Credit Transaction</Description>
+    <Price>13.57</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-12-21T13:25:04.65625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>5</ID>
+    <categoryID>-1</categoryID>
+    <Name>Koolby &amp; Friends</Name>
+    <UPC>085761128378</UPC>
+    <Price>6.25</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>2</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-12-21T13:25:05.109375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>6</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_1:54 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>2.16</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-12-21T13:54:02.890625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>7</ID>
+    <categoryID>-1</categoryID>
+    <Name>1.99 Barrel</Name>
+    <UPC>NA</UPC>
+    <Price>1.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>false</displayOnWeb>
+    <DateCreated>2012-12-21T13:54:06.796875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>8</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_2:18 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>14.09</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-12-21T14:18:27.0625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>9</ID>
+    <categoryID>-1</categoryID>
+    <Name>Hot Wheels single car</Name>
+    <UPC>027084984149</UPC>
+    <Price>2.5</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Target</Manufacturer>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-12-21T14:18:27.5-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>10</ID>
+    <categoryID>-1</categoryID>
+    <Name>Hot Wheels</Name>
+    <UPC>027084944341</UPC>
+    <Price>2.5</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-12-21T14:18:28.25-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>11</ID>
+    <categoryID>-1</categoryID>
+    <Name>Medieval Knight Arm Plates</Name>
+    <UPC>639277584229</UPC>
+    <Price>3.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>DT</Manufacturer>
+    <Quantity>2</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-12-21T14:18:29.03125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>12</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_2:28 PM</Name>
+    <Description>Credit Transaction</Description>
+    <Price>10.26</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-12-21T14:28:23.609375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>13</ID>
+    <categoryID>-1</categoryID>
+    <Name>Spy / Detective gear</Name>
+    <UPC>639277153227</UPC>
+    <Price>4.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>dollar tree</Manufacturer>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-12-21T14:28:24.046875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>14</ID>
+    <categoryID>-1</categoryID>
+    <Name>Animal Puppet</Name>
+    <UPC>639277867513</UPC>
+    <Price>4.5</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-12-21T14:28:24.8125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>15</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_3:07 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>5.64</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-12-21T15:07:40.390625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>16</ID>
+    <categoryID>-1</categoryID>
+    <Name>incense stick</Name>
+    <Description>sticks of fragrant incense</Description>
+    <Price>0.2</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Benjamin International</Manufacturer>
+    <Quantity>6</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-12-21T15:07:54.75-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>17</ID>
+    <categoryID>-1</categoryID>
+    <Name>Ring Pops</Name>
+    <UPC>041116005190</UPC>
+    <Price>2</Price>
+    <WholesalePrice>0.99</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>2</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-12-21T15:07:56.859375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>18</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_6:17 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>49.82</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-12-21T18:18:01.21875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>19</ID>
+    <categoryID>-1</categoryID>
+    <Name>Lego City Helicopter</Name>
+    <Description>Patrol and protect LEGO City from the air! Watch for trouble in this police helicopter One police pilot minifigure included Copter blades really rotate and the helicopter is over 7" (18 cm) Includes simple small tools, camera and rotating rotors as two LEGO build functions Includes 94 pieces</Description>
+    <UPC>673419102537</UPC>
+    <Price>22.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\legocityhelicopter.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-12-21T18:18:03.484375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>20</ID>
+    <categoryID>-1</categoryID>
+    <Name>Lego Racers Chopper Jump</Name>
+    <UPC>0673419130851</UPC>
+    <Price>22.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-12-21T18:18:06.515625-07:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

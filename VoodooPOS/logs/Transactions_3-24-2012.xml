@@ -1,0 +1,150 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_2:37 PM</Name>
+    <Description>Credit Transaction</Description>
+    <Price>63.98</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-24T14:37:23.53125-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>2</ID>
+    <categoryID>-1</categoryID>
+    <Name>Design Your Own Kite</Name>
+    <Description>Toysmith Design Your Own Kite Kit Create a one-of-a-kind kite with this hands-on kite-building kit! Kit includes everything necessary to custom make your own kite, including 20-inch white kite with tail and string, plus paints and brush to create your own masterpiece. Kite is approximately 20" tall. Ships within 1-2 days via USPS Priority from Oregon. Not recommended for children under 4.</Description>
+    <UPC>085761142404</UPC>
+    <Price>19.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\InventoryImages\Design Your Own Kite.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-24T14:37:23.921875-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>3</ID>
+    <categoryID>-1</categoryID>
+    <Name>TONKA T.S. 4000 Dump Truck</Name>
+    <Description>Get down and dirty with this T.S. 4000 Dump Truck vehicle! Built with a steel cab, steel dump bed and signature steel grille, this vehicle is tough enough to stand up to your hardest "construction jobs". Fill up the dump bed, "drive" it to its destination and then use the real dumping action to unload it! Just like the real thing, this dump truck vehicle is built to operate in the toughest outdoor conditions. So load it up and move it out!
+
+Ages 3 and up.</Description>
+    <UPC>653569534136</UPC>
+    <Price>38.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Walmart</Manufacturer>
+    <Quantity>1</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-24T14:37:24.3125-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>4</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_4:28 PM</Name>
+    <Description>Credit Transaction</Description>
+    <Price>5.96</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-24T16:28:04.03125-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>5</ID>
+    <categoryID>-1</categoryID>
+    <Name>Select/Scan an Item</Name>
+    <Price>0</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-24T16:28:04.34375-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>6</ID>
+    <categoryID>-1</categoryID>
+    <Name>Potty Putty</Name>
+    <Description>It makes Fart Noises Plus it's fun to fidget with</Description>
+    <UPC>085761097131</UPC>
+    <Price>3.5</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-24T16:28:04.78125-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>7</ID>
+    <categoryID>-1</categoryID>
+    <Name>1.99 Barrel</Name>
+    <UPC>NA</UPC>
+    <Price>1.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-24T16:28:10.046875-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>8</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_5:22 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>12.48</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-24T17:22:42.75-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>9</ID>
+    <categoryID>-1</categoryID>
+    <Name>Firefly</Name>
+    <UPC>665766081207</UPC>
+    <Price>4.75</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-24T17:22:43.171875-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>10</ID>
+    <categoryID>-1</categoryID>
+    <Name>X Stream Internal Wing Aircraft</Name>
+    <UPC>0085761077683</UPC>
+    <Price>6.75</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>1</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-24T17:22:44.046875-06:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

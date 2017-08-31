@@ -1,0 +1,250 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_11:30 AM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>5.42</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-07-24T11:30:06.159-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>2</ID>
+    <categoryID>-1</categoryID>
+    <Name>Magic 2013 Core Set Booster Pack</Name>
+    <UPC>653569712602</UPC>
+    <Price>4.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-07-24T11:30:06.87775-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>3</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_11:33 AM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>5.42</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-07-24T11:33:46.62775-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>4</ID>
+    <categoryID>-1</categoryID>
+    <Name>Magic 2013 Core Set Booster Pack</Name>
+    <UPC>653569712602</UPC>
+    <Price>4.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-07-24T11:33:47.0965-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>5</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_11:38 AM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>5.42</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-07-24T11:38:40.75275-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>6</ID>
+    <categoryID>-1</categoryID>
+    <Name>Magic 2013 Core Set Booster Pack</Name>
+    <UPC>653569712602</UPC>
+    <Price>4.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-07-24T11:38:41.25275-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>7</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_12:00 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>4.61</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-07-24T12:00:29.534-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>8</ID>
+    <categoryID>-1</categoryID>
+    <Name>Magic Dark Ascension Booster</Name>
+    <Description>A 15 card booster pack of the newest series in the popular card game "Magic The Gathering"</Description>
+    <UPC>653569695325</UPC>
+    <Price>4.25</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Sothern Hobby</Manufacturer>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\InventoryImages\darkascensionbooster.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-07-24T12:00:30.00275-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>9</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_1:28 PM</Name>
+    <Description>Credit Transaction</Description>
+    <Price>7.59</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-07-24T13:28:13.487125-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>10</ID>
+    <categoryID>-1</categoryID>
+    <Name>Orbit ball</Name>
+    <UPC>085761146693</UPC>
+    <Price>3.49</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-07-24T13:28:13.955875-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>11</ID>
+    <categoryID>-1</categoryID>
+    <Name>Mini Touchable Bubbles</Name>
+    <UPC>085761044296</UPC>
+    <Price>1.75</Price>
+    <WholesalePrice>0.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>2</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-07-24T13:28:14.737125-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>12</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_2:36 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>2.44</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-07-24T14:36:24.299625-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>13</ID>
+    <categoryID>-1</categoryID>
+    <Price>2.25</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-07-24T14:36:24.75275-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>14</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_3:50 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>14.06</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-07-24T15:50:48.25275-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>15</ID>
+    <categoryID>-1</categoryID>
+    <Name>My dog's journal</Name>
+    <Description>Make a family heirloom by recording all your pooch&amp;apos;s precious moments in this 28 page book. Kit includes 14 inner pages, front and back covers, cardboard, art paper, graphic templates, ribbons, cord, alphabet stickers, tape and full instructions.</Description>
+    <UPC>085761121768</UPC>
+    <Price>12.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-07-24T15:50:48.7215-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>16</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_4:20 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>3.23</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-07-24T16:20:42.87775-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>17</ID>
+    <categoryID>-1</categoryID>
+    <Name>Dice - d20</Name>
+    <Price>1.49</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>2</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-07-24T16:20:43.299625-06:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

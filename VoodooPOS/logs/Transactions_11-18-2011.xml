@@ -1,0 +1,153 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>0</ID>
+    <Name>New Cart_12:27 PM</Name>
+    <Description />
+    <UPC />
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-11-18T12:28:03.34375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>157</ID>
+    <Name>Mini Magic Baby Bottle</Name>
+    <Description />
+    <UPC>08576105436</UPC>
+    <Price>1.99</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-11-18T12:28:03.484375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>0</ID>
+    <Name>New Cart_3:29 PM</Name>
+    <Description />
+    <UPC />
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-11-18T15:29:30.515625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>13</ID>
+    <Name>Glow in the dark stars</Name>
+    <Description />
+    <UPC>0085761051669</UPC>
+    <Price>6.5</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-11-18T15:29:30.53125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>0</ID>
+    <Name>New Cart_5:23 PM</Name>
+    <Description />
+    <UPC />
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-11-18T17:23:57.203125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>124</ID>
+    <Name>Boinks</Name>
+    <Description />
+    <UPC>0085761031340</UPC>
+    <Price>0.99</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>3</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-11-18T17:23:57.203125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>53</ID>
+    <Name>Koolby &amp; Friends</Name>
+    <Description>These funky 2.375 inch tall collectible figures are molded in vinyl and come in 18 different urban designs. Each has a ball chain key ring attached.</Description>
+    <UPC>085761128378</UPC>
+    <Price>6.25</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-11-18T17:23:57.21875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>0</ID>
+    <Name>New Cart_6:49 PM</Name>
+    <Description />
+    <UPC />
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-11-18T18:49:40.265625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>23</ID>
+    <Name>X Stream Internal Wing Aircraft</Name>
+    <Description />
+    <UPC>0085761077683</UPC>
+    <Price>6.75</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-11-18T18:49:40.28125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>117</ID>
+    <Name>Mini Touchable Bubbles</Name>
+    <Description />
+    <UPC>085761044296</UPC>
+    <Price>1.75</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-11-18T18:49:40.296875-07:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

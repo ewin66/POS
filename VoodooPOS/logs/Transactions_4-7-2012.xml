@@ -1,0 +1,400 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_10:46 AM</Name>
+    <Description>Credit Transaction</Description>
+    <Price>9.23</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-07T10:46:30.609375-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>2</ID>
+    <categoryID>-1</categoryID>
+    <Name>Magic Dark Ascension Booster</Name>
+    <Description>A 15 card booster pack of the newest series in the popular card game "Magic The Gathering"</Description>
+    <UPC>653569695325</UPC>
+    <Price>4.25</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Sothern Hobby</Manufacturer>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\InventoryImages\darkascensionbooster.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-07T10:46:30.875-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>3</ID>
+    <categoryID>-1</categoryID>
+    <Name>Magic Innistrad Booster Pack</Name>
+    <UPC>0653569656715</UPC>
+    <Price>4.25</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Southern Hobby Christina</Manufacturer>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-07T10:46:31.390625-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>4</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_10:51 AM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>4.33</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-07T10:51:09.125-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>5</ID>
+    <categoryID>-1</categoryID>
+    <Name>Magic Growing Snake</Name>
+    <Description>Magic foot long snake grows up to 600% when put in water. Scare your friends with this enormous serpent. Remove it from the water and it shrinks to it's original size.</Description>
+    <UPC>639277739889</UPC>
+    <Price>3.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\growsnake.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-07T10:51:09.390625-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>6</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_10:53 AM</Name>
+    <Description>Credit Transaction</Description>
+    <Price>9.49</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-07T10:53:12.296875-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>7</ID>
+    <categoryID>-1</categoryID>
+    <Name>Firefly</Name>
+    <UPC>665766081207</UPC>
+    <Price>4.75</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-07T10:53:12.578125-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>8</ID>
+    <categoryID>-1</categoryID>
+    <Name>Model Woodshop</Name>
+    <UPC>639277199492</UPC>
+    <Price>3.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>1</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-07T10:53:16.734375-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>9</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_10:54 AM</Name>
+    <Description>Credit Transaction</Description>
+    <Price>21.7</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-07T10:54:14.390625-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>10</ID>
+    <categoryID>-1</categoryID>
+    <Name>Candy Land</Name>
+    <UPC>653569441243</UPC>
+    <Price>19.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>EE Distribution</Manufacturer>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-07T10:54:14.65625-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>11</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_11:23 AM</Name>
+    <Description>Credit Transaction</Description>
+    <Price>13.02</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-07T11:23:00.359375-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>12</ID>
+    <categoryID>-1</categoryID>
+    <Name>Mr. Potato Head</Name>
+    <Description>A slimmer, more active MR. POTATO HEAD has more holes than he used to and more facial features! Your child will love putting his nose where his ear should be and building many different versions of the original potato friend. The parts are compatible with other versions of MR. or MRS. POTATO HEAD. 
+
+Store the parts in the figure’s TATER TUSH. Potato figure comes with eyes, nose, mouth with teeth, hat, mustache, tongue, pair of glasses, 2 hands, 2 ears and 1 pair of legs with shoes. 
+
+Ages 2 and up.</Description>
+    <UPC>653569548140</UPC>
+    <Price>11.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Ben International</Manufacturer>
+    <Quantity>1</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-07T11:23:00.640625-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>13</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_11:30 AM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>3.37</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-07T11:30:27.203125-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>14</ID>
+    <categoryID>-1</categoryID>
+    <Name>Mini Crayon Set</Name>
+    <UPC>0085761012158</UPC>
+    <Price>0.85</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-07T11:30:27.46875-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>15</ID>
+    <categoryID>-1</categoryID>
+    <Name>dog Toys</Name>
+    <UPC>NA</UPC>
+    <Price>2.25</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-07T11:31:04.34375-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>16</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_11:50 AM</Name>
+    <Description>Credit Transaction</Description>
+    <Price>27.08</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-07T11:50:35.78125-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>17</ID>
+    <categoryID>-1</categoryID>
+    <Name>Henna Tattoos</Name>
+    <UPC>695869876714</UPC>
+    <Price>24.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Benjamin International</Manufacturer>
+    <Quantity>1</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-07T11:50:36.046875-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>18</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_1:03 PM</Name>
+    <Description>Credit Transaction</Description>
+    <Price>9.76</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-07T13:03:51.765625-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>19</ID>
+    <categoryID>-1</categoryID>
+    <Name>Net and Critter Gear</Name>
+    <Description>Each net is packaged with three exploration accessories.Net has an 18 inch handle and a 7 inch opening.</Description>
+    <UPC>085761040441</UPC>
+    <Price>8.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-07T13:03:52.046875-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>20</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_2:06 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>21.66</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-07T14:06:33.8125-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>21</ID>
+    <categoryID>-1</categoryID>
+    <Name>Plasma Orb Light</Name>
+    <UPC>085761037038</UPC>
+    <Price>19.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>1</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-07T14:06:34.078125-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>22</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_3:59 PM</Name>
+    <Description>Credit Transaction</Description>
+    <Price>21.13</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-07T15:59:43.734375-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>23</ID>
+    <categoryID>-1</categoryID>
+    <Name>Sensitive Plants</Name>
+    <Description>Grow your own interactive plants! Fainting plants wilt when touched, and Dancing Plants move when exposed to sunlight. Each packaged kit includes seeds, growing medium, a little 1 inch mini pot and instructions.</Description>
+    <UPC>085761143043</UPC>
+    <Price>8.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-07T15:59:44.078125-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>24</ID>
+    <categoryID>-1</categoryID>
+    <Name>Potty Putty</Name>
+    <Description>It makes Fart Noises Plus it's fun to fidget with</Description>
+    <UPC>085761097131</UPC>
+    <Price>3.5</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-07T15:59:44.609375-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>25</ID>
+    <categoryID>-1</categoryID>
+    <Name>Card Games</Name>
+    <UPC>639277040824</UPC>
+    <Price>0.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-07T16:00:53.359375-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>26</ID>
+    <categoryID>-1</categoryID>
+    <Name>Peg game</Name>
+    <Description>This classic wooden puzzle is a puzzle anyone in your family will enjoy! Jump the pegs to remove all but 1 peg from the board. Sounds easy? Give it a shot--we assure you, this is not as easy as it seems. Will challenge any puzzle master's IQ for hours. It also comes in a collectible box, making it a great gift for the classic toy collector in your family.</Description>
+    <UPC>085761127845</UPC>
+    <Price>5.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-07T16:00:53.828125-06:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

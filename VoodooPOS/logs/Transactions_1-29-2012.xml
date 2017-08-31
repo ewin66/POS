@@ -1,0 +1,189 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_1:05 PM</Name>
+    <Description>Credit Transaction</Description>
+    <Price>27.08</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-01-29T13:06:04.890625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>2</ID>
+    <categoryID>-1</categoryID>
+    <Name>Magic Innistrad event deck</Name>
+    <Price>24.95</Price>
+    <WholesalePrice>12.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Southern Hobby</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-01-29T13:06:06.234375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>3</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_1:42 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>1.09</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-01-29T13:42:25.046875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>4</ID>
+    <categoryID>-1</categoryID>
+    <Name>Candy Mini Burger</Name>
+    <Price>0.5</Price>
+    <WholesalePrice>0.15</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-01-29T13:42:25.421875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>5</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_3:44 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>0.81</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-01-29T15:44:01.046875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>6</ID>
+    <categoryID>-1</categoryID>
+    <Name>Candy Sour Gecko</Name>
+    <Price>0.75</Price>
+    <WholesalePrice>0.3</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-01-29T15:44:01.140625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>7</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_3:51 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>21.66</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-01-29T15:51:39.984375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>8</ID>
+    <categoryID>-1</categoryID>
+    <Name>Happy Nappers Ladybug Bungalow</Name>
+    <Price>19.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-01-29T15:51:40.078125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>9</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_4:14 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>12.7</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-01-29T16:14:13.28125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>10</ID>
+    <categoryID>-1</categoryID>
+    <Name>Flashing Puffer Ball Yo-Yo</Name>
+    <Description>Each two-tone ball has a “yo-activated” flashing light inside. Balls are 5” in diameter and have a 2” string. Six assorted color combinations.</Description>
+    <UPC>085761083745</UPC>
+    <Price>6.95</Price>
+    <WholesalePrice>1.75</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-01-29T16:14:13.421875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>11</ID>
+    <categoryID>-1</categoryID>
+    <Name>Firefly</Name>
+    <UPC>665766081207</UPC>
+    <Price>4.75</Price>
+    <WholesalePrice>1.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-01-29T16:14:13.578125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>12</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_4:20 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>5.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-01-29T16:20:15.34375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>13</ID>
+    <categoryID>-1</categoryID>
+    <Name>1.99 Barrel</Name>
+    <Price>1.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-01-29T16:20:21.671875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>14</ID>
+    <categoryID>-1</categoryID>
+    <Name>Candy Mini Burger</Name>
+    <Price>0.5</Price>
+    <WholesalePrice>0.15</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-01-29T16:20:21.78125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>15</ID>
+    <categoryID>-1</categoryID>
+    <Name>Valentine's Cards 34 piece</Name>
+    <Price>2.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-01-29T16:20:23.78125-07:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

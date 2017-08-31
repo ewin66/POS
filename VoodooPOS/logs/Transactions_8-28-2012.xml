@@ -1,0 +1,65 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_12:52 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>4.23</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-08-28T12:52:18.40625-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>2</ID>
+    <categoryID>-1</categoryID>
+    <Name>Pinwheel</Name>
+    <Description>Spring and Summer are just not complete without a colorful pinwheel!  This version from Toysmith is brightly foil colored and perfect for outdoor windy day fun.  This assortment comes with blue, green blue and purple.</Description>
+    <UPC>085761070516</UPC>
+    <Price>1.95</Price>
+    <WholesalePrice>0.75</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>2</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-08-28T12:52:19-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>3</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_4:09 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>59.65</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-08-28T16:09:55.484375-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>4</ID>
+    <categoryID>-1</categoryID>
+    <Name>Lego City off road fire truck and fireboat</Name>
+    <Description>There’s a blaze in LEGO® City harbor! Use the high-speed quad bike to spot the fire, then call in the big off-road fire truck. Use the built-in crane to unload the fireboat, and splash to the scene with its powerful twin motors. Another emergency beaten, thanks to the city fire-fighting team! Includes 3 minifigures with fire-fighting gear.</Description>
+    <UPC>673419130196</UPC>
+    <Price>54.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>lego</Manufacturer>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-08-28T16:09:55.96875-06:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <categoryID>-1</categoryID>
+    <Name>Extreme Fighting Action Figures</Name>
+    <Description>2 Extreme Action Fighting Playset with weapons. Have them battle and fight. Who will emerge the Extreme Fighting Champion? Battle and find out!</Description>
+    <UPC>639277439727</UPC>
+    <Price>0</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>1</Quantity>
+    <DateCreated>2012-03-13T14:10:53.90625-06:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

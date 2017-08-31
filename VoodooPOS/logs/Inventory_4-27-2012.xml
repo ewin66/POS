@@ -1,0 +1,208 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <categoryID>-1</categoryID>
+    <Name>Light up jewelry playset</Name>
+    <Description>Flashing Bracelet, necklace and earrings.</Description>
+    <UPC>6392770924</UPC>
+    <Price>3.5</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar tree</Manufacturer>
+    <Quantity>2</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-27T15:40:13.21875-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>2</ID>
+    <categoryID>-1</categoryID>
+    <Name>Bubble Fun tennis</Name>
+    <Description>Bubbles, tennis, solution, and loads of fun!</Description>
+    <UPC>6392777585</UPC>
+    <Price>1.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>2</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-27T15:55:30.640625-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>3</ID>
+    <categoryID>-1</categoryID>
+    <Name>Bubble fun stars and pipes</Name>
+    <Description>Bubble Fun Play Set 
+This bubble fun play set comes with an assortment of bubble makers along with a bottle of bubble solution and a solution tray. There's about 3 ounces of solution in a recloseable bottle that has ingredients on it's label. Other than the standard bubble wand, there are racquets, different styles of blow pipes, and shaped wands like circle, heart, and star. Assortments come in brilliant neon colors. The set comes in blister card package. Colors may vary. Not recommended for children under 3. 
+</Description>
+    <UPC>6392770934</UPC>
+    <Price>1.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\bubblefunstarsandpipes.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-27T15:58:54.359375-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>4</ID>
+    <categoryID>-1</categoryID>
+    <Name>Bubbles Play Set</Name>
+    <Description>Bubble Fun Play Set 
+This bubble fun play set comes with an assortment of bubble makers along with a bottle of bubble solution and a solution tray. There's about 3 ounces of solution in a recloseable bottle that has ingredients on it's label. Other than the standard bubble wand, there are racquets, different styles of blow pipes, and shaped wands like circle, heart, and star. Assortments come in brilliant neon colors. The set comes in blister card package. Colors may vary. Not recommended for children under 3. 
+</Description>
+    <UPC>639277645173</UPC>
+    <Price>3.5</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>2</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-27T15:59:27.328125-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>5</ID>
+    <categoryID>-1</categoryID>
+    <Name>Bubble fun stars and pipes</Name>
+    <Description>Bubble Fun Play Set 
+This bubble fun play set comes with an assortment of bubble makers along with a bottle of bubble solution and a solution tray. There's about 3 ounces of solution in a recloseable bottle that has ingredients on it's label. Other than the standard bubble wand, there are racquets, different styles of blow pipes, and shaped wands like circle, heart, and star. Assortments come in brilliant neon colors. The set comes in blister card package. Colors may vary. Not recommended for children under 3. 
+</Description>
+    <UPC>6392770934</UPC>
+    <Price>3.5</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\bubblefunstarsandpipes.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-27T16:00:09.390625-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>6</ID>
+    <categoryID>-1</categoryID>
+    <Name>Bubble Fun tennis</Name>
+    <Description>Bubble Fun Play Set 
+This bubble fun play set comes with an assortment of bubble makers along with a bottle of bubble solution and a solution tray. There's about 3 ounces of solution in a recloseable bottle that has ingredients on it's label. Other than the standard bubble wand, there are racquets, different styles of blow pipes, and shaped wands like circle, heart, and star. Assortments come in brilliant neon colors. The set comes in blister card package. Colors may vary. Not recommended for children under 3. 
+</Description>
+    <UPC>6392777585</UPC>
+    <Price>1.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>2</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-27T16:00:23.203125-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>7</ID>
+    <categoryID>-1</categoryID>
+    <Name>Bubble Fun tennis</Name>
+    <Description>Bubble Fun Play Set 
+This bubble fun play set comes with an assortment of bubble makers along with a bottle of bubble solution and a solution tray. There's about 3 ounces of solution in a recloseable bottle that has ingredients on it's label. Other than the standard bubble wand, there are racquets, different styles of blow pipes, and shaped wands like circle, heart, and star. Assortments come in brilliant neon colors. The set comes in blister card package. Colors may vary. Not recommended for children under 3.</Description>
+    <UPC>6392777585</UPC>
+    <Price>3.5</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>2</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-27T16:00:33.21875-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>8</ID>
+    <categoryID>-1</categoryID>
+    <Name>Bubbles Play Set</Name>
+    <Description>Bubble Fun Play Set 
+This bubble fun play set comes with an assortment of bubble makers along with a bottle of bubble solution and a solution tray. There's about 3 ounces of solution in a recloseable bottle that has ingredients on it's label. Other than the standard bubble wand, there are racquets, different styles of blow pipes, and shaped wands like circle, heart, and star. Assortments come in brilliant neon colors. The set comes in blister card package. Colors may vary. Not recommended for children under 3.</Description>
+    <UPC>639277645173</UPC>
+    <Price>3.5</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>2</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-27T16:01:57.359375-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>9</ID>
+    <categoryID>-1</categoryID>
+    <Name>Winnie the Pooh buble set</Name>
+    <Description>Winnie The Pooh Bubble Wand Set 1 Winnie the Pooh Bubbles 1 Tray 1 Wand </Description>
+    <UPC>6392777586</UPC>
+    <Price>3.5</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>dollar tree</Manufacturer>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\winniebubble.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-27T16:07:09.78125-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>10</ID>
+    <categoryID>-1</categoryID>
+    <Name>Disney Bubble Wand</Name>
+    <Description>Make some unique bubbles with this Disney's Cars 2 or Disney Fairies Bubble Wand and Pan set. Includes 1 bubble want with pan and 2 oz. of bubble solution. Not intended for children under age 3.</Description>
+    <UPC>6392770933</UPC>
+    <Price>3.5</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>dollar tree</Manufacturer>
+    <Quantity>2</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-27T16:11:32.609375-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>11</ID>
+    <categoryID>-1</categoryID>
+    <Name>7up</Name>
+    <Description>16.9fl oz bottle 7up</Description>
+    <UPC>0780000121</UPC>
+    <Price>1.25</Price>
+    <WholesalePrice>0.8</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>false</active>
+    <displayOnWeb>false</displayOnWeb>
+    <DateCreated>2012-04-27T17:47:40.0625-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>12</ID>
+    <categoryID>-1</categoryID>
+    <Name>Pepsi</Name>
+    <Description>16.9 fl oz</Description>
+    <UPC>0120005040</UPC>
+    <Price>1.25</Price>
+    <WholesalePrice>0.8</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>false</active>
+    <displayOnWeb>false</displayOnWeb>
+    <DateCreated>2012-04-27T17:48:51.109375-06:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

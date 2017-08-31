@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <CashRegisterDrawer>
+    <ID>1</ID>
+    <amount>0</amount>
+    <Description>Drawer opened to give change</Description>
+    <DateCreated>2012-05-15T16:07:39.25-06:00</DateCreated>
+  </CashRegisterDrawer>
+  <CashRegisterDrawer>
+    <ID>2</ID>
+    <amount>3.23</amount>
+    <Description>Cash Transaction for $3.23</Description>
+    <DateCreated>2012-05-15T17:11:15.59375-06:00</DateCreated>
+  </CashRegisterDrawer>
+  <CashRegisterDrawer>
+    <ID>3</ID>
+    <amount>0</amount>
+    <Description>Drawer opened to give change</Description>
+    <DateCreated>2012-05-15T17:24:02.390625-06:00</DateCreated>
+  </CashRegisterDrawer>
+  <CashRegisterDrawer>
+    <ID>4</ID>
+    <amount>0.43</amount>
+    <Description>Cash Transaction for $0.43</Description>
+    <DateCreated>2012-05-15T18:37:49.578125-06:00</DateCreated>
+  </CashRegisterDrawer>
+</NewDataSet>

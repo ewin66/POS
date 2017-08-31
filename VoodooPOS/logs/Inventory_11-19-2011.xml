@@ -1,0 +1,183 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>38</ID>
+    <Name>Build-a-Buddy Brown Bear</Name>
+    <Description />
+    <UPC>747482110604</UPC>
+    <Price>17.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-11-19T12:44:07.09375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>36</ID>
+    <Name>Build-a-Buddy Light Brown Bear</Name>
+    <Description />
+    <UPC>0747482110601</UPC>
+    <Price>17.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-11-19T12:44:21.0625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>37</ID>
+    <Name>Build-a-Buddy Rabbit</Name>
+    <Description />
+    <UPC>747482110994</UPC>
+    <Price>17.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-11-19T12:44:32.015625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>35</ID>
+    <Name>Build-a-Buddy Tiger</Name>
+    <Description />
+    <UPC>0747482110710</UPC>
+    <Price>17.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-11-19T12:44:41-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>34</ID>
+    <Name>Build-a-Buddy Wolf</Name>
+    <Description />
+    <UPC>0747482111410</UPC>
+    <Price>17.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-11-19T12:44:47.3125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>999999</ID>
+    <Name>Build-a-Buddy Princess Outfit</Name>
+    <Description />
+    <UPC />
+    <Price>10.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-11-19T15:19:58.46875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>999999</ID>
+    <Name>Build-a-Buddy King Outfit</Name>
+    <Description />
+    <UPC />
+    <Price>9.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-11-19T15:20:29.796875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>999999</ID>
+    <Name>Build-a-Buddy Rasta Outfit</Name>
+    <Description />
+    <UPC />
+    <Price>8.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-11-19T15:20:51.625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>999999</ID>
+    <Name>Build-a-Buddy Hippie Girl Outfit</Name>
+    <Description />
+    <UPC />
+    <Price>8.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-11-19T15:21:22.625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>68</ID>
+    <Name>Connect 4</Name>
+    <Description />
+    <UPC>0653569442417</UPC>
+    <Price>26.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>4</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-11-19T15:21:50.546875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>65</ID>
+    <Name>Ouija</Name>
+    <Description />
+    <UPC>0073000006006</UPC>
+    <Price>29.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-11-19T15:22:04.8125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>62</ID>
+    <Name>Lego City Camper</Name>
+    <Description />
+    <UPC>0673419112482</UPC>
+    <Price>29.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>3</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-11-19T17:15:41.1875-07:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

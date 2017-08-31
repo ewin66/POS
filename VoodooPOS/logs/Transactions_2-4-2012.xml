@@ -1,0 +1,388 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_11:42 AM</Name>
+    <Description>Credit Transaction</Description>
+    <Price>16.45</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-02-04T11:42:30.484375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>2</ID>
+    <categoryID>-1</categoryID>
+    <Name>Bewildering Magic</Name>
+    <UPC>0639277015631</UPC>
+    <Price>4.65</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-04T11:42:30.640625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>3</ID>
+    <categoryID>-1</categoryID>
+    <Name>X Stream Internal Wing Aircraft</Name>
+    <UPC>0085761077683</UPC>
+    <Price>6.75</Price>
+    <WholesalePrice>3</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-04T11:42:30.84375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>4</ID>
+    <categoryID>-1</categoryID>
+    <Name>Gift Wrap Birthday</Name>
+    <Price>3.75</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-04T11:42:42.015625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>5</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_12:39 PM</Name>
+    <Description>Credit Transaction</Description>
+    <Price>5.69</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-02-04T12:39:08.5625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>6</ID>
+    <categoryID>-1</categoryID>
+    <Name>Gazz-it!</Name>
+    <UPC>694744226262</UPC>
+    <Price>1.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-04T12:39:09.921875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>7</ID>
+    <categoryID>-1</categoryID>
+    <Name>Zombie Zack</Name>
+    <UPC>0085761142749</UPC>
+    <Price>3.25</Price>
+    <WholesalePrice>1.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-04T12:39:10.0625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>8</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_12:44 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>4.29</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-02-04T12:44:48.859375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>9</ID>
+    <categoryID>-1</categoryID>
+    <Name>Leisure Time Books</Name>
+    <UPC>0088908490000</UPC>
+    <Price>3.95</Price>
+    <WholesalePrice>1.25</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-04T12:44:48.953125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>10</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_1:37 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>17.57</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-02-04T13:37:29.296875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>11</ID>
+    <categoryID>-1</categoryID>
+    <Name>Wild West Handcuffs</Name>
+    <UPC>0085761036024</UPC>
+    <Price>12.95</Price>
+    <WholesalePrice>3.5</WholesalePrice>
+    <SalePrice>9.25</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-04T13:37:29.4375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>12</ID>
+    <categoryID>-1</categoryID>
+    <Name>1.99 Barrel</Name>
+    <Price>1.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-04T13:37:53.390625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>13</ID>
+    <categoryID>-1</categoryID>
+    <Name>Party Favor Bags</Name>
+    <UPC>085761088856</UPC>
+    <Price>1.25</Price>
+    <WholesalePrice>0.4</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-04T13:37:54.25-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>14</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_1:51 PM</Name>
+    <Description>Credit Transaction</Description>
+    <Price>17.62</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-02-04T13:51:21.078125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>15</ID>
+    <categoryID>-1</categoryID>
+    <Name>Jupiter Juice</Name>
+    <UPC>0085761089921</UPC>
+    <Price>3.5</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>2</Quantity>
+    <DateCreated>2012-02-04T13:51:21.15625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>16</ID>
+    <categoryID>-1</categoryID>
+    <Name>Candy Snickers Bar</Name>
+    <UPC>04010207</UPC>
+    <Price>1.25</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-04T13:51:21.3125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>17</ID>
+    <categoryID>-1</categoryID>
+    <Name>Valentine's Cards 12 piece</Name>
+    <Price>1.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-04T13:51:26.484375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>18</ID>
+    <categoryID>-1</categoryID>
+    <Name>Valentine's Day Cards Whack A Pack</Name>
+    <Price>0.5</Price>
+    <WholesalePrice>0.25</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>8</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-04T13:51:26.609375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>19</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_1:55 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>4.61</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-02-04T13:55:40.0625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>20</ID>
+    <categoryID>-1</categoryID>
+    <Name>Magic Innistrad Booster Pack</Name>
+    <UPC>0653569656715</UPC>
+    <Price>4.25</Price>
+    <WholesalePrice>2.2</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Southern Hobby Christina</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-04T13:55:40.140625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>21</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_2:06 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>5.43</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-02-04T14:06:09.328125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>22</ID>
+    <categoryID>-1</categoryID>
+    <Name>Hot Wheels</Name>
+    <UPC>0027084944341</UPC>
+    <Price>2.5</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-04T14:06:30.765625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>23</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_2:49 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>0.81</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-02-04T14:49:59.9375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>24</ID>
+    <categoryID>-1</categoryID>
+    <Name>Candy Sour Gecko</Name>
+    <UPC>813805005183</UPC>
+    <Price>0.75</Price>
+    <WholesalePrice>0.3</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-04T14:50:00.53125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>25</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_3:31 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>9.23</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-02-04T15:31:31.265625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>26</ID>
+    <categoryID>-1</categoryID>
+    <Name>Magic Innistrad Booster Pack</Name>
+    <UPC>0653569656715</UPC>
+    <Price>4.25</Price>
+    <WholesalePrice>2.2</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Southern Hobby Christina</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-04T15:31:31.359375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>27</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_3:32 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>9.23</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-02-04T15:32:00.609375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>28</ID>
+    <categoryID>-1</categoryID>
+    <Name>Magic Innistrad Booster Pack</Name>
+    <UPC>0653569656715</UPC>
+    <Price>4.25</Price>
+    <WholesalePrice>2.2</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Southern Hobby Christina</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-04T15:32:00.703125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>29</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_3:33 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>0</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-02-04T15:33:56.828125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>30</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_3:44 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>0</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-02-04T15:44:24.015625-07:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

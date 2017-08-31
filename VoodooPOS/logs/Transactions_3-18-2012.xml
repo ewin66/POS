@@ -1,0 +1,710 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_11:00 AM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>7.59</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-18T11:00:12.96875-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>2</ID>
+    <categoryID>-1</categoryID>
+    <Name>Spell Candle</Name>
+    <Description>Burn these candles for love, money, good luck, health, or creativity.</Description>
+    <Price>6.99</Price>
+    <WholesalePrice>1.25</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-18T11:00:13.25-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>3</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_11:01 AM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>5.96</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-18T11:01:42.4375-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>4</ID>
+    <categoryID>-1</categoryID>
+    <Name>Blue Mouth Sweets</Name>
+    <UPC>0031828010353</UPC>
+    <Price>1.75</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>2</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-18T11:01:42.671875-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>5</ID>
+    <categoryID>-1</categoryID>
+    <Name>Gazz-it!</Name>
+    <UPC>694744226262</UPC>
+    <Price>1.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>1</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-18T11:02:06.328125-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>6</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_11:10 AM</Name>
+    <Description>Credit Transaction</Description>
+    <Price>16.81</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-18T11:10:45.140625-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>7</ID>
+    <categoryID>-1</categoryID>
+    <Name>Dinosaur playmat</Name>
+    <UPC>858109001431</UPC>
+    <Description>The ZipBin Mini Dinosaur toy tote 's dramatic exterior identifies the contents and is the perfect size for travel. When the bin is unzipped, it becomes a dinosaur island Playscape™! 
+
+This activity mat is perfect for playing with dinosaurs, animals, vehicles, boats, action figures, etc. Fantasy play is encouraged by a prehistoric world featuring a volcano, a river, a tar pit and a mysterious cave.
+
+When play is done, the Playscape™ becomes a toy bin in a zip, capturing the toys inside for easy clean up! This mini Playset includes three dinosaurs.</Description>
+    <Price>12.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Neat Oh Heidi</Manufacturer>
+    <Quantity>1</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-18T11:10:45.390625-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>8</ID>
+    <categoryID>-1</categoryID>
+    <Name>Gift Bag Medium</Name>
+    <Price>2.5</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-18T11:10:53.765625-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>9</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_11:27 AM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>14.06</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-18T11:27:14.84375-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>10</ID>
+    <categoryID>-1</categoryID>
+    <Name>Fishing Game</Name>
+    <UPC>0084358044480</UPC>
+    <Price>12.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-18T11:27:15.078125-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>11</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_11:29 AM</Name>
+    <Description>Credit Transaction</Description>
+    <Price>19.43</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-18T11:29:16.265625-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>12</ID>
+    <categoryID>-1</categoryID>
+    <Name>Build-a-Buddy Hippie girl outfit</Name>
+    <UPC>747482600655</UPC>
+    <Price>8.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>2</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-18T11:29:16.5-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>13</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_11:29 AM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>11.89</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-18T11:29:47.015625-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>14</ID>
+    <categoryID>-1</categoryID>
+    <Name>Build-a-Buddy Princess outfit</Name>
+    <UPC>839880004958</UPC>
+    <Price>10.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-18T11:29:47.265625-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>15</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_11:34 AM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>15.25</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-18T11:34:48.546875-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>16</ID>
+    <categoryID>-1</categoryID>
+    <Name>Build-a-Buddy Princess outfit</Name>
+    <UPC>839880004958</UPC>
+    <Price>10.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-18T11:34:48.796875-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>17</ID>
+    <categoryID>-1</categoryID>
+    <Name>incense stick</Name>
+    <Description>sticks of fragrant incense</Description>
+    <Price>0.2</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Benjamin International</Manufacturer>
+    <Quantity>3</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-18T11:34:49.1875-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>18</ID>
+    <categoryID>-1</categoryID>
+    <Name>Matchbox</Name>
+    <UPC>0035995307827</UPC>
+    <Price>2.5</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>1</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-18T11:35:00.171875-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>19</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_12:00 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>2.71</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-18T12:00:46.453125-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>20</ID>
+    <categoryID>-1</categoryID>
+    <Name>Mary's Soft Dough Banana</Name>
+    <UPC>NA</UPC>
+    <Price>2.5</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-18T12:00:46.703125-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>21</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_12:28 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>75.93</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-18T12:28:45.953125-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>22</ID>
+    <categoryID>-1</categoryID>
+    <Name>Build A Buddy 5 or more</Name>
+    <Price>13.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>5</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>false</displayOnWeb>
+    <DateCreated>2012-03-18T12:29:04.984375-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>23</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_12:42 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>13.02</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-18T12:42:13.125-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>24</ID>
+    <categoryID>-1</categoryID>
+    <Name>Space Saber</Name>
+    <UPC>0075656006867</UPC>
+    <Price>11.99</Price>
+    <WholesalePrice>5.95</WholesalePrice>
+    <SalePrice>8.5</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-18T12:42:13.375-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>25</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_12:49 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>2.16</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-18T12:49:36.03125-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>26</ID>
+    <categoryID>-1</categoryID>
+    <Name>ribbon</Name>
+    <Price>1.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-18T12:49:36.046875-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>27</ID>
+    <categoryID>-1</categoryID>
+    <Name>1.99 Barrel</Name>
+    <UPC>NA</UPC>
+    <Price>1.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-18T12:49:46.3125-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>28</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_12:50 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>2.16</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-18T12:50:02.296875-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>29</ID>
+    <categoryID>-1</categoryID>
+    <Name>1.99 Barrel</Name>
+    <UPC>NA</UPC>
+    <Price>1.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-18T12:50:15.78125-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>30</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_12:50 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>2.16</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-18T12:50:48.28125-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>31</ID>
+    <categoryID>-1</categoryID>
+    <Name>1.99 Barrel</Name>
+    <UPC>NA</UPC>
+    <Price>1.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-18T12:51:20.21875-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>32</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_12:54 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>4.32</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-18T12:54:26.578125-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>33</ID>
+    <categoryID>-1</categoryID>
+    <Name>1.99 Barrel</Name>
+    <UPC>NA</UPC>
+    <Price>1.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>2</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-18T12:54:46.984375-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>34</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_2:52 PM</Name>
+    <Description>Credit Transaction</Description>
+    <Price>42.32</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-18T14:52:43.109375-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>35</ID>
+    <categoryID>-1</categoryID>
+    <Name>Select/Scan an Item</Name>
+    <Price>0</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-18T14:52:43.484375-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>36</ID>
+    <categoryID>-1</categoryID>
+    <Name>Lego Star Wars Lukes Landspeeder</Name>
+    <UPC>673419129084</UPC>
+    <Description>Adventure on Tatooine…where it all began! 
+
+Recreate Luke Skywalker’s Jedi adventure with this special-edition set, a must-have for every serious Star Wars collector! 
+
+Adventure on Tatooine…where it all began! 
+
+When he drove the old hermit Ben Kenobi into Mos Eisley spaceport, young farm boy Luke Skywalker™ had no idea that he would end up becoming a Jedi Knight and saving the galaxy. Recreate the moment the adventure began with this special-edition set, featuring an landspeeder vehicle with a secret lightsaber compartment, a cast of droids and heroes, and a sandtrooper guard with a security droid. Are these the droids he’s looking for?
+
+
+•Special Edition set every serious collector must have
+•Includes Luke Skywalker, Obi-Wan Kenobi™, R2-D2™, C-3PO™ and sandtrooper
+•New landspeeder vehicle conceals secret lightsaber compartment
+•Sandtrooper guard with security droid
+•Measures over 6" (15cm) long, over 2" (5cm) wide and over 2" (5cm) tall</Description>
+    <Price>38.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-18T14:52:43.953125-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>37</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_3:20 PM</Name>
+    <Description>Credit Transaction</Description>
+    <Price>7.59</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-18T15:20:52.171875-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>38</ID>
+    <categoryID>-1</categoryID>
+    <Name>Select/Scan an Item</Name>
+    <Price>0</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-18T15:20:52.734375-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>39</ID>
+    <categoryID>-1</categoryID>
+    <Name>Snuggle Baby</Name>
+    <UPC>0085761121027</UPC>
+    <Price>6.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-18T15:20:53.46875-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>40</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_3:22 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>1.63</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-18T15:22:59.3125-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>41</ID>
+    <categoryID>-1</categoryID>
+    <Name>incense stick</Name>
+    <Description>sticks of fragrant incense</Description>
+    <Price>0.2</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Benjamin International</Manufacturer>
+    <Quantity>5</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-18T15:23:00.390625-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>42</ID>
+    <categoryID>-1</categoryID>
+    <Name>Valentine's Day Cards Whack A Pack</Name>
+    <UPC>NA</UPC>
+    <Price>0.5</Price>
+    <WholesalePrice>0.25</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-18T15:23:01.953125-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>43</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_4:10 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>3.8</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-18T16:10:41.0625-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>44</ID>
+    <categoryID>-1</categoryID>
+    <Name>Select/Scan an Item</Name>
+    <Price>0</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-18T16:10:41.5-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>45</ID>
+    <categoryID>-1</categoryID>
+    <Name>Mini Touchable Bubbles</Name>
+    <UPC>085761044296</UPC>
+    <Price>1.75</Price>
+    <WholesalePrice>0.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>2</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-18T16:10:41.875-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>46</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_4:19 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>0.54</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-18T16:19:06.53125-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>47</ID>
+    <categoryID>-1</categoryID>
+    <Name>Select/Scan an Item</Name>
+    <Price>0</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-18T16:19:06.96875-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>48</ID>
+    <categoryID>-1</categoryID>
+    <Name>Candy Canes Individual</Name>
+    <UPC>NA</UPC>
+    <Price>0.5</Price>
+    <WholesalePrice>0.9</WholesalePrice>
+    <SalePrice>0.25</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-18T16:19:07.34375-06:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

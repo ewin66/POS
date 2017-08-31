@@ -1,0 +1,363 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>108</ID>
+    <Name>Slam Shot Rocket</Name>
+    <Description />
+    <UPC>0085761015128</UPC>
+    <Price>15.25</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-03T15:47:06.484375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>114</ID>
+    <Name>Blast Bow</Name>
+    <Description />
+    <UPC>085761015357</UPC>
+    <Price>24.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-03T15:49:58.71875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>61</ID>
+    <Name>Lego Kingdoms Escape from Dragon's Prison</Name>
+    <Description />
+    <UPC>0673419145077</UPC>
+    <Price>34.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>4</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-03T15:51:28.125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>17</ID>
+    <Name>Rubber band shooter</Name>
+    <Description />
+    <UPC>0085761025288</UPC>
+    <Price>12.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-03T15:52:23.75-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>113</ID>
+    <Name>Super Stacking Tops</Name>
+    <Description />
+    <UPC>085761063655</UPC>
+    <Price>15.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-03T15:53:57-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>9</ID>
+    <Name>Science Magic</Name>
+    <Description />
+    <UPC>0085761076020</UPC>
+    <Price>18.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-03T15:54:11.25-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>107</ID>
+    <Name>Friendship Bracelet Kit</Name>
+    <Description />
+    <UPC>085761081505</UPC>
+    <Price>8.25</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>18</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-03T15:55:43.546875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>212</ID>
+    <Name>Touch Light Star</Name>
+    <Description />
+    <UPC />
+    <Price>4.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-03T15:56:06-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>97</ID>
+    <Name>Cosmic Thruster</Name>
+    <Description />
+    <UPC>085761052994</UPC>
+    <Price>24.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-03T15:56:58.421875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>215</ID>
+    <Name>Gift Wrap Birthday</Name>
+    <Description />
+    <UPC />
+    <Price>3.75</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-03T16:02:46.484375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>220</ID>
+    <Name>Party Hats Balloons</Name>
+    <Description />
+    <UPC />
+    <Price>4.5</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-03T16:03:51.796875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>223</ID>
+    <Name>Party Favor Blowouts Balloons</Name>
+    <Description />
+    <UPC />
+    <Price>4.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-03T16:07:30.015625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>84</ID>
+    <Name>Cash Register</Name>
+    <Description />
+    <UPC>0085761066403</UPC>
+    <Price>34.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>4</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-03T16:13:30.265625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>195</ID>
+    <Name>Party Band 10 Piece set</Name>
+    <Description />
+    <UPC />
+    <Price>15.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>4</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-03T16:13:41.59375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>109</ID>
+    <Name>Medical Set</Name>
+    <Description />
+    <UPC>0062243181977</UPC>
+    <Price>26.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-03T16:14:15.25-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>220</ID>
+    <Name>Party Hats Balloons</Name>
+    <Description />
+    <UPC />
+    <Price>4.5</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-03T16:14:52.203125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>100</ID>
+    <Name>Punch Ball</Name>
+    <Description />
+    <UPC>085761027275</UPC>
+    <Price>3.5</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>24</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-03T16:38:16.8125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>236</ID>
+    <Name>Hot Wheels Rinse and Race</Name>
+    <Description />
+    <UPC />
+    <Price>27.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>3</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-03T16:38:44.609375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>217</ID>
+    <Name>Hot Wheels Sky Jump</Name>
+    <Description />
+    <UPC />
+    <Price>56.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-03T16:39:11.875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>235</ID>
+    <Name>Hot Wheels Zero G Drop Force Track Set</Name>
+    <Description />
+    <UPC />
+    <Price>38.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>3</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-03T16:39:38.34375-07:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

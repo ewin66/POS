@@ -1,0 +1,116 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <categoryID>-1</categoryID>
+    <Name>Elefun</Name>
+    <Description>When Elefun blows his trunk, butterflies fly into the air. This very cute baby elephant will have your children and their friends jumping with joy as they scramble to collect the most butterflies. With one deep breath and a few huffs and puffs the elephant blows his 4' trunk, sending colourful butterflies spiralling high into the air. You never know where they will tumble to, so grab your net and get ready to start catching! Elefun lets your children practice their catching skills with the handy butterfly nets. Or, if they haven't quite got the hang of swinging the net around yet, they can still win the game by quickly gathering up the butterflies from the floor. Win or lose, Elefun is a game that will keep them entertained every time. Suitable for up to 4 players aged 3 years and over, Elefun requires 4 x C batteries (not included).</Description>
+    <UPC>653569372455</UPC>
+    <Price>24.99</Price>
+    <WholesalePrice>10</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toys r us</Manufacturer>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\elefun.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-05-27T12:32:00.828125-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>2</ID>
+    <categoryID>-1</categoryID>
+    <Name>Chess</Name>
+    <Description>Test your command of logic and strategy against your friends in this Chess and Checkers tin set from Pavilion, a Toys 'R' Us exclusive. Among the world's oldest and most widely played games, Chess and Checkers can be played by just about anyone, anywhere. The board, 32 chess pieces, and 24 checker pieces are all made from attractive polished wood. Board dimensions: 10" x 10". Tin dimensions: 10.5"L x 10.5"W x 3"H. Weight: 3 lbs.
+</Description>
+    <UPC>755482164510</UPC>
+    <Price>22.95</Price>
+    <WholesalePrice>10</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toys r us</Manufacturer>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\chess.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-05-27T12:43:02.8125-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>3</ID>
+    <categoryID>-1</categoryID>
+    <Name>wood chopping set</Name>
+    <Description>The Campfire Kids Wood Chopping Set brings the great outdoors ... indoors.
+Young lumberjacks can test their mettle splitting this reusable break-apart log. Take the axe and give it a swing to chop the log in half, and then snap it back together for more log splittin' fun. The easy chopping action makes it safe and easy to use. Ages 3 and up.
+</Description>
+    <UPC>735569510058</UPC>
+    <Price>19.99</Price>
+    <WholesalePrice>7.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toys r us</Manufacturer>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\woodchopset.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-05-27T14:53:04.296875-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>4</ID>
+    <categoryID>-1</categoryID>
+    <Name>Campfire lantern</Name>
+    <Description>The Campfire Kids Lantern brings the great outdoors... indoors! As the sun sets, the fun just begins! This cool lantern features cool and bright LED lights for hours of illumination. And with the flip of a switch, your campsite comes to life with real night time nature sounds. Hear howling wolves, croaking frogs, chirping crickets and more. </Description>
+    <UPC>735569510041</UPC>
+    <Price>26.95</Price>
+    <WholesalePrice>14.99</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toys r us</Manufacturer>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\camplantern.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-05-27T15:00:48.03125-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>5</ID>
+    <categoryID>-1</categoryID>
+    <Name>Campfire roasting sticks</Name>
+    <Description>The Campfire Kids Roasting Sticks set brings the great outdoors ... indoors.
+Now let's get cookin'! No Campfire Kids camping experience is complete without a traditional hot dog and marshmallow roast! This sizzlin' set equips the junior campers with two sticks for roasting up two plump hot dogs and toasting up two marshmallows. Use them with or without the special Campfire Kids campfire (sold separately). Ages 3 and up.
+
+</Description>
+    <UPC>735569510027</UPC>
+    <Price>12.99</Price>
+    <WholesalePrice>5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toys r us</Manufacturer>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\roastingsticks.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-05-27T15:12:20.390625-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>6</ID>
+    <categoryID>-1</categoryID>
+    <Name>log cabin tent</Name>
+    <Description>•Rustic log cabin design
+•Sits on bed or floor
+•Easy to set up
+•Locking Velcro® doorway
+•See-through mesh windows
+Set up this Insect Lore Campfire Kids Log Cabin Tent on your bed or floor for a true outdoor experience! Showcasing a rustic design, this durable Log Cabin Tent boasts a locking Velcro doorway and see-through mesh windows. This Campfire Kids Tent makes a great gift! Ages three and up.</Description>
+    <UPC>735569510096</UPC>
+    <Price>38.99</Price>
+    <WholesalePrice>29.99</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toy s r us</Manufacturer>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\cabintent.gif</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-05-27T15:26:36.46875-06:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

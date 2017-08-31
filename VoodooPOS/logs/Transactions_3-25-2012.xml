@@ -1,0 +1,410 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_1:18 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>4.33</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-25T13:18:21.953125-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>2</ID>
+    <categoryID>-1</categoryID>
+    <Name>FBI Action Play Set</Name>
+    <UPC>639277193407</UPC>
+    <Price>3.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>1</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-25T13:18:22.453125-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>3</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_1:27 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>4.32</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-25T13:27:30.296875-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>4</ID>
+    <categoryID>-1</categoryID>
+    <Name>Candy Worlds Biggest Candy Necklace</Name>
+    <Description>Necklace measures 30 ½ “long and contains 120 pieces of candy.</Description>
+    <UPC>632365385005</UPC>
+    <Price>2.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\InventoryImages\candynecklace.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-25T13:27:30.6875-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>5</ID>
+    <categoryID>-1</categoryID>
+    <Name>Candy Gummi Pizza</Name>
+    <UPC>813805005060</UPC>
+    <Price>0.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-25T13:27:31.421875-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>6</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_2:25 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>0.22</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-25T14:25:53.921875-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>7</ID>
+    <categoryID>-1</categoryID>
+    <Name>incense stick</Name>
+    <Description>sticks of fragrant incense</Description>
+    <Price>0.2</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Benjamin International</Manufacturer>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-25T14:25:54.234375-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>8</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_2:41 PM</Name>
+    <Description>Credit Transaction</Description>
+    <Price>16.55</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-25T14:41:14.3125-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>9</ID>
+    <categoryID>-1</categoryID>
+    <Name>Slam Shot Rocket</Name>
+    <UPC>0085761015128</UPC>
+    <Price>15.25</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-25T14:41:14.625-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>10</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_2:51 PM</Name>
+    <Description>Credit Transaction</Description>
+    <Price>43.4</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-25T14:51:02.25-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>11</ID>
+    <categoryID>-1</categoryID>
+    <Name>Lego Friends Mia's puppy house</Name>
+    <Description>Primp Mia’s puppy and win first place! 
+
+
+It’s almost time for the Heartlake Dog Show and Mia is getting her puppy groomed and ready. Use the soap, spray bottle and tub to help Mia give her puppy a bath! Brush its hair on the grooming table and dress it up with a pretty bow. Head out to the puppy parade and win a first prize ribbon to hang on the puppy’s house! All of the LEGO® Friends will be so proud to watch her compete! Includes Mia mini-doll figure and puppy.
+
+
+•Includes Mia mini-doll figure and puppy Charlie
+•Features grooming table, tub, puppy house and apple tree
+•Accessories include a plate, bone, bows, prizes, spray bottle, soap and brushes
+•Wash and feed the puppy!
+•Brush the puppy and place the bow in its fur!
+•Win a prize ribbon and hang it on the puppy’s house!
+•LEGO® Friends pieces are fully compatible with all LEGO bricks
+•Collect all of the LEGO Friends sets for a whole world of LEGO Friends fun!
+•LEGO mini-dolls are LEGO minifigures made especially for the world of LEGO Friends with thousands of customizable hair and fashion combinations
+•Measures over 1” (5cm) tall, 3” (9cm) wide and 1” (5cm) long
+•Tree measures over 1” (5cm) tall and 2” (7cm) wide</Description>
+    <UPC>673419165778</UPC>
+    <Price>19.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>lego</Manufacturer>
+    <Quantity>1</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-25T14:51:02.59375-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>12</ID>
+    <categoryID>-1</categoryID>
+    <Name>Lego Freinds Olivia's Invention wrkshp</Name>
+    <Description>Explore a world of science fun in Olivia’s Invention Workshop! 
+
+
+Invent something amazing with Olivia! Head down to Olivia’s Invention Workshop to help her create a remote-controlled pet robot! Olivia loves tinkering with her toys to make cool creations. Write plans on the chalkboard and examine crystal under the microscope. Use the power tools to put the robot together then oil him with the oil can! Work on parts for new inventions in the vice or on the workbench, then store it all away in the shelves and rack of chemist jars. Includes Olivia mini-doll figure.
+
+
+•Includes Olivia mini-doll figure
+•Features workbench, microscope, chalkboard, small rack and pet robot
+•Accessories include power tools, crystal, chemist jars and oil can
+•Build a pet robot with remote control!
+•Create wild inventions to help all of the LEGO® Friends!
+•Plan new creations on the chalkboard!
+•Work on a science project with the power tools and workbench!
+•LEGO Friends pieces are fully compatible with all LEGO bricks
+•Collect all of the LEGO Friends sets for a whole world of LEGO Friends fun!
+•LEGO mini-dolls are LEGO minifigures made especially for the world of LEGO Friends with thousands of customizable hair and fashion combinations
+•Workbench measures over 1” (4cm) tall and 2” (6cm) wide
+•Shelving unit measures over 1” (5cm) tall and 1” (4cm) wide</Description>
+    <UPC>673419165754</UPC>
+    <Price>19.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>lego</Manufacturer>
+    <Quantity>1</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-25T14:51:03.25-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>13</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_4:00 PM</Name>
+    <Description>Credit Transaction</Description>
+    <Price>12.96</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-25T16:00:11.59375-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>14</ID>
+    <categoryID>-1</categoryID>
+    <Name>Card Games</Name>
+    <UPC>639277040824</UPC>
+    <Price>0.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>4</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-25T16:00:19.15625-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>15</ID>
+    <categoryID>-1</categoryID>
+    <Name>Mystical Garden</Name>
+    <UPC>0085761012882</UPC>
+    <Price>5.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>1</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-25T16:00:19.84375-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>16</ID>
+    <categoryID>-1</categoryID>
+    <Name>Mini Magic Baby Bottle</Name>
+    <UPC>08576105436</UPC>
+    <Price>1.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-25T16:00:20.46875-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>17</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_4:58 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>12.34</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-25T16:58:53.59375-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>18</ID>
+    <categoryID>-1</categoryID>
+    <Name>incense stick</Name>
+    <Description>sticks of fragrant incense</Description>
+    <Price>0.2</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Benjamin International</Manufacturer>
+    <Quantity>12</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-25T16:58:53.875-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>19</ID>
+    <categoryID>-1</categoryID>
+    <Name>Spell Candle</Name>
+    <Description>Burn these candles for love, money, good luck, health, or creativity.</Description>
+    <Price>6.99</Price>
+    <WholesalePrice>1.25</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-25T16:58:54.171875-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>20</ID>
+    <categoryID>-1</categoryID>
+    <Name>Incy Bincies Singles</Name>
+    <UPC>NA</UPC>
+    <Price>0.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>2</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-25T16:59:09.46875-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>21</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_5:00 PM</Name>
+    <Description>Credit Transaction</Description>
+    <Price>15.18</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-25T17:00:57.703125-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>22</ID>
+    <categoryID>-1</categoryID>
+    <Name>Spell Candle</Name>
+    <Description>Burn these candles for love, money, good luck, health, or creativity.</Description>
+    <Price>6.99</Price>
+    <WholesalePrice>1.25</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>2</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-25T17:00:57.953125-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>23</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_5:02 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>7.59</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-25T17:02:49.5-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>24</ID>
+    <categoryID>-1</categoryID>
+    <Name>Magnets and More set</Name>
+    <Description>Magnet Set . Fun and educational, this set includes eight assorted magnets and five paperclips for magnetic experiments..</Description>
+    <UPC>0622432363560</UPC>
+    <Price>6.99</Price>
+    <WholesalePrice>2</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-25T17:02:49.765625-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>25</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_5:03 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>0</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-25T17:03:13.78125-06:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

@@ -1,0 +1,867 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>12</ID>
+    <Name>Galaxy Grabber</Name>
+    <Description />
+    <UPC>0085761061354</UPC>
+    <Price>5.99</Price>
+    <WholesalePrice>2.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-12T15:04:20.609375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>18</ID>
+    <Name>Snuggle Baby</Name>
+    <Description />
+    <UPC>0085761121027</UPC>
+    <Price>6.99</Price>
+    <WholesalePrice>3.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-12T15:05:56.3125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>48</ID>
+    <Name>Magic Mic</Name>
+    <Description />
+    <UPC />
+    <Price>4.5</Price>
+    <WholesalePrice>1.75</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-12T15:10:39.25-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>19</ID>
+    <Name>Foam Pirate Sword</Name>
+    <Description>This soft and safe foam pirate sword features a 25 inch long blade.</Description>
+    <UPC>085761092280</UPC>
+    <Price>6.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>18</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-12T16:06:54.484375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>19</ID>
+    <Name>Foam Pirate Sword</Name>
+    <Description>This soft and safe foam pirate sword features a 25 inch long blade.</Description>
+    <UPC>085761092280</UPC>
+    <Price>6.99</Price>
+    <WholesalePrice>1.75</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>18</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-12T16:07:28.453125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>1</ID>
+    <Name>Space Saber</Name>
+    <Description />
+    <UPC>0075656006867</UPC>
+    <Price>11.99</Price>
+    <WholesalePrice>5.95</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>24</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-12T16:10:35.3125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>107</ID>
+    <Name>Friendship Bracelet Kit</Name>
+    <Description />
+    <UPC>085761081505</UPC>
+    <Price>6.99</Price>
+    <WholesalePrice>2.75</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>18</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-12T16:11:33.671875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>94</ID>
+    <Name>Bungee Watch</Name>
+    <Description />
+    <UPC>085761147287</UPC>
+    <Price>4.75</Price>
+    <WholesalePrice>2</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>24</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-12T16:12:31.359375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>24</ID>
+    <Name>Pocket Magic Crazy Cubes</Name>
+    <Description />
+    <UPC>0085761071513</UPC>
+    <Price>4.25</Price>
+    <WholesalePrice>1.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-12T16:13:40.84375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>25</ID>
+    <Name>Pocket Magic Dizzy Dice</Name>
+    <Description />
+    <UPC>0085761071520</UPC>
+    <Price>4.25</Price>
+    <WholesalePrice>1.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-12T16:14:16.9375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>27</ID>
+    <Name>Pocket Magic Finger Chopper</Name>
+    <Description />
+    <UPC>0085761071537</UPC>
+    <Price>4.5</Price>
+    <WholesalePrice>1.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-12T16:14:42.265625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>27</ID>
+    <Name>Pocket Magic Finger Chopper</Name>
+    <Description />
+    <UPC>0085761071537</UPC>
+    <Price>4.25</Price>
+    <WholesalePrice>1.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-12T16:14:58.5625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>24</ID>
+    <Name>Pocket Magic Crazy Cubes</Name>
+    <Description />
+    <UPC>0085761071513</UPC>
+    <Price>4.65</Price>
+    <WholesalePrice>1.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-12T16:15:29.015625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>29</ID>
+    <Name>Pocket Magic Rope Trick</Name>
+    <Description />
+    <UPC>0085761071564</UPC>
+    <Price>4.65</Price>
+    <WholesalePrice>1.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-12T16:15:50.09375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>25</ID>
+    <Name>Pocket Magic Dizzy Dice</Name>
+    <Description />
+    <UPC>0085761071520</UPC>
+    <Price>4.65</Price>
+    <WholesalePrice>1.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-12T16:16:08.296875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>29</ID>
+    <Name>Pocket Magic Rope Trick</Name>
+    <Description />
+    <UPC>0085761071564</UPC>
+    <Price>4.65</Price>
+    <WholesalePrice>1.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-12T16:16:21.125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>27</ID>
+    <Name>Pocket Magic Finger Chopper</Name>
+    <Description />
+    <UPC>0085761071537</UPC>
+    <Price>4.65</Price>
+    <WholesalePrice>1.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-12T16:16:35.140625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>28</ID>
+    <Name>Pocket Magic Magic Lock Box</Name>
+    <Description />
+    <UPC>0085761071551</UPC>
+    <Price>4.65</Price>
+    <WholesalePrice>1.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-12T16:16:59.671875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>26</ID>
+    <Name>Pocket Magic Pencil Slicer</Name>
+    <Description />
+    <UPC>0085761071568</UPC>
+    <Price>4.65</Price>
+    <WholesalePrice>1.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-12T16:17:27.484375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>11</ID>
+    <Name>Walkie Talkie</Name>
+    <Description />
+    <UPC>085761015340</UPC>
+    <Price>19.95</Price>
+    <WholesalePrice>7.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-12T16:19:27.09375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>84</ID>
+    <Name>Cash Register</Name>
+    <Description />
+    <UPC>0085761066403</UPC>
+    <Price>34.95</Price>
+    <WholesalePrice>15</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>4</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-12T16:20:37.828125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>15</ID>
+    <Name>Diabolo</Name>
+    <Description />
+    <UPC>0085761092174</UPC>
+    <Price>14.95</Price>
+    <WholesalePrice>5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>8</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-12T16:22:43.890625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>16</ID>
+    <Name>Dragons of Gaveroth</Name>
+    <Description />
+    <UPC>0085761033665</UPC>
+    <Price>6.25</Price>
+    <WholesalePrice>3</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-12T16:23:49.25-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>194</ID>
+    <Name>Happy Napper Doghouse</Name>
+    <Description />
+    <UPC />
+    <Price>19.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-12T16:25:19.46875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>128</ID>
+    <Name>Happy Nappers Dog House</Name>
+    <Description />
+    <UPC />
+    <Price>19.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-12T16:25:35.9375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>130</ID>
+    <Name>Happy Nappers Dragon Castle</Name>
+    <Description />
+    <UPC />
+    <Price>19.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>4</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-12T16:25:55.234375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>129</ID>
+    <Name>Happy Nappers Ladybug Bungalow</Name>
+    <Description />
+    <UPC />
+    <Price>19.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>3</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-12T16:26:20.859375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>131</ID>
+    <Name>Happy Nappers Princess Castle</Name>
+    <Description />
+    <UPC />
+    <Price>19.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-12T16:26:42.625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>113</ID>
+    <Name>Super Stacking Tops</Name>
+    <Description />
+    <UPC>085761063655</UPC>
+    <Price>9.5</Price>
+    <WholesalePrice>3</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-12T16:30:42.5-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>1</ID>
+    <Name>Space Saber</Name>
+    <Description />
+    <UPC>0075656006867</UPC>
+    <Price>11.99</Price>
+    <WholesalePrice>5.95</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>24</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-12T16:40:07.609375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>9</ID>
+    <Name>Science Magic</Name>
+    <Description />
+    <UPC>0085761076020</UPC>
+    <Price>16.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-12T16:40:44.640625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>9</ID>
+    <Name>Science Magic</Name>
+    <Description />
+    <UPC>0085761076020</UPC>
+    <Price>17.95</Price>
+    <WholesalePrice>6.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-12T16:41:45.390625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>9</ID>
+    <Name>Science Magic</Name>
+    <Description />
+    <UPC>0085761076020</UPC>
+    <Price>17.95</Price>
+    <WholesalePrice>6.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-12T16:41:48.71875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>19</ID>
+    <Name>Foam Pirate Sword</Name>
+    <Description>This soft and safe foam pirate sword features a 25 inch long blade.</Description>
+    <UPC>085761092280</UPC>
+    <Price>6.99</Price>
+    <WholesalePrice>1.75</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>18</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-12T16:42:15.78125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>261</ID>
+    <Name>Candy 3 pack Chocolate Holiday Characters</Name>
+    <Description />
+    <UPC />
+    <Price>3.5</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>16</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-12T16:44:49.171875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>262</ID>
+    <Name>Candy Cane Box</Name>
+    <Description />
+    <UPC />
+    <Price>3.5</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>3</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-12T16:45:08.046875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>263</ID>
+    <Name>Candy Canes Individual</Name>
+    <Description />
+    <UPC />
+    <Price>0.5</Price>
+    <WholesalePrice>0.9</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>36</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-12T16:45:31.359375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>265</ID>
+    <Name>Candy Chocolate Lentils Cane</Name>
+    <Description />
+    <UPC />
+    <Price>2.5</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>9</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-12T16:45:48.640625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>264</ID>
+    <Name>Candy Chocolate Santa</Name>
+    <Description />
+    <UPC />
+    <Price>2.5</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>11</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-12T16:46:13.5625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>252</ID>
+    <Name>Candy Christmas Lollipop Rings</Name>
+    <Description />
+    <UPC />
+    <Price>0.5</Price>
+    <WholesalePrice>0.18</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-12T16:46:31.890625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>267</ID>
+    <Name>Candy Gummi Lifesavers Christmas</Name>
+    <Description />
+    <UPC />
+    <Price>2.5</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>5</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-12T16:46:45.234375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>89</ID>
+    <Name>Neo Tracks Cars</Name>
+    <Description />
+    <UPC>603625917441</UPC>
+    <Price>8.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-12T16:48:21.21875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>196</ID>
+    <Name>Classic Hideaway</Name>
+    <Description />
+    <UPC />
+    <Price>19.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>4</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-12T16:49:19.390625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>15</ID>
+    <Name>Diabolo</Name>
+    <Description />
+    <UPC>0085761092174</UPC>
+    <Price>14.95</Price>
+    <WholesalePrice>5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>8</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-12T17:19:36.578125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>84</ID>
+    <Name>Cash Register</Name>
+    <Description />
+    <UPC>0085761066403</UPC>
+    <Price>34.95</Price>
+    <WholesalePrice>15</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>4</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-12T17:20:23.921875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>107</ID>
+    <Name>Friendship Bracelet Kit</Name>
+    <Description />
+    <UPC>085761081505</UPC>
+    <Price>6.99</Price>
+    <WholesalePrice>2.75</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>18</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-12T17:21:07.46875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>113</ID>
+    <Name>Super Stacking Tops</Name>
+    <Description />
+    <UPC>085761063655</UPC>
+    <Price>9.5</Price>
+    <WholesalePrice>3</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-12T17:22:01.390625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>18</ID>
+    <Name>Snuggle Baby</Name>
+    <Description />
+    <UPC>0085761121027</UPC>
+    <Price>6.99</Price>
+    <WholesalePrice>3.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-12T17:22:42.578125-07:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

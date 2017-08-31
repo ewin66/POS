@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <categoryID>-1</categoryID>
+    <Name>Magnets and More set</Name>
+    <Description>Magnet Set . Fun and educational, this set includes eight assorted magnets and five paperclips for magnetic experiments..</Description>
+    <UPC>085761073647</UPC>
+    <Price>6.99</Price>
+    <WholesalePrice>2</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>9</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-03-25T17:04:32.140625-06:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

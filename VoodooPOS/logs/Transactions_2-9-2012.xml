@@ -1,0 +1,231 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_3:49 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>3.8</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-02-09T15:49:22.36525-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>2</ID>
+    <categoryID>-1</categoryID>
+    <Name>Valentine's Day Cards Whack A Pack</Name>
+    <UPC>NA</UPC>
+    <Price>0.5</Price>
+    <WholesalePrice>0.25</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>7</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-09T15:49:28.349625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>3</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_3:55 PM</Name>
+    <Description>Credit Transaction</Description>
+    <Price>27.07</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-02-09T15:55:02.7715-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>4</ID>
+    <categoryID>-1</categoryID>
+    <Name>Valentine's Day Cards Whack A Pack</Name>
+    <UPC>NA</UPC>
+    <Price>0.5</Price>
+    <WholesalePrice>0.25</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-09T15:55:02.92775-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>5</ID>
+    <categoryID>-1</categoryID>
+    <Name>Flying Disc</Name>
+    <UPC>0639277472977</UPC>
+    <Price>3.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-09T15:55:03.130875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>6</ID>
+    <categoryID>-1</categoryID>
+    <Name>Plasma Orb Light</Name>
+    <UPC>085761037038</UPC>
+    <Price>19.95</Price>
+    <WholesalePrice>8.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-09T15:55:03.412125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>7</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_3:57 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>36.89</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-02-09T15:57:25.30275-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>8</ID>
+    <categoryID>-1</categoryID>
+    <Name>Valentine's Day Cards Whack A Pack</Name>
+    <UPC>NA</UPC>
+    <Price>0.5</Price>
+    <WholesalePrice>0.25</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>5</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-09T15:57:26.255875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>9</ID>
+    <categoryID>-1</categoryID>
+    <Name>Sip 'N Swirl Eye Glasses</Name>
+    <UPC>0010984011343</UPC>
+    <Price>5.75</Price>
+    <WholesalePrice>1.95</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-09T15:57:27.6465-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>10</ID>
+    <categoryID>-1</categoryID>
+    <Name>Valentine's Day Candy Sweethearts</Name>
+    <UPC>NA</UPC>
+    <Price>0.5</Price>
+    <WholesalePrice>0.25</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-09T15:57:45.42775-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>11</ID>
+    <categoryID>-1</categoryID>
+    <Name>Crayola Markers</Name>
+    <Description>Set of 10 fine line classic colors Crayola Markers. Made with recycled plastic and solar energy. #1 brand preferred by teachers</Description>
+    <UPC>071662077266</UPC>
+    <Price>4.75</Price>
+    <WholesalePrice>2.3</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Ben International</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-09T15:57:45.755875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>12</ID>
+    <categoryID>-1</categoryID>
+    <Name>Whoopee Cushion</Name>
+    <UPC>085761097162</UPC>
+    <Price>3.5</Price>
+    <WholesalePrice>0.65</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-09T15:57:45.943375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>13</ID>
+    <categoryID>-1</categoryID>
+    <Name>Gazz-it!</Name>
+    <UPC>694744226262</UPC>
+    <Price>1.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-09T15:57:47.42775-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>14</ID>
+    <categoryID>-1</categoryID>
+    <Name>Party String</Name>
+    <UPC>0097138400819</UPC>
+    <Price>6.25</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-09T15:57:47.599625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>15</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_4:03 PM</Name>
+    <Description>Credit Transaction</Description>
+    <Price>31.41</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-02-09T16:03:11.099625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>16</ID>
+    <categoryID>-1</categoryID>
+    <Name>Build-a-Buddy Rabbit</Name>
+    <UPC>747482110994</UPC>
+    <Price>22.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-09T16:03:11.224625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>17</ID>
+    <categoryID>-1</categoryID>
+    <Name>Mystical Garden</Name>
+    <UPC>0085761012882</UPC>
+    <Price>5.99</Price>
+    <WholesalePrice>2.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-09T16:03:11.459-07:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

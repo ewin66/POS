@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SaveAppSettings">
+</Property><Property Name="Solution File" Value="D:\utilities\Programming\c#\VoodooPOS\example code\SaveAppSettings\SaveAppSettings.sln">
+</Property><Property Name="Date" Value="Monday, March 23, 2015">
+</Property><Property Name="Time" Value="23:52 PM">
+</Property></Properties><Event ErrorLevel="0" Project="SaveAppSettings" Source="SaveAppSettings.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SaveAppSettings" Source="SaveAppSettings.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SaveAppSettings.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SaveAppSettings.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SaveAppSettings" Source="SaveAppSettings.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

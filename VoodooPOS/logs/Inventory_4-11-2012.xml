@@ -1,0 +1,26 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <categoryID>-1</categoryID>
+    <Name>Lego City Zip Bin</Name>
+    <Description>Keep your childs room TOTALLY NEAT with LEGO® CITY ZipBin® Medium Size Toy Box Playmat. When unzipped, it becomes a city themed Playscape perfect for testing out new LEGO® creations! When play is done, capture all the bricks inside.  (lego blocks not included and sold seperately).
+
+Dread the sound of thousands of LEGO pieces being poured out in the next room Take on the urban environment with the LEGO CITY ZipBin Storage Toy Box. The cityscape background and construction foreground let you explore your city with whatever LEGO you desire. When the work is done, pack it all inside and store it for another day. LEGO CITY ZipBin Storage Toy Box is hard to miss with its primary colors theme on the exterior and graphic urban sprawl inside. With sturdy sides and top, it is perfect for stacking and carrying. With the capacity to hold thousands of bricks, it stores just about any mess.  * Colorful, durable, wipeclean surfaces * Sturdy, heavyduty zippers * Meets child safety standards * Patented *
+
+ Dimensions Bin 13.5 X 12 X 8 inches Mat 29 X 26 inches
+
+</Description>
+    <UPC>878119000903</UPC>
+    <Price>26.95</Price>
+    <WholesalePrice>10.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Neat Oh</Manufacturer>
+    <Quantity>6</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\legocityzipbin.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-11T13:09:02.078125-06:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

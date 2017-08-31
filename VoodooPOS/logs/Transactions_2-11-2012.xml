@@ -1,0 +1,284 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_11:46 AM</Name>
+    <Description>Credit Transaction</Description>
+    <Price>10.1</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-02-11T11:46:43.5625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>2</ID>
+    <categoryID>-1</categoryID>
+    <Name>Magic Svengali Deck</Name>
+    <UPC>0639277156440</UPC>
+    <Price>4.65</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-11T11:46:52.140625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>3</ID>
+    <categoryID>-1</categoryID>
+    <Name>Magic</Name>
+    <UPC>0639277815644</UPC>
+    <Price>4.65</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>1</Quantity>
+    <DateCreated>2012-02-11T11:46:55.546875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>4</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_1:35 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>2.71</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-02-11T13:35:14.578125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>5</ID>
+    <categoryID>-1</categoryID>
+    <Name>Candy Super Ropes</Name>
+    <Description>34 inches of Fun and Flavor</Description>
+    <UPC>041364003306</UPC>
+    <Price>2.5</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-11T13:35:14.8125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>6</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_2:19 PM</Name>
+    <Description>Credit Transaction</Description>
+    <Price>26</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-02-11T14:20:08.84375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>7</ID>
+    <categoryID>-1</categoryID>
+    <Name>Valentine's Cards 34 piece</Name>
+    <UPC>NA</UPC>
+    <Price>2.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-11T14:20:12.671875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>8</ID>
+    <categoryID>-1</categoryID>
+    <Name>Coffee </Name>
+    <Description>1 cup coffee 8oz or 10oz. </Description>
+    <Price>1.75</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Kuerig</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\keurig.bmp</PicturePath>
+    <DateCreated>2012-02-11T14:20:17.359375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>9</ID>
+    <categoryID>-1</categoryID>
+    <Name>Snuggle Baby</Name>
+    <UPC>0085761121027</UPC>
+    <Price>6.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-11T14:20:19.71875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>10</ID>
+    <categoryID>-1</categoryID>
+    <Name>Mini Magic Baby Bottle</Name>
+    <UPC>08576105436</UPC>
+    <Price>1.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-11T14:20:21.15625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>11</ID>
+    <categoryID>-1</categoryID>
+    <Name>Classic Dinosaurs</Name>
+    <Description>These7 inch molded vinyl dinosaurs are vibrantly painted and come in six assorted styles.</Description>
+    <UPC>085761097575</UPC>
+    <Price>3.75</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\InventoryImages\classicdinosaurs.jpg</PicturePath>
+    <DateCreated>2012-02-11T14:20:21.53125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>12</ID>
+    <categoryID>-1</categoryID>
+    <Name>Candy Mini Burger</Name>
+    <UPC>813805005008</UPC>
+    <Price>0.5</Price>
+    <WholesalePrice>0.15</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-11T14:20:21.75-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>13</ID>
+    <categoryID>-1</categoryID>
+    <Name>1.99 Barrel</Name>
+    <UPC>NA</UPC>
+    <Price>1.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <DateCreated>2012-02-11T14:20:40.125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>14</ID>
+    <categoryID>-1</categoryID>
+    <Name>Valentine's Day Cards Whack A Pack</Name>
+    <UPC>NA</UPC>
+    <Price>0.5</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>2</Quantity>
+    <DateCreated>2012-02-11T14:20:40.296875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>15</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_3:12 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>4.61</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-02-11T15:12:36.4375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>16</ID>
+    <categoryID>-1</categoryID>
+    <Name>Puzzle Puzzlebug</Name>
+    <UPC>639277067227</UPC>
+    <Price>4.25</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar tree</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-11T15:12:44.078125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>17</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_4:16 PM</Name>
+    <Description>Credit Transaction</Description>
+    <Price>11.39</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-02-11T16:16:59.703125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>18</ID>
+    <categoryID>-1</categoryID>
+    <Name>Mayan Change Purse</Name>
+    <Description>Handwoven in Guatemala. 4.25 X 3 Colorful change purse. Assorted variety.Colors may vary.</Description>
+    <UPC>N/A</UPC>
+    <Price>3.5</Price>
+    <WholesalePrice>0.63</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Ben International</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\Mayanchangepurse.jpg</PicturePath>
+    <DateCreated>2012-02-11T16:16:59.890625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>19</ID>
+    <categoryID>-1</categoryID>
+    <Name>Go play magnetic checkers</Name>
+    <Description>This stylish travel gane is for kids and the young at heart. The checker game is packaged in a convenient, travel-sized, metal tin, thus maintaining the magnetic element. Colourful, fun and eye-catching, this checker game is great for travelling kids. 
+</Description>
+    <UPC>085761155220</UPC>
+    <Price>6.99</Price>
+    <WholesalePrice>3.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\magneticcheckers.jpg</PicturePath>
+    <DateCreated>2012-02-11T16:17:01.125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>20</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_5:12 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>7.59</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-02-11T17:12:59.3125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>21</ID>
+    <categoryID>-1</categoryID>
+    <Name>Magnetic chess</Name>
+    <Description>Goplay Magnetic Chess 
+This magnetic Chess game makes an intriguing travel companion. All game pieces needed for play are included, in a neat self contained 5.5 inch tin box</Description>
+    <UPC>085761155206</UPC>
+    <Price>6.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\magneticchess.bmp</PicturePath>
+    <DateCreated>2012-02-11T17:12:59.4375-07:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

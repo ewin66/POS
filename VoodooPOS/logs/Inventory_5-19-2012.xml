@@ -1,0 +1,206 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <categoryID>-1</categoryID>
+    <Name>Peg game</Name>
+    <Description>This classic wooden puzzle is a puzzle anyone in your family will enjoy! Jump the pegs to remove all but 1 peg from the board. Sounds easy? Give it a shot--we assure you, this is not as easy as it seems. Will challenge any puzzle master's IQ for hours. It also comes in a collectible box, making it a great gift for the classic toy collector in your family.</Description>
+    <UPC>085761127845</UPC>
+    <Price>5.99</Price>
+    <WholesalePrice>1.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>19</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-05-19T12:01:25.84375-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>2</ID>
+    <categoryID>-1</categoryID>
+    <Name>Ant Universe</Name>
+    <Description>This incredible habitat takes ant farming to the next level with its space-age design and cool blue gel. 
+Based on a 2003 NASA Space Shuttle experiment observing ants tunneling in microgravity 
+this innovative farm features nutrient-rich gel that promotes a healthy environment for your ants 
+Just kick back and watch them do their work--no food or water needed. 
+The Ant Universe habitat comes with: Non-toxic nutrient Gel (provides both food and water to the ants)</Description>
+    <UPC>085761082779</UPC>
+    <Price>19.99</Price>
+    <WholesalePrice>9</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>5</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\InventoryImages\antuniverse.bmp</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-05-19T12:02:39.171875-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>3</ID>
+    <categoryID>-1</categoryID>
+    <Name>Checkers</Name>
+    <UPC>639277019721</UPC>
+    <Price>1.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>0</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-05-19T12:03:52.75-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>4</ID>
+    <categoryID>-1</categoryID>
+    <Name>Checkers</Name>
+    <UPC>639277019721</UPC>
+    <Price>1.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>0</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-05-19T12:05:02.375-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>5</ID>
+    <categoryID>-1</categoryID>
+    <Name>Knitting Art</Name>
+    <UPC>085961093546</UPC>
+    <Price>18.95</Price>
+    <WholesalePrice>6.5</WholesalePrice>
+    <SalePrice>13.5</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>6</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-05-19T12:05:50.734375-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>6</ID>
+    <categoryID>-1</categoryID>
+    <Name>Peg game</Name>
+    <Description>This classic wooden puzzle is a puzzle anyone in your family will enjoy! Jump the pegs to remove all but 1 peg from the board. Sounds easy? Give it a shot--we assure you, this is not as easy as it seems. Will challenge any puzzle master's IQ for hours. It also comes in a collectible box, making it a great gift for the classic toy collector in your family.</Description>
+    <UPC>085761127845</UPC>
+    <Price>5.99</Price>
+    <WholesalePrice>1.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>19</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-05-19T12:07:20.828125-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>7</ID>
+    <categoryID>-1</categoryID>
+    <Name>Window Mosaic Safari</Name>
+    <Description>Design and create your very own window mosaic art; You can remove the pieces and put them down again; Simply follow the design template provided to make mosaic pictures to hang on your window. ; A perfect gift idea for any child who loves to create; Recommended for ages 7 and up .</Description>
+    <UPC>085761034549</UPC>
+    <Price>18.99</Price>
+    <WholesalePrice>7</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>11</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-05-19T12:10:46.640625-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>8</ID>
+    <categoryID>-1</categoryID>
+    <Name>Air Horn</Name>
+    <Description>This Fog horn can be used : 
+Cheer squads,camping, sporting events,personal safety 
+New years , Birthdays,special celebrations 
+Graduations biking, jogging 
+Let your favorite team know your rootingfor them.</Description>
+    <UPC>639277305473</UPC>
+    <Price>6.5</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\airhorn.jpg</picturePath>
+    <active>false</active>
+    <displayOnWeb>false</displayOnWeb>
+    <DateCreated>2012-05-19T12:12:59.8125-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>9</ID>
+    <categoryID>-1</categoryID>
+    <Name>Money Magic</Name>
+    <UPC>639277815637</UPC>
+    <Price>4.65</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-05-19T12:13:57.859375-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>10</ID>
+    <categoryID>-1</categoryID>
+    <Name>Extreme Galaxy Spinner</Name>
+    <Description>Launch these little 4 inch diameter discs up to 25 feet in the air. Each set includes six green discs and rip-cord hand launcher.</Description>
+    <UPC>0085761140387</UPC>
+    <Price>6.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>18</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-05-19T12:20:02.796875-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>11</ID>
+    <categoryID>-1</categoryID>
+    <Name>Extreme Galaxy Spinner</Name>
+    <Description>Launch these little 4 inch diameter discs up to 25 feet in the air. Each set includes six green discs and rip-cord hand launcher.</Description>
+    <UPC>0085761140387</UPC>
+    <Price>6.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>18</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-05-19T12:21:00.09375-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>12</ID>
+    <categoryID>-1</categoryID>
+    <Name>Extreme Galaxy Spinner</Name>
+    <Description>Launch these little 4 inch diameter discs up to 25 feet in the air. Each set includes six green discs and rip-cord hand launcher.</Description>
+    <UPC>0085761140387</UPC>
+    <Price>6.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>16</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-05-19T12:21:29.578125-06:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

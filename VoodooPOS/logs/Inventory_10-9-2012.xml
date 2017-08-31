@@ -1,0 +1,78 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <categoryID>-1</categoryID>
+    <Name>Knight's helemt</Name>
+    <UPC>639277009616</UPC>
+    <Price>5.5</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>4</Quantity>
+    <active>true</active>
+    <displayOnWeb>false</displayOnWeb>
+    <DateCreated>2012-10-09T13:04:18.328125-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>2</ID>
+    <categoryID>-1</categoryID>
+    <Name>Glow fingers</Name>
+    <UPC>639277009852</UPC>
+    <Price>2.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>3</Quantity>
+    <active>true</active>
+    <displayOnWeb>false</displayOnWeb>
+    <DateCreated>2012-10-09T13:13:34.859375-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>3</ID>
+    <categoryID>-1</categoryID>
+    <Name>Sheer Mask</Name>
+    <UPC>842485029035</UPC>
+    <Price>4.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>4</Quantity>
+    <active>false</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-10-09T13:14:37.234375-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>4</ID>
+    <categoryID>-1</categoryID>
+    <Name>Glow Skull Neclace</Name>
+    <UPC>639277609908</UPC>
+    <Price>2.75</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>5</Quantity>
+    <active>true</active>
+    <displayOnWeb>false</displayOnWeb>
+    <DateCreated>2012-10-09T13:15:40.71875-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>5</ID>
+    <categoryID>-1</categoryID>
+    <Name>Rocket Balloons</Name>
+    <UPC>639277247100</UPC>
+    <Price>3.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>2</Quantity>
+    <active>false</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-10-09T13:16:20.765625-06:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

@@ -1,0 +1,339 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_11:03 AM</Name>
+    <Description>Credit Transaction</Description>
+    <Price>29.25</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-02-12T11:03:08.15625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>2</ID>
+    <categoryID>-1</categoryID>
+    <Name>Carnivorous Creations Terrarium</Name>
+    <Description>Grow Your Own Collection of Feared and Famous Meat-eating Plants! 
+This deluxe Carnivorous Creations kit has seeds from over 10 varieties of carnivorous plants, including the Cobra Plant, Venus Fly Trap, Pitcher Plant, Trumpet Plant and more. 
+You'll make your own authentic bog with the included peat planting mix, blue Swamp Rocks, three Bog Buddies and colorful decals! 
+This rare and unusual collection of plants will flourish for years in the specially designed terrarium with proper care and stratification. 
+Like all plants, carnivorous plants use the sun to produce energy through photosynthesis. However, these plants grow in peat bogs where there are no additional minerals or nutrients in the soil. Because of this, over time, carnivorous plants began to catch insects for food to get the much needed minerals and nutrients the peat around them lacked. After having acquired the skill of hunting, these carnivorous plants began to thrive. 
+The plants attract insects to their traps by producing a sweet odor. When small insects land on the plant, they touch tiny hairs that set off triggers and cause the trap to close making escape impossible. Each type of carnivorous plant traps their prey in a different way. 
+The famous Venus Fly Trap has jaw-like leaves that snap shut. The Hooded Pitcher Plant has downward facing spikes that prevent the insect from flying out. Some plants produce chemicals that dissolve the insect while other plants depend on bacteria and other microorganisms to help them digest. Once digested and absorbed, the insect becomes liquified nutrients that help the plant work and live.
+Each Complete Kit Includes:
+•Growing Dome 
+•Planting Mixture 
+•Carnivorous Seed Pack
+•3 Photo Decals 
+•3 Bog Buddies
+•Swamp Rocks 
+•Instructions and Information Manual</Description>
+    <UPC>851694000094</UPC>
+    <Price>26.95</Price>
+    <WholesalePrice>12.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Ben International</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\Carnivorouscreations.jpg</PicturePath>
+    <DateCreated>2012-02-12T11:03:08.390625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>3</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_11:44 AM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>3.8</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-02-12T11:44:04.03125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>4</ID>
+    <categoryID>-1</categoryID>
+    <Name>Rock Paper Scissors</Name>
+    <UPC>686464432009</UPC>
+    <Price>3.5</Price>
+    <WholesalePrice>1.25</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-12T11:44:04.328125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>5</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_12:08 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>18.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-02-12T12:08:55.9375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>6</ID>
+    <categoryID>-1</categoryID>
+    <Name>Nepali Headband</Name>
+    <UPC>NA</UPC>
+    <Price>7.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-12T12:08:56.109375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>7</ID>
+    <categoryID>-1</categoryID>
+    <Name>dog Toys</Name>
+    <UPC>NA</UPC>
+    <Price>2.25</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>2</Quantity>
+    <DateCreated>2012-02-12T12:09:09.78125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>8</ID>
+    <categoryID>-1</categoryID>
+    <Name>Jazzy Jingles</Name>
+    <UPC>085761080331</UPC>
+    <Price>3.5</Price>
+    <WholesalePrice>1.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-12T12:09:09.953125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>9</ID>
+    <categoryID>-1</categoryID>
+    <Name>Glow Bracelets</Name>
+    <UPC>NA</UPC>
+    <Price>0.25</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-12T12:09:10.203125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>10</ID>
+    <categoryID>-1</categoryID>
+    <Name>Valentine's Day Cards Whack A Pack</Name>
+    <UPC>NA</UPC>
+    <Price>0.5</Price>
+    <WholesalePrice>0.25</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-12T12:09:10.421875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>11</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_1:34 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>0</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-02-12T13:34:40.6875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>12</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_2:04 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>8.67</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-02-12T14:04:08.3125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>13</ID>
+    <categoryID>-1</categoryID>
+    <Name>Punch Ball</Name>
+    <UPC>085761027275</UPC>
+    <Price>3.5</Price>
+    <WholesalePrice>1.25</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-12T14:04:08.453125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>14</ID>
+    <categoryID>-1</categoryID>
+    <Name>Boinks</Name>
+    <UPC>0085761031340</UPC>
+    <Price>0.99</Price>
+    <WholesalePrice>0.4</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\InventoryImages\boink.jpg</PicturePath>
+    <DateCreated>2012-02-12T14:04:08.625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>15</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_2:07 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>3.25</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-02-12T14:07:31.40625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>16</ID>
+    <categoryID>-1</categoryID>
+    <Name>Valentine's Cards 34 piece</Name>
+    <UPC>NA</UPC>
+    <Price>2.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-12T14:07:41.765625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>17</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_2:08 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>3.25</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-02-12T14:08:17.3125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>18</ID>
+    <categoryID>-1</categoryID>
+    <Name>Valentine's Cards 34 piece</Name>
+    <UPC>NA</UPC>
+    <Price>2.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-12T14:08:48.109375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>19</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_2:15 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>0</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-02-12T14:15:00.953125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>20</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_2:17 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>1.07</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-02-12T14:17:20.171875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>21</ID>
+    <categoryID>-1</categoryID>
+    <Name>Incy Bincies Singles</Name>
+    <UPC>NA</UPC>
+    <Price>0.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-12T14:17:30.4375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>22</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_3:08 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>3.25</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-02-12T15:08:36.671875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>23</ID>
+    <categoryID>-1</categoryID>
+    <Name>Valentine's Cards 34 piece</Name>
+    <UPC>NA</UPC>
+    <Price>2.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-12T15:08:53.71875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>24</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_5:41 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>2.17</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-02-12T17:41:49.6875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>25</ID>
+    <categoryID>-1</categoryID>
+    <Name>Valentine's Day Cards Whack A Pack</Name>
+    <UPC>NA</UPC>
+    <Price>0.5</Price>
+    <WholesalePrice>0.25</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>4</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-12T17:41:53.5-07:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

@@ -1,0 +1,255 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>0</ID>
+    <Name>New Cart_2:32 PM</Name>
+    <Description>Credit Transaction</Description>
+    <UPC />
+    <Price>0</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-07T14:32:25.265625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>0</ID>
+    <Name>New Cart_12:07 PM</Name>
+    <Description>Cash Transaction</Description>
+    <UPC />
+    <Price>0</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-07T14:32:25.375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>60</ID>
+    <Name>Lego Racers Ramp Crash</Name>
+    <Description />
+    <UPC>0673419130905</UPC>
+    <Price>29.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>true</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-07T14:32:25.390625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>0</ID>
+    <Name>New Cart_2:36 PM</Name>
+    <Description>Credit Transaction</Description>
+    <UPC />
+    <Price>0</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-07T14:36:18.046875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>69</ID>
+    <Name>Lego Racers Chopper Jump</Name>
+    <Description />
+    <UPC>0673419130851</UPC>
+    <Price>29.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>true</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-07T14:36:18.0625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>160</ID>
+    <Name>Sticky Mosaics Ladybugs and Friends</Name>
+    <Description />
+    <UPC>622222063757</UPC>
+    <Price>22.5</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>true</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-07T14:36:18.078125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>113</ID>
+    <Name>Super Stacking Tops</Name>
+    <Description />
+    <UPC>085761063655</UPC>
+    <Price>15.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>true</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-07T14:36:18.09375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>0</ID>
+    <Name>New Cart_3:37 PM</Name>
+    <Description>Cash Transaction</Description>
+    <UPC />
+    <Price>0</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-07T15:37:46.546875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>93</ID>
+    <Name>Firefly</Name>
+    <Description />
+    <UPC>665766081207</UPC>
+    <Price>4.75</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>true</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-07T15:37:46.546875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>0</ID>
+    <Name>New Cart_3:43 PM</Name>
+    <Description>Credit Transaction</Description>
+    <UPC />
+    <Price>0</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-07T15:43:09.390625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>20</ID>
+    <Name>Plasma Orb Light</Name>
+    <Description />
+    <UPC>085761037038</UPC>
+    <Price>19.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>true</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-07T15:43:09.40625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>0</ID>
+    <Name>New Cart_4:59 PM</Name>
+    <Description>Credit Transaction</Description>
+    <UPC />
+    <Price>0</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-07T16:59:57.765625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>84</ID>
+    <Name>Cash Register</Name>
+    <Description />
+    <UPC>0085761066403</UPC>
+    <Price>34.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>true</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-07T16:59:57.78125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>0</ID>
+    <Name>New Cart_5:02 PM</Name>
+    <Description>Cash Transaction</Description>
+    <UPC />
+    <Price>0</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-07T17:02:59.375-07:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

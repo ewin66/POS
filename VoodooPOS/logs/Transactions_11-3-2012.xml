@@ -1,0 +1,272 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_10:50 AM</Name>
+    <Description>Credit Transaction</Description>
+    <Price>31.97</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-11-03T10:50:23.999375-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>2</ID>
+    <categoryID>-1</categoryID>
+    <Name>Carnivorous Creations Terrarium</Name>
+    <Description>Grow Your Own Collection of Feared and Famous Meat-eating Plants! 
+This deluxe Carnivorous Creations kit has seeds from over 10 varieties of carnivorous plants, including the Cobra Plant, Venus Fly Trap, Pitcher Plant, Trumpet Plant and more. 
+You'll make your own authentic bog with the included peat planting mix, blue Swamp Rocks, three Bog Buddies and colorful decals! 
+This rare and unusual collection of plants will flourish for years in the specially designed terrarium with proper care and stratification. 
+Like all plants, carnivorous plants use the sun to produce energy through photosynthesis. However, these plants grow in peat bogs where there are no additional minerals or nutrients in the soil. Because of this, over time, carnivorous plants began to catch insects for food to get the much needed minerals and nutrients the peat around them lacked. After having acquired the skill of hunting, these carnivorous plants began to thrive. 
+The plants attract insects to their traps by producing a sweet odor. When small insects land on the plant, they touch tiny hairs that set off triggers and cause the trap to close making escape impossible. Each type of carnivorous plant traps their prey in a different way. 
+The famous Venus Fly Trap has jaw-like leaves that snap shut. The Hooded Pitcher Plant has downward facing spikes that prevent the insect from flying out. Some plants produce chemicals that dissolve the insect while other plants depend on bacteria and other microorganisms to help them digest. Once digested and absorbed, the insect becomes liquified nutrients that help the plant work and live.
+Each Complete Kit Includes:
+•Growing Dome 
+•Planting Mixture 
+•Carnivorous Seed Pack
+•3 Photo Decals 
+•3 Bog Buddies
+•Swamp Rocks 
+•Instructions and Information Manual</Description>
+    <UPC>851694000094</UPC>
+    <Price>26.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Ben International</Manufacturer>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\InventoryImages\Carnivorouscreations.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-11-03T10:50:24.561875-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>3</ID>
+    <categoryID>-1</categoryID>
+    <Name>Gift Bag Medium</Name>
+    <Price>2.5</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-11-03T10:50:28.89-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>4</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_10:51 AM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>32.24</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-11-03T10:51:29.874375-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>5</ID>
+    <categoryID>-1</categoryID>
+    <Name>X Stream Internal Wing Aircraft</Name>
+    <UPC>085761077683</UPC>
+    <Price>6.75</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-11-03T10:51:30.311875-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>6</ID>
+    <categoryID>-1</categoryID>
+    <Name>Lego City Helicopter</Name>
+    <Description>Patrol and protect LEGO City from the air! Watch for trouble in this police helicopter One police pilot minifigure included Copter blades really rotate and the helicopter is over 7" (18 cm) Includes simple small tools, camera and rotating rotors as two LEGO build functions Includes 94 pieces</Description>
+    <UPC>673419102537</UPC>
+    <Price>22.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\legocityhelicopter.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-11-03T10:51:31.3275-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>7</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_12:38 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>39.01</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-11-03T12:38:33.89-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>8</ID>
+    <categoryID>-1</categoryID>
+    <Name>Magic Deck Protector Sleeves - Green</Name>
+    <UPC>074427826710</UPC>
+    <Price>5.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Southern Hobby</Manufacturer>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-11-03T12:38:55.7025-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>9</ID>
+    <categoryID>-1</categoryID>
+    <Name>Magic Avacyn restored event deck</Name>
+    <Description>Event decks brimming with power each contains what you need to be immediatley compedative, ready to play 60 card deck, 15 card sideboarddeck stradegy insert
+Magic "learn to play guide" 
+spindown life counter</Description>
+    <UPC>653569714453</UPC>
+    <Price>29.95</Price>
+    <WholesalePrice>14</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Christina</Manufacturer>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\AVREventDecks.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-11-03T12:38:57.17125-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>10</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_1:03 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>1.9</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-11-03T13:03:34.655625-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>11</ID>
+    <categoryID>-1</categoryID>
+    <Name>Birthday Who Doesn't Love Cake Banner</Name>
+    <UPC>634680814086</UPC>
+    <Price>1.75</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-11-03T13:03:35.17125-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>12</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_1:04 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>0.81</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-11-03T13:04:09.23375-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>13</ID>
+    <categoryID>-1</categoryID>
+    <Name>uyt</Name>
+    <Price>0.75</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-11-03T13:04:27.561875-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>14</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_1:58 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>24.42</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-11-03T13:58:44.60875-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>15</ID>
+    <categoryID>-1</categoryID>
+    <Name>Window mosiac cupcake</Name>
+    <UPC>085761160873</UPC>
+    <Price>22.5</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-11-03T13:58:45.061875-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>16</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_5:33 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>5.42</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-11-03T17:33:36.8275-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>17</ID>
+    <categoryID>-1</categoryID>
+    <Name>Lenticular Portrait</Name>
+    <UPC>639277200709</UPC>
+    <Price>4.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>dollar tree</Manufacturer>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-11-03T17:33:37.29625-06:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

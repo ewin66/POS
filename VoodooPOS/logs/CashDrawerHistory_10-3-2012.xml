@@ -1,0 +1,38 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <CashRegisterDrawer>
+    <ID>1</ID>
+    <amount>0</amount>
+    <Description>Drawer opened to give change</Description>
+    <ReasonForChange>reset drawer</ReasonForChange>
+    <DateCreated>2012-10-03T11:40:55.0625-06:00</DateCreated>
+  </CashRegisterDrawer>
+  <CashRegisterDrawer>
+    <ID>2</ID>
+    <amount>69.6</amount>
+    <Description>Cash Transaction for $69.60</Description>
+    <ReasonForChange>reset drawer</ReasonForChange>
+    <DateCreated>2012-10-03T14:10:17.46875-06:00</DateCreated>
+  </CashRegisterDrawer>
+  <CashRegisterDrawer>
+    <ID>3</ID>
+    <amount>4.01</amount>
+    <Description>Cash Transaction for $4.01</Description>
+    <ReasonForChange>reset drawer</ReasonForChange>
+    <DateCreated>2012-10-03T14:39:21.421875-06:00</DateCreated>
+  </CashRegisterDrawer>
+  <CashRegisterDrawer>
+    <ID>4</ID>
+    <amount>0</amount>
+    <Description>Drawer opened to give change</Description>
+    <ReasonForChange>reset drawer</ReasonForChange>
+    <DateCreated>2012-10-03T17:56:11.578125-06:00</DateCreated>
+  </CashRegisterDrawer>
+  <CashRegisterDrawer>
+    <ID>5</ID>
+    <amount>5.42</amount>
+    <Description>Cash Transaction for $5.42</Description>
+    <ReasonForChange>reset drawer</ReasonForChange>
+    <DateCreated>2012-10-03T17:57:25.890625-06:00</DateCreated>
+  </CashRegisterDrawer>
+</NewDataSet>

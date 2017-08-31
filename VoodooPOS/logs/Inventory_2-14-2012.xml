@@ -1,0 +1,473 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <categoryID>-1</categoryID>
+    <Name>Mystical Garden</Name>
+    <UPC>0085761012882</UPC>
+    <Price>5.99</Price>
+    <WholesalePrice>2.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>12</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-14T12:30:59.1875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>2</ID>
+    <categoryID>-1</categoryID>
+    <Name>Slam Shot Rocket</Name>
+    <UPC>0085761015128</UPC>
+    <Price>15.25</Price>
+    <WholesalePrice>6.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>7</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-14T12:32:34.859375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>3</ID>
+    <categoryID>-1</categoryID>
+    <Name>Walkie Talkie</Name>
+    <UPC>085761015340</UPC>
+    <Price>19.95</Price>
+    <WholesalePrice>7.5</WholesalePrice>
+    <SalePrice>13.99</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>8</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-14T12:38:40.78125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>4</ID>
+    <categoryID>-1</categoryID>
+    <Name>Blast Bow</Name>
+    <UPC>085761015357</UPC>
+    <Price>24.95</Price>
+    <WholesalePrice>10</WholesalePrice>
+    <SalePrice>17.5</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>7</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\InventoryImages\blastbow3.jpg</PicturePath>
+    <DateCreated>2012-02-14T12:40:09.9375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>5</ID>
+    <categoryID>-1</categoryID>
+    <Name>Diabolo</Name>
+    <UPC>0085761092174</UPC>
+    <Price>14.95</Price>
+    <WholesalePrice>5</WholesalePrice>
+    <SalePrice>10.5</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>11</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-14T12:41:24.46875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>6</ID>
+    <categoryID>-1</categoryID>
+    <Name>Operation Game With Sound FX</Name>
+    <Price>26.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>4</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-14T13:02:44.34375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>7</ID>
+    <categoryID>-1</categoryID>
+    <Name>Cootie</Name>
+    <UPC>0032244047824</UPC>
+    <Price>17.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>6</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-14T13:04:37.265625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>8</ID>
+    <categoryID>-1</categoryID>
+    <Name>Slam Shot Rocket</Name>
+    <UPC>0085761015128</UPC>
+    <Price>15.25</Price>
+    <WholesalePrice>6.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>13</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-14T13:19:57.421875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>9</ID>
+    <categoryID>-1</categoryID>
+    <Name>Extreme Galaxy Spinner</Name>
+    <Description>Launch these little 4 inch diameter discs up to 25 feet in the air. Each set includes six green discs and rip-cord hand launcher.</Description>
+    <UPC>0085761140387</UPC>
+    <Price>6.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>24</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-14T13:20:20.234375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>10</ID>
+    <categoryID>-1</categoryID>
+    <Name>X Stream Internal Wing Aircraft</Name>
+    <UPC>0085761077683</UPC>
+    <Price>6.75</Price>
+    <WholesalePrice>3</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>23</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-14T13:21:15.359375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>11</ID>
+    <categoryID>-1</categoryID>
+    <Name>Dark Ascension Intro Deck</Name>
+    <UPC>984163969535</UPC>
+    <Price>13.99</Price>
+    <WholesalePrice>7.4</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Southern Hobby</Manufacturer>
+    <Quantity>9</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\DarkAscensionIntroDeck.jpg</PicturePath>
+    <DateCreated>2012-02-14T14:36:51.84375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>12</ID>
+    <categoryID>-1</categoryID>
+    <Name>Card Protector sleeves - Black</Name>
+    <UPC>274427826677</UPC>
+    <Price>2.99</Price>
+    <WholesalePrice>1.7</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>3</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-14T14:38:19.03125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>13</ID>
+    <categoryID>-1</categoryID>
+    <Name>Card Protector sleeves - Green</Name>
+    <UPC>074427826680</UPC>
+    <Price>2.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Southern Hobby</Manufacturer>
+    <Quantity>2</Quantity>
+    <DateCreated>2012-02-14T14:39:15.1875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>14</ID>
+    <categoryID>-1</categoryID>
+    <Name>Card Protector sleeves - White</Name>
+    <UPC>074427826680</UPC>
+    <Price>2.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Southern Hobby</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-14T14:39:46.390625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>15</ID>
+    <categoryID>-1</categoryID>
+    <Name>Card Protector sleeves - White</Name>
+    <UPC>074427826680</UPC>
+    <Price>2.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Southern Hobby</Manufacturer>
+    <Quantity>4</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-14T14:40:01.5625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>16</ID>
+    <categoryID>-1</categoryID>
+    <Name>Card Protector Sleeves - Green</Name>
+    <UPC>074427826710</UPC>
+    <Price>2.99</Price>
+    <WholesalePrice>1.7</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Southern Hobby</Manufacturer>
+    <Quantity>2</Quantity>
+    <DateCreated>2012-02-14T14:40:36.890625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>17</ID>
+    <categoryID>-1</categoryID>
+    <Name>Card Protector Sleeves - Blue</Name>
+    <UPC>074427826703</UPC>
+    <Price>2.99</Price>
+    <WholesalePrice>1.7</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Southern Hobby</Manufacturer>
+    <Quantity>2</Quantity>
+    <DateCreated>2012-02-14T14:41:06.546875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>18</ID>
+    <categoryID>-1</categoryID>
+    <Name>Card Protector sleeves - Black</Name>
+    <UPC>274427826677</UPC>
+    <Price>2.99</Price>
+    <WholesalePrice>1.7</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>3</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-14T14:41:59.328125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>19</ID>
+    <categoryID>-1</categoryID>
+    <Name>Dark Ascension Intro Deck</Name>
+    <UPC>984163969535</UPC>
+    <Price>13.99</Price>
+    <WholesalePrice>7.4</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Southern Hobby</Manufacturer>
+    <Quantity>9</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\DarkAscensionIntroDeck.jpg</PicturePath>
+    <DateCreated>2012-02-14T14:42:45.390625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>20</ID>
+    <categoryID>-1</categoryID>
+    <Name>Perfection</Name>
+    <Description>On your mark, get set, go! You have only a little bit of time to get all 25 pieces in their proper places before the game board goes pops and all the pieces go flying. Ages 5 and up. 
+</Description>
+    <UPC>032244040603</UPC>
+    <Price>34.95</Price>
+    <WholesalePrice>19</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>ee Distribution</Manufacturer>
+    <Quantity>3</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\perfection.jpg</PicturePath>
+    <DateCreated>2012-02-14T15:02:46.65625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>21</ID>
+    <categoryID>-1</categoryID>
+    <Name>Perfection</Name>
+    <Description>On your mark, get set, go! You have only a little bit of time to get all 25 pieces in their proper places before the game board goes pops and all the pieces go flying. Ages 5 and up. 
+</Description>
+    <UPC>032244040603</UPC>
+    <Price>34.95</Price>
+    <WholesalePrice>19</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>ee Distribution</Manufacturer>
+    <Quantity>3</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\perfection.jpg</PicturePath>
+    <DateCreated>2012-02-14T15:03:13.40625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>22</ID>
+    <categoryID>-1</categoryID>
+    <Name>Cootie</Name>
+    <UPC>0032244047824</UPC>
+    <Price>17.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>6</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-14T15:05:53.9375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>23</ID>
+    <categoryID>-1</categoryID>
+    <Name>Dragons of Gaveroth</Name>
+    <UPC>0085761033665</UPC>
+    <Price>6.25</Price>
+    <WholesalePrice>3</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>15</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-14T15:08:56.203125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>24</ID>
+    <categoryID>-1</categoryID>
+    <Name>Knitting Art</Name>
+    <UPC>085961093546</UPC>
+    <Price>18.95</Price>
+    <WholesalePrice>6.5</WholesalePrice>
+    <SalePrice>13.5</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>6</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-14T15:13:03.671875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>25</ID>
+    <categoryID>-1</categoryID>
+    <Name>Plasma Orb Light</Name>
+    <UPC>085761037038</UPC>
+    <Price>19.95</Price>
+    <WholesalePrice>8.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>9</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-14T15:14:57.890625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>26</ID>
+    <categoryID>-1</categoryID>
+    <Name>Plasma Orb Light</Name>
+    <UPC>085761037038</UPC>
+    <Price>19.95</Price>
+    <WholesalePrice>8.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>9</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-14T15:15:03.625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>27</ID>
+    <categoryID>-1</categoryID>
+    <Name>Plasma Orb Light</Name>
+    <UPC>085761037038</UPC>
+    <Price>19.95</Price>
+    <WholesalePrice>8.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>9</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-14T15:15:26.6875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>28</ID>
+    <categoryID>-1</categoryID>
+    <Name>Zombie Zack</Name>
+    <UPC>0085761142749</UPC>
+    <Price>3.25</Price>
+    <WholesalePrice>1.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>30</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-14T15:16:02.921875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>29</ID>
+    <categoryID>-1</categoryID>
+    <Name>Glow in the dark stars</Name>
+    <UPC>0085761051669</UPC>
+    <Price>6.5</Price>
+    <WholesalePrice>2.25</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>50</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-14T15:17:25.25-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>30</ID>
+    <categoryID>-1</categoryID>
+    <Name>Glow in the dark stars</Name>
+    <UPC>0085761051669</UPC>
+    <Price>6.5</Price>
+    <WholesalePrice>2.25</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>50</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-14T15:24:24.703125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>31</ID>
+    <categoryID>-1</categoryID>
+    <Name>Don't Break the Ice</Name>
+    <UPC>0032244047848</UPC>
+    <Price>17.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-14T15:27:05.109375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>32</ID>
+    <categoryID>-1</categoryID>
+    <Name>Glow in the dark stars</Name>
+    <UPC>0085761051669</UPC>
+    <Price>6.5</Price>
+    <WholesalePrice>2.25</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>50</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-14T15:31:28.578125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>33</ID>
+    <categoryID>-1</categoryID>
+    <Name>Glow in the dark stars</Name>
+    <UPC>0085761051669</UPC>
+    <Price>6.5</Price>
+    <WholesalePrice>2.25</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>50</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-14T15:33:57.375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>34</ID>
+    <categoryID>-1</categoryID>
+    <Name>Wiggle Snakes</Name>
+    <UPC>639277205537</UPC>
+    <Price>3.5</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>dollar tree</Manufacturer>
+    <Quantity>7</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-14T15:40:27.9375-07:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

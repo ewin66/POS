@@ -1,0 +1,1857 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <Name>Lego City Fire Station</Name>
+    <Description />
+    <UPC />
+    <Price>104.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-11T11:16:06.921875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>60</ID>
+    <Name>Lego Racers Ramp Crash</Name>
+    <Description />
+    <UPC>0673419130905</UPC>
+    <Price>29.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T11:16:44.625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>218</ID>
+    <Name>Footballs</Name>
+    <Description />
+    <UPC />
+    <Price>2.25</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T11:39:24.796875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>218</ID>
+    <Name>Footballs</Name>
+    <Description />
+    <UPC />
+    <Price>2.25</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T11:39:49.328125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>220</ID>
+    <Name>Small Animal Ball</Name>
+    <Description />
+    <UPC />
+    <Price>2.25</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>3</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-11T11:42:07.546875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>247</ID>
+    <Name>Ball Small Animal</Name>
+    <Description />
+    <UPC />
+    <Price>2.25</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>3</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T11:42:42.203125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>247</ID>
+    <Name>Ball Small Animal</Name>
+    <Description />
+    <UPC />
+    <Price>2.25</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>3</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T11:42:47.40625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>247</ID>
+    <Name>Ball Small Animal</Name>
+    <Description />
+    <UPC />
+    <Price>2.25</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>3</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T11:43:34.5-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>247</ID>
+    <Name>Ball Small Animal</Name>
+    <Description />
+    <UPC />
+    <Price>2.25</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>3</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T11:44:02.78125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>247</ID>
+    <Name>Ball Small Animal</Name>
+    <Description />
+    <UPC />
+    <Price>2.25</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>3</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T11:44:48.21875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>252</ID>
+    <Name>Puzzle 12 Piece Foil/Glitter</Name>
+    <Description />
+    <UPC />
+    <Price>4.25</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>3</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-11T11:46:57.53125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>253</ID>
+    <Name>Gift Bag Large Christmas</Name>
+    <Description />
+    <UPC />
+    <Price>3.5</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-11T11:51:28.4375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>254</ID>
+    <Name>Gift Bagged with Tissue Large</Name>
+    <Description />
+    <UPC />
+    <Price>3.25</Price>
+    <WholesalePrice>1.1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>18</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-11T11:57:11.796875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>250</ID>
+    <Name>Gift Bagged with Tissue Large Christmas</Name>
+    <Description />
+    <UPC />
+    <Price>3.25</Price>
+    <WholesalePrice>1.1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>18</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T11:58:52.484375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>249</ID>
+    <Name>Gift Bagged with Tissue XLarge Christmas</Name>
+    <Description />
+    <UPC />
+    <Price>3.5</Price>
+    <WholesalePrice>1.1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T12:00:01.59375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>250</ID>
+    <Name>Gift Bagged with Tissue Large Christmas</Name>
+    <Description />
+    <UPC />
+    <Price>2.99</Price>
+    <WholesalePrice>1.1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>18</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T12:00:44.734375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>213</ID>
+    <Name>Gift Bag Large</Name>
+    <Description />
+    <UPC />
+    <Price>2.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T12:01:30.90625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>214</ID>
+    <Name>Gift Bag Medium</Name>
+    <Description />
+    <UPC />
+    <Price>2.5</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T12:01:49.5625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>260</ID>
+    <Name>Playing Cards 2 Deck</Name>
+    <Description />
+    <UPC />
+    <Price>3.5</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>2</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-11T12:04:06.75-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>210</ID>
+    <Name>Touch Light Heart</Name>
+    <Description />
+    <UPC />
+    <Price>3.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T12:04:42.015625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>211</ID>
+    <Name>Touch Light Moon</Name>
+    <Description />
+    <UPC />
+    <Price>3.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T12:04:57.6875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>212</ID>
+    <Name>Touch Light Star</Name>
+    <Description />
+    <UPC />
+    <Price>3.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T12:05:11.328125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>264</ID>
+    <Name>Loolipop Christmas Rings</Name>
+    <Description />
+    <UPC />
+    <Price>0.35</Price>
+    <WholesalePrice>0.18</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-11T12:11:08.1875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>265</ID>
+    <Name>Scarf</Name>
+    <Description />
+    <UPC />
+    <Price>2.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>10</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-11T12:18:12.328125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>266</ID>
+    <Name>Stickers - 500 - boys</Name>
+    <Description />
+    <UPC>0639277049377</UPC>
+    <Price>1.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>DollarTree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>2</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-11T12:19:06.671875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>267</ID>
+    <Name>Stickers - 1000 - Girls</Name>
+    <Description />
+    <UPC />
+    <Price>1.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>DollarTree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>2</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-11T12:21:09.734375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>268</ID>
+    <Name>Groovy Charm Bracelets</Name>
+    <Description />
+    <UPC>0639277201324</UPC>
+    <Price>1.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>DollarTree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-11T12:22:50.46875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>140</ID>
+    <Name>Food Set Birthday Party</Name>
+    <Description />
+    <UPC />
+    <Price>8.5</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T13:09:06.53125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>141</ID>
+    <Name>Food Ice Cream Parlour</Name>
+    <Description />
+    <UPC />
+    <Price>8.5</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T13:09:53.4375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>141</ID>
+    <Name>Food Set Ice Cream Parlour</Name>
+    <Description />
+    <UPC />
+    <Price>8.5</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T13:11:18.171875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>272</ID>
+    <Name>Food Set Brunch Party</Name>
+    <Description />
+    <UPC />
+    <Price>8.5</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-11T13:11:45.265625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>273</ID>
+    <Name>Food Set Barbeque Cook Out</Name>
+    <Description />
+    <UPC />
+    <Price>8.5</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-11T13:12:24.15625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>274</ID>
+    <Name>Erasers Christmas</Name>
+    <Description />
+    <UPC>0639277214867</UPC>
+    <Price>0</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>4</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-11T13:13:35.09375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>275</ID>
+    <Name>Pencils Christmas</Name>
+    <Description />
+    <UPC />
+    <Price>1.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>4</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-11T13:15:04.390625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>259</ID>
+    <Name>Erasers Christmas</Name>
+    <Description />
+    <UPC>0639277214867</UPC>
+    <Price>1.75</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>4</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T13:15:44.453125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>277</ID>
+    <Name>Candy 3 pack Chocolate Holiday Characters</Name>
+    <Description />
+    <UPC />
+    <Price>2.25</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>16</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-11T13:17:31.8125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>278</ID>
+    <Name>Candy Canes</Name>
+    <Description />
+    <UPC />
+    <Price>2.5</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>3</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-11T13:29:28.171875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>262</ID>
+    <Name>Candy Cane Box</Name>
+    <Description />
+    <UPC />
+    <Price>2.5</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>3</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T13:30:02.125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>280</ID>
+    <Name>Candy Canes Individual</Name>
+    <Description />
+    <UPC />
+    <Price>0.25</Price>
+    <WholesalePrice>0.9</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>36</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-11T13:31:37.4375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>281</ID>
+    <Name>Candy Chocolate Santa</Name>
+    <Description />
+    <UPC />
+    <Price>1.95</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>11</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-11T13:41:17.734375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>120</ID>
+    <Name>Candy Gummi Pizza</Name>
+    <Description />
+    <UPC />
+    <Price>0.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>48</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T14:45:21-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>232</ID>
+    <Name>Puzzle Bogglers</Name>
+    <Description />
+    <UPC />
+    <Price>6.25</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>4</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T14:46:10.953125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>284</ID>
+    <Name>Candy Chocolate Lentils Cane</Name>
+    <Description />
+    <UPC />
+    <Price>1.75</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>9</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-11T14:49:24.09375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>229</ID>
+    <Name>Stickers with Notebook Cars</Name>
+    <Description />
+    <UPC />
+    <Price>1.75</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>2</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T14:51:07.5-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>46</ID>
+    <Name> Candy Worlds Biggest Candy Necklace</Name>
+    <Description>Necklace measures 30 ½ “long and contains 120 pieces of candy.</Description>
+    <UPC />
+    <Price>2.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>24</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T15:02:08.265625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>287</ID>
+    <Name>Batteries AA 4 pack</Name>
+    <Description />
+    <UPC />
+    <Price>2.75</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>7</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-11T15:21:16.1875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>256</ID>
+    <Name>Groovy Charm Bracelets</Name>
+    <Description />
+    <UPC>0639277201324</UPC>
+    <Price>2.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>DollarTree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T15:24:24.21875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>154</ID>
+    <Name> Candy Bar Kit Kat</Name>
+    <Description />
+    <UPC>03424607</UPC>
+    <Price>1.75</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>36</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T15:25:07.34375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>252</ID>
+    <Name>Candy Loolipop Christmas Rings</Name>
+    <Description />
+    <UPC />
+    <Price>0.35</Price>
+    <WholesalePrice>0.18</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T15:25:47.96875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>103</ID>
+    <Name>Birthday Magic Candles</Name>
+    <Description />
+    <UPC>0097138669711</UPC>
+    <Price>3.25</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T15:26:08.9375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>122</ID>
+    <Name>Candy Mini Burger</Name>
+    <Description />
+    <UPC />
+    <Price>0.5</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>120</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T15:26:54.9375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>125</ID>
+    <Name>Puzzle Mini </Name>
+    <Description />
+    <UPC />
+    <Price>4.25</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>48</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T15:27:26.953125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>143</ID>
+    <Name>Candy Reese's Peanut Butter Cup</Name>
+    <Description />
+    <UPC />
+    <Price>1.75</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>36</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T15:39:57.78125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>153</ID>
+    <Name>Candy Trident Watermelon Twist</Name>
+    <Description />
+    <UPC>0012546615952</UPC>
+    <Price>1.85</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T15:40:12.40625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>149</ID>
+    <Name>Candy Wrigley's 5 Gum Solstice</Name>
+    <Description />
+    <UPC>02295709</UPC>
+    <Price>1.85</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>3</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T15:40:29.4375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>167</ID>
+    <Name>Birthday Who Doesn't Love Cake Banner</Name>
+    <Description />
+    <UPC>634680814086</UPC>
+    <Price>1.75</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T15:40:50.671875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>151</ID>
+    <Name>Birthday Wrigley's 5 Gum React 2</Name>
+    <Description />
+    <UPC>022000117014</UPC>
+    <Price>1.85</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>3</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T15:41:07.484375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>150</ID>
+    <Name>Birthday Wrigley's 5 Gum Rain</Name>
+    <Description />
+    <UPC>02251404</UPC>
+    <Price>1.85</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>3</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T15:41:22.5-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>152</ID>
+    <Name>Candy Wrigley's 5 Gum Cobalt</Name>
+    <Description />
+    <UPC>02251200</UPC>
+    <Price>1.85</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>3</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T15:41:41.796875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>150</ID>
+    <Name>Candy Wrigley's 5 Gum Rain</Name>
+    <Description />
+    <UPC>02251404</UPC>
+    <Price>1.85</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>3</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T15:41:57.734375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>151</ID>
+    <Name>Candy Wrigley's 5 Gum React 2</Name>
+    <Description />
+    <UPC>022000117014</UPC>
+    <Price>1.85</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>3</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T15:42:14.890625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>221</ID>
+    <Name>Birthday Streamers</Name>
+    <Description />
+    <UPC />
+    <Price>3.5</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T15:42:48.5625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>45</ID>
+    <Name>Candy Super Ropes</Name>
+    <Description>34 inches of Fun and Flavor</Description>
+    <UPC />
+    <Price>3.5</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>30</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T15:43:31.65625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>144</ID>
+    <Name>Candy Snickers Bar</Name>
+    <Description />
+    <UPC />
+    <Price>1.25</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>48</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T15:44:09.265625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>121</ID>
+    <Name>Candy Sour Gecko</Name>
+    <Description />
+    <UPC />
+    <Price>2</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>80</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T15:44:34.953125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>4</ID>
+    <Name>Candy Skittles Light up rainbow wand</Name>
+    <Description />
+    <UPC>0609454619471</UPC>
+    <Price>6.5</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T15:45:29.015625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>155</ID>
+    <Name>Candy Skittles</Name>
+    <Description />
+    <UPC>04016007</UPC>
+    <Price>1.25</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>36</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T15:45:55.875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>154</ID>
+    <Name>Candy Bar Kit Kat</Name>
+    <Description />
+    <UPC>03424607</UPC>
+    <Price>1.25</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>36</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T16:06:39.109375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>143</ID>
+    <Name>Candy Reese's Peanut Butter Cup</Name>
+    <Description />
+    <UPC />
+    <Price>1.25</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>36</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T16:07:13.484375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>311</ID>
+    <Name>Candy Gummi Lifesavers Christmas</Name>
+    <Description />
+    <UPC />
+    <Price>1.75</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>5</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-11T16:19:35.703125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>253</ID>
+    <Name>Scarf</Name>
+    <Description />
+    <UPC />
+    <Price>2.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>10</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T16:20:09.015625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>253</ID>
+    <Name>Scarf</Name>
+    <Description />
+    <UPC />
+    <Price>2.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>10</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T16:23:07.203125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>261</ID>
+    <Name>Candy 3 pack Chocolate Holiday Characters</Name>
+    <Description />
+    <UPC />
+    <Price>2.25</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>16</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T16:24:25.515625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>263</ID>
+    <Name>Candy Canes Individual</Name>
+    <Description />
+    <UPC />
+    <Price>0.25</Price>
+    <WholesalePrice>0.9</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>36</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T16:25:37.25-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>262</ID>
+    <Name>Candy Cane Box</Name>
+    <Description />
+    <UPC />
+    <Price>2.5</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>3</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T16:26:09.296875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>265</ID>
+    <Name>Candy Chocolate Lentils Cane</Name>
+    <Description />
+    <UPC />
+    <Price>1.75</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>9</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T16:27:04.46875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>264</ID>
+    <Name>Candy Chocolate Santa</Name>
+    <Description />
+    <UPC />
+    <Price>1.95</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>11</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T16:27:41.109375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>154</ID>
+    <Name>Candy Bar Kit Kat</Name>
+    <Description />
+    <UPC>03424607</UPC>
+    <Price>1.25</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>36</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T16:28:15.421875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>267</ID>
+    <Name>Candy Gummi Lifesavers Christmas</Name>
+    <Description />
+    <UPC />
+    <Price>1.75</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>5</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T16:29:08.46875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>252</ID>
+    <Name>Candy Christmas Lollipop Rings</Name>
+    <Description />
+    <UPC />
+    <Price>0.35</Price>
+    <WholesalePrice>0.18</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T16:30:39.515625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>252</ID>
+    <Name>Candy Christmas Lollipop Rings</Name>
+    <Description />
+    <UPC />
+    <Price>0.35</Price>
+    <WholesalePrice>0.18</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T16:30:58.890625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>143</ID>
+    <Name>Candy Reese's Peanut Butter Cup</Name>
+    <Description />
+    <UPC />
+    <Price>1.25</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>36</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T16:31:39.6875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>155</ID>
+    <Name>Candy Skittles</Name>
+    <Description />
+    <UPC>04016007</UPC>
+    <Price>1.25</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>36</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T16:32:22.015625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>144</ID>
+    <Name>Candy Snickers Bar</Name>
+    <Description />
+    <UPC />
+    <Price>1.25</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>48</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T16:33:07.515625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>4</ID>
+    <Name>Candy Skittles Light up rainbow wand</Name>
+    <Description />
+    <UPC>0609454619471</UPC>
+    <Price>3.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T16:33:59.75-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>4</ID>
+    <Name>Candy Skittles Light up rainbow wand</Name>
+    <Description />
+    <UPC>0609454619471</UPC>
+    <Price>3.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T16:34:10.625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>144</ID>
+    <Name>Candy Snickers Bar</Name>
+    <Description />
+    <UPC />
+    <Price>1.25</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>48</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T16:34:56.0625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>45</ID>
+    <Name>Candy Super Ropes</Name>
+    <Description>34 inches of Fun and Flavor</Description>
+    <UPC />
+    <Price>2.5</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>30</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T16:36:06.359375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>45</ID>
+    <Name>Candy Super Ropes</Name>
+    <Description>34 inches of Fun and Flavor</Description>
+    <UPC />
+    <Price>2.5</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>30</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T16:36:23.03125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>46</ID>
+    <Name>Candy Worlds Biggest Candy Necklace</Name>
+    <Description>Necklace measures 30 ½ “long and contains 120 pieces of candy.</Description>
+    <UPC />
+    <Price>2.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>24</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T16:37:04.4375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>259</ID>
+    <Name>Erasers Christmas</Name>
+    <Description />
+    <UPC>0639277214867</UPC>
+    <Price>1.75</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>4</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T16:37:57.453125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>258</ID>
+    <Name>Food Set Barbeque Cook Out</Name>
+    <Description />
+    <UPC />
+    <Price>8.5</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T16:38:41.453125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>140</ID>
+    <Name>Food Set Birthday Party</Name>
+    <Description />
+    <UPC />
+    <Price>8.5</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T16:39:19.34375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>257</ID>
+    <Name>Food Set Brunch Party</Name>
+    <Description />
+    <UPC />
+    <Price>8.5</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T16:40:00.25-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>141</ID>
+    <Name>Food Set Ice Cream Parlour</Name>
+    <Description />
+    <UPC />
+    <Price>8.5</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T16:40:41.71875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>260</ID>
+    <Name>Pencils Christmas</Name>
+    <Description />
+    <UPC />
+    <Price>1.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>4</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T16:41:51.6875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>255</ID>
+    <Name>Stickers - 1000 - Girls</Name>
+    <Description />
+    <UPC />
+    <Price>1.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>DollarTree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>2</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T16:43:16.625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>254</ID>
+    <Name>Stickers - 500 - boys</Name>
+    <Description />
+    <UPC>0639277049377</UPC>
+    <Price>1.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>DollarTree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>2</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T16:44:22.546875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>210</ID>
+    <Name>Touch Light</Name>
+    <Description />
+    <UPC />
+    <Price>3.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T16:45:44.203125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>210</ID>
+    <Name>Touch Light</Name>
+    <Description />
+    <UPC />
+    <Price>3.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T16:46:19.671875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>210</ID>
+    <Name>Touch Light Heart</Name>
+    <Description />
+    <UPC />
+    <Price>3.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T16:47:04.15625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>83</ID>
+    <Name>Hackey Sacks</Name>
+    <Description />
+    <UPC />
+    <Price>4.5</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T16:47:47.90625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>83</ID>
+    <Name>Hackey Sacks</Name>
+    <Description />
+    <UPC />
+    <Price>4.5</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-11T16:47:53.640625-07:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

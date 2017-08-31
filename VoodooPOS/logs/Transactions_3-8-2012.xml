@@ -1,0 +1,168 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_1:26 PM</Name>
+    <Description>Credit Transaction</Description>
+    <Price>13.02</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-03-08T13:26:22.21875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>2</ID>
+    <categoryID>-1</categoryID>
+    <Name>Mr. Potato Head</Name>
+    <Description>A slimmer, more active MR. POTATO HEAD has more holes than he used to and more facial features! Your child will love putting his nose where his ear should be and building many different versions of the original potato friend. The parts are compatible with other versions of MR. or MRS. POTATO HEAD. 
+
+Store the parts in the figure’s TATER TUSH. Potato figure comes with eyes, nose, mouth with teeth, hat, mustache, tongue, pair of glasses, 2 hands, 2 ears and 1 pair of legs with shoes. 
+
+Ages 2 and up.</Description>
+    <UPC>653569548140</UPC>
+    <Price>11.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Ben International</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\InventoryImages\mrPotatoHead.jpg</PicturePath>
+    <DateCreated>2012-03-08T13:26:22.4375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>3</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_2:52 PM</Name>
+    <Description>Credit Transaction</Description>
+    <Price>103</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-03-08T14:52:42.90625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>4</ID>
+    <categoryID>-1</categoryID>
+    <Name>Elemenosqueeze soft architectural Blocks</Name>
+    <Description>A different animal hand-sculpted for every letter. (Who says there's no such thing as a unicorn?) A Tower of A to Z relief art awaits. Chew on them, -toss them in the tub. Learn the alphabet, build your masterpiece. Pretty, reusable 100% recycled Polypropylene (PP) plastic bag feels remarkably -like fabric.</Description>
+    <UPC>062243238305</UPC>
+    <Price>39.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\elemenosqueeze.jpg</PicturePath>
+    <DateCreated>2012-03-08T14:52:43.171875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>5</ID>
+    <categoryID>-1</categoryID>
+    <Name>Cat Front Loader</Name>
+    <Description>CAT Tough Tracks Loader is ready to get to you to the job site. This durable 14" wheel loader is great for indoor or outdoor play when the weather is warm. Great addition to the beach toy bag to help build sand castles. No batteries required. Recommended for ages 2 and up.  
+•great for indoor or outdoor play when the weather is warm
+•Great addition to the beach toy bag to help build sand castles
+•No batteries required
+•Recommended for ages 2 and up</Description>
+    <UPC>011543326533</UPC>
+    <Price>26.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>walmart</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-03-08T14:52:43.484375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>6</ID>
+    <categoryID>-1</categoryID>
+    <Name>Topanimo Stacking game</Name>
+    <Description>Stack, nest and play with this adorable block set! This set of 6 blocks are brightly colored, numbered, and house a farm animal in each! Stack them in a tower or lay them out to play. Blocks feature fun patterns, flowers and numbers. Ages: 18 months and Up</Description>
+    <UPC>307090009103</UPC>
+    <Price>27.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\topanimo.bmp</PicturePath>
+    <DateCreated>2012-03-08T14:52:43.703125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>7</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_3:29 PM</Name>
+    <Description>Credit Transaction</Description>
+    <Price>29.3</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-03-08T15:29:09.484375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>8</ID>
+    <categoryID>-1</categoryID>
+    <Name>Patterned Double Bedspread</Name>
+    <Price>26.99</Price>
+    <WholesalePrice>11.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Benjamin International</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-03-08T15:29:09.6875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>9</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_6:01 PM</Name>
+    <Description>Credit Transaction</Description>
+    <Price>7.6</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-03-08T18:01:29.90625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>10</ID>
+    <categoryID>-1</categoryID>
+    <Name>Coloring Book</Name>
+    <Price>3.5</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-03-08T18:01:30.09375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>11</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_6:04 PM</Name>
+    <Description>Credit Transaction</Description>
+    <Price>7.6</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-03-08T18:04:58.375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>12</ID>
+    <categoryID>-1</categoryID>
+    <Name>Coloring Book</Name>
+    <Price>3.5</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-03-08T18:04:58.53125-07:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

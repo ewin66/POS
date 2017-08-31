@@ -1,0 +1,399 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>0</ID>
+    <Name>New Cart_12:10 PM</Name>
+    <Description>Cash Transaction</Description>
+    <UPC />
+    <Price>0</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-14T12:10:25.59375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>0</ID>
+    <Name>New Cart_6:19 PM</Name>
+    <Description>Cash Transaction</Description>
+    <UPC />
+    <Price>0</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-14T12:10:25.609375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>0</ID>
+    <Name>New Cart_12:22 PM</Name>
+    <Description>Cash Transaction</Description>
+    <UPC />
+    <Price>24.88</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-14T12:22:26.9375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>268</ID>
+    <Name>1.99 Barrel</Name>
+    <Description />
+    <UPC />
+    <Price>1.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>true</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>5</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-14T12:22:26.953125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>0</ID>
+    <Name>drawing board</Name>
+    <Description />
+    <UPC />
+    <Price>2.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-14T12:22:27-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>92</ID>
+    <Name>Glow Bracelets</Name>
+    <Description />
+    <UPC />
+    <Price>0.25</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>true</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-14T12:22:27-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>41</ID>
+    <Name>Glow light stick - 6 inch</Name>
+    <Description>Snap the 6” stick then shake and watch it glow. Glows up to 6 hours. Assorted colors.</Description>
+    <UPC>085761097025</UPC>
+    <Price>2.5</Price>
+    <WholesalePrice>0.65</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>true</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>2</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-14T12:22:27.015625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>255</ID>
+    <Name>Stickers - 1000 - Girls</Name>
+    <Description />
+    <UPC />
+    <Price>1.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>true</OnSale>
+    <Manufacturer>DollarTree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-14T12:22:27.03125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>0</ID>
+    <Name>New Cart_1:17 PM</Name>
+    <Description>Cash Transaction</Description>
+    <UPC />
+    <Price>0</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-14T13:17:01.765625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>0</ID>
+    <Name>New Cart_1:49 PM</Name>
+    <Description>Cash Transaction</Description>
+    <UPC />
+    <Price>2.17</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-14T13:49:46.203125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>0</ID>
+    <Name>New Cart_1:17 PM</Name>
+    <Description>Cash Transaction</Description>
+    <UPC />
+    <Price>0</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-14T13:49:46.21875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>44</ID>
+    <Name>Party Poppers</Name>
+    <Description />
+    <UPC />
+    <Price>0.5</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>true</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>4</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-14T13:49:46.234375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>0</ID>
+    <Name>New Cart_2:49 PM</Name>
+    <Description>Cash Transaction</Description>
+    <UPC />
+    <Price>26.58</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-14T14:49:56.421875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>136</ID>
+    <Name>200 pc Wooden Log Building Set (Lincoln Log stye)</Name>
+    <Description />
+    <UPC />
+    <Price>24.5</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>true</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-14T14:49:57.15625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>0</ID>
+    <Name>New Cart_3:46 PM</Name>
+    <Description>Cash Transaction</Description>
+    <UPC />
+    <Price>1.36</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-14T15:46:09.78125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>154</ID>
+    <Name>Candy Bar Kit Kat</Name>
+    <Description />
+    <UPC>03424607</UPC>
+    <Price>1.25</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>true</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-14T15:46:09.8125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>0</ID>
+    <Name>New Cart_4:29 PM</Name>
+    <Description>Credit Transaction</Description>
+    <UPC />
+    <Price>0</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-14T16:29:23.03125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>245</ID>
+    <Name>Lego Ninjago Garmadons Dark Fortress</Name>
+    <Description />
+    <UPC>0673419144872</UPC>
+    <Price>84.95</Price>
+    <WholesalePrice>59.26</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>true</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-14T16:29:23.0625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>246</ID>
+    <Name>Lego City Fire Station</Name>
+    <Description />
+    <UPC />
+    <Price>104.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>true</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-14T16:29:23.078125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>0</ID>
+    <Name>New Cart_4:30 PM</Name>
+    <Description>Cash Transaction</Description>
+    <UPC />
+    <Price>0</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-14T16:30:18.125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>0</ID>
+    <Name>New Cart_5:28 PM</Name>
+    <Description>Credit Transaction</Description>
+    <UPC />
+    <Price>0</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-14T17:28:16.515625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>90</ID>
+    <Name>Mystical Garden</Name>
+    <Description />
+    <UPC>0085761012882</UPC>
+    <Price>5.99</Price>
+    <WholesalePrice>2.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>true</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-14T17:28:16.53125-07:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

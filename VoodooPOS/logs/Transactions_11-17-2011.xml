@@ -1,0 +1,78 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>0</ID>
+    <Name>New Cart_4:55 PM</Name>
+    <Description />
+    <UPC />
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-11-17T16:55:41-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>93</ID>
+    <Name>Firefly</Name>
+    <Description />
+    <UPC>665766081207</UPC>
+    <Price>4.75</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-11-17T16:55:41.546875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>0</ID>
+    <Name>New Cart_5:15 PM</Name>
+    <Description />
+    <UPC />
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-11-17T17:15:15.84375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>155</ID>
+    <Name>Skittles</Name>
+    <Description />
+    <UPC>04016007</UPC>
+    <Price>1.75</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-11-17T17:15:15.875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>0</ID>
+    <Name>New Cart_7:03 PM</Name>
+    <Description />
+    <UPC />
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-11-17T19:03:59.109375-07:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

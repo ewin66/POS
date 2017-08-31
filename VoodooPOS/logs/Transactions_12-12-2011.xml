@@ -1,0 +1,471 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>0</ID>
+    <Name>New Cart_12:07 PM</Name>
+    <Description>Cash Transaction</Description>
+    <UPC />
+    <Price>27.07</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-12T12:07:07.96875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>97</ID>
+    <Name>Cosmic Thruster</Name>
+    <Description />
+    <UPC>085761052994</UPC>
+    <Price>24.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>true</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-12T12:07:08.109375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>0</ID>
+    <Name>New Cart_12:08 PM</Name>
+    <Description>Cash Transaction</Description>
+    <UPC />
+    <Price>0</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-12T12:08:24.03125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>0</ID>
+    <Name>New Cart_12:16 PM</Name>
+    <Description>Cash Transaction</Description>
+    <UPC />
+    <Price>2.71</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-12T12:16:30.875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>44</ID>
+    <Name>Party Poppers</Name>
+    <Description />
+    <UPC />
+    <Price>0.5</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>true</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>5</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-12T12:16:30.890625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>0</ID>
+    <Name>New Cart_1:30 PM</Name>
+    <Description>Cash Transaction</Description>
+    <UPC />
+    <Price>0</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-12T13:30:00.78125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>0</ID>
+    <Name>New Cart_1:40 PM</Name>
+    <Description>Cash Transaction</Description>
+    <UPC />
+    <Price>0</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-12T13:40:26.578125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>0</ID>
+    <Name>New Cart_1:30 PM</Name>
+    <Description>Cash Transaction</Description>
+    <UPC />
+    <Price>0</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-12T13:40:26.609375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>0</ID>
+    <Name>New Cart_2:12 PM</Name>
+    <Description>Cash Transaction</Description>
+    <UPC />
+    <Price>0</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-12T14:12:05.6875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>0</ID>
+    <Name>New Cart_1:40 PM</Name>
+    <Description>Cash Transaction</Description>
+    <UPC />
+    <Price>0</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-12T14:12:05.703125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>0</ID>
+    <Name>New Cart_1:30 PM</Name>
+    <Description>Cash Transaction</Description>
+    <UPC />
+    <Price>0</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-12T14:12:05.71875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>0</ID>
+    <Name>New Cart_3:19 PM</Name>
+    <Description>Credit Transaction</Description>
+    <UPC />
+    <Price>0</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-12T15:19:08.46875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>108</ID>
+    <Name>Slam Shot Rocket</Name>
+    <Description />
+    <UPC>0085761015128</UPC>
+    <Price>15.25</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>true</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-12T15:19:08.484375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>0</ID>
+    <Name>New Cart_3:23 PM</Name>
+    <Description>Cash Transaction</Description>
+    <UPC />
+    <Price>31.31</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-12T15:23:01.78125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>186</ID>
+    <Name>Build-a-Buddy Princess outfit</Name>
+    <Description />
+    <UPC />
+    <Price>10.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>true</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-12T15:23:01.796875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>187</ID>
+    <Name>Build-a-Buddy King outfit</Name>
+    <Description />
+    <UPC />
+    <Price>9.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>true</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-12T15:23:01.796875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>0</ID>
+    <Name />
+    <Description />
+    <UPC />
+    <Price>1.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>4</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-12T15:23:01.828125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>0</ID>
+    <Name>New Cart_3:24 PM</Name>
+    <Description>Cash Transaction</Description>
+    <UPC />
+    <Price>0</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-12T15:24:17.140625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>0</ID>
+    <Name>New Cart_3:42 PM</Name>
+    <Description>Cash Transaction</Description>
+    <UPC />
+    <Price>0.27</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-12T15:42:40.609375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>263</ID>
+    <Name>Candy Canes Individual</Name>
+    <Description />
+    <UPC />
+    <Price>0.25</Price>
+    <WholesalePrice>0.9</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>true</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-12T15:42:40.765625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>0</ID>
+    <Name>New Cart_3:48 PM</Name>
+    <Description>Cash Transaction</Description>
+    <UPC />
+    <Price>2.71</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-12T15:48:28.390625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>44</ID>
+    <Name>Party Poppers</Name>
+    <Description />
+    <UPC />
+    <Price>0.5</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>true</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>5</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-12T15:48:28.390625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>0</ID>
+    <Name>New Cart_3:50 PM</Name>
+    <Description>Cash Transaction</Description>
+    <UPC />
+    <Price>0.27</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-12T15:50:57.390625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>263</ID>
+    <Name>Candy Canes Individual</Name>
+    <Description />
+    <UPC />
+    <Price>0.25</Price>
+    <WholesalePrice>0.9</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>true</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-12T15:50:57.421875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>0</ID>
+    <Name>New Cart_4:04 PM</Name>
+    <Description>Credit Transaction</Description>
+    <UPC />
+    <Price>0</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-12T16:04:58.25-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>19</ID>
+    <Name>Foam Pirate Sword</Name>
+    <Description>This soft and safe foam pirate sword features a 25 inch long blade.</Description>
+    <UPC>085761092280</UPC>
+    <Price>11.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>4.99</SalePrice>
+    <OnSale>true</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>3</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-12T16:04:58.265625-07:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

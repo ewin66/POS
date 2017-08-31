@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <CashRegisterDrawer>
+    <ID>1</ID>
+    <Amount>433.17</Amount>
+    <Description>Cash Transaction for $8.14</Description>
+    <DateCreated>2012-04-13T13:59:25.0625-06:00</DateCreated>
+  </CashRegisterDrawer>
+  <CashRegisterDrawer>
+    <ID>2</ID>
+    <Amount>433.17</Amount>
+    <Description>Drawer opened to give change</Description>
+    <DateCreated>2012-04-13T14:01:58.609375-06:00</DateCreated>
+  </CashRegisterDrawer>
+  <CashRegisterDrawer>
+    <ID>3</ID>
+    <Amount>459.66</Amount>
+    <Description>Cash Transaction for $26.49</Description>
+    <DateCreated>2012-04-13T14:04:17.265625-06:00</DateCreated>
+  </CashRegisterDrawer>
+  <CashRegisterDrawer>
+    <ID>4</ID>
+    <Amount>459.66</Amount>
+    <Description>Drawer opened to give change</Description>
+    <DateCreated>2012-04-13T14:58:08.9375-06:00</DateCreated>
+  </CashRegisterDrawer>
+  <CashRegisterDrawer>
+    <ID>5</ID>
+    <Amount>466.44</Amount>
+    <Description>Cash Transaction for $6.78</Description>
+    <DateCreated>2012-04-13T18:38:59.171875-06:00</DateCreated>
+  </CashRegisterDrawer>
+  <CashRegisterDrawer>
+    <ID>6</ID>
+    <Amount>477.3</Amount>
+    <Description>Cash Transaction for $10.86</Description>
+    <DateCreated>2012-04-13T18:41:03.078125-06:00</DateCreated>
+  </CashRegisterDrawer>
+  <CashRegisterDrawer>
+    <ID>7</ID>
+    <Amount>479.74</Amount>
+    <Description>Cash Transaction for $2.44</Description>
+    <DateCreated>2012-04-13T19:24:58.515625-06:00</DateCreated>
+  </CashRegisterDrawer>
+  <CashRegisterDrawer>
+    <ID>8</ID>
+    <Amount>479.74</Amount>
+    <Description>Drawer opened to give change</Description>
+    <DateCreated>2012-04-13T19:26:16.328125-06:00</DateCreated>
+  </CashRegisterDrawer>
+  <CashRegisterDrawer>
+    <ID>9</ID>
+    <Amount>481.9</Amount>
+    <Description>Cash Transaction for $2.16</Description>
+    <DateCreated>2012-04-13T19:43:22.984375-06:00</DateCreated>
+  </CashRegisterDrawer>
+  <CashRegisterDrawer>
+    <ID>10</ID>
+    <Amount>481.9</Amount>
+    <Description>Drawer opened to give change</Description>
+    <DateCreated>2012-04-13T19:58:18.4375-06:00</DateCreated>
+  </CashRegisterDrawer>
+</NewDataSet>

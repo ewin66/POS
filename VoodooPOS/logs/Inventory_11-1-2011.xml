@@ -1,0 +1,353 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <Name>Sour Gecko</Name>
+    <Description />
+    <UPC />
+    <Price>2</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>80</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\sourgecko.jpg</picturePath>
+    <DateCreated>2011-11-01T10:10:17.636847-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>2</ID>
+    <Name>Stink Bomb</Name>
+    <Description />
+    <UPC>0031828040657</UPC>
+    <Price>2.5</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-11-01T10:15:27.3245601-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>3</ID>
+    <Name>3.75Surprise Buzzer</Name>
+    <Description />
+    <UPC>0031828040756</UPC>
+    <Price>3.75</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-11-01T10:17:24.0512365-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>4</ID>
+    <Name>Stink Bomb</Name>
+    <Description />
+    <UPC>0031828040657</UPC>
+    <Price>2.5</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-11-01T10:18:15.9022022-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>5</ID>
+    <Name>Snap Pets</Name>
+    <Description />
+    <UPC>010984060273</UPC>
+    <Price>3.99</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-11-01T10:45:22.227102-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>6</ID>
+    <Name>Skittles Light up rainbow wand</Name>
+    <Description />
+    <UPC>0609454619471</UPC>
+    <Price>6.5</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-11-01T10:48:17.9981555-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>7</ID>
+    <Name>Sip 'N Swirl Eye Glasses</Name>
+    <Description />
+    <UPC>0010984011343</UPC>
+    <Price>5.75</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>24</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-11-01T10:50:30.2397193-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>8</ID>
+    <Name>Space Saber</Name>
+    <Description />
+    <UPC>0075656006867</UPC>
+    <Price>12.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>24</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-11-01T11:17:17.4717828-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>9</ID>
+    <Name>Surprise Buzzer</Name>
+    <Description />
+    <UPC>0031828040756</UPC>
+    <Price>3.75</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-11-01T11:17:32.2426277-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>10</ID>
+    <Name>Space Saber</Name>
+    <Description />
+    <UPC>0075656006867</UPC>
+    <Price>14.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>24</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-11-01T11:19:22.9619604-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>11</ID>
+    <Name>Tricky Worms</Name>
+    <Description />
+    <UPC>0075656052192</UPC>
+    <Price>3.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>24</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-11-01T11:20:21.6933197-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>12</ID>
+    <Name>Tinker Toys</Name>
+    <Description />
+    <UPC>653569184249</UPC>
+    <Price>24.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>4</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-11-01T11:26:47.0103586-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>13</ID>
+    <Name>Happy Nappers Dog House</Name>
+    <Description />
+    <UPC />
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <DateCreated>2011-11-01T13:23:28.0972611-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>14</ID>
+    <Name>Happy Nappers Dog House</Name>
+    <Description />
+    <UPC />
+    <Price>32.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-11-01T13:25:12.2092159-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>15</ID>
+    <Name>Happy Nappers Ladybug Bungalow</Name>
+    <Description />
+    <UPC />
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>3</Quantity>
+    <picturePath />
+    <DateCreated>2011-11-01T13:26:16.9409184-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>16</ID>
+    <Name>Happy Nappers Dragon Castle</Name>
+    <Description />
+    <UPC />
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>4</Quantity>
+    <picturePath />
+    <DateCreated>2011-11-01T13:27:27.3209439-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>17</ID>
+    <Name>Happy Nappers Princess Castle</Name>
+    <Description />
+    <UPC />
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <DateCreated>2011-11-01T13:28:13.9416104-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>18</ID>
+    <Name>Happy Nappers Dragon Castle</Name>
+    <Description />
+    <UPC />
+    <Price>32.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>4</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-11-01T13:28:31.0785906-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>19</ID>
+    <Name>Happy Nappers Ladybug Bungalow</Name>
+    <Description />
+    <UPC />
+    <Price>32.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>3</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-11-01T13:28:57.7161142-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>20</ID>
+    <Name>Happy Nappers Princess Castle</Name>
+    <Description />
+    <UPC />
+    <Price>32.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-11-01T13:29:10.7608603-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>21</ID>
+    <Name>Build A Fort Kit Khaki Camo</Name>
+    <Description />
+    <UPC />
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>3</Quantity>
+    <picturePath />
+    <DateCreated>2011-11-01T13:31:54.2412108-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>22</ID>
+    <Name>Build A Fort Kit Khaki Camo</Name>
+    <Description />
+    <UPC />
+    <Price>35.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>3</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-11-01T13:33:49.0247761-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>23</ID>
+    <Name>Build A Fort Purple Camo</Name>
+    <Description />
+    <UPC />
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>4</Quantity>
+    <picturePath />
+    <DateCreated>2011-11-01T13:34:27.0279497-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>24</ID>
+    <Name>Build A Fort Purple Camo</Name>
+    <Description />
+    <UPC />
+    <Price>35.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>4</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-11-01T13:34:44.9369741-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>25</ID>
+    <Name>10 Piece Magnetic Fishing Playset</Name>
+    <Description />
+    <UPC />
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <DateCreated>2011-11-01T15:53:53.9178849-06:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

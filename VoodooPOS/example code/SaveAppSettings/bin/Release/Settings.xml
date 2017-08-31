@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="yes"?>
+<Settings>
+  <xs:schema id="Settings" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="Settings" msdata:IsDataSet="true">
+      <xs:complexType>
+        <xs:choice maxOccurs="unbounded">
+          <xs:element name="root">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Left" type="xs:int" minOccurs="0" />
+                <xs:element name="Top" type="xs:int" minOccurs="0" />
+                <xs:element name="Width" type="xs:int" minOccurs="0" />
+                <xs:element name="Height" type="xs:int" minOccurs="0" />
+                <xs:element name="WindowState" type="xs:int" minOccurs="0" />
+                <xs:element name="bgColor" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <root>
+    <Left>118</Left>
+    <Top>93</Top>
+    <Width>280</Width>
+    <Height>275</Height>
+    <WindowState>0</WindowState>
+    <bgColor>LightGray</bgColor>
+  </root>
+</Settings>

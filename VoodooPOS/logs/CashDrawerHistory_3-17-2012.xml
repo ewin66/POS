@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <CashRegisterDrawer>
+    <ID>1</ID>
+    <Amount>106.09</Amount>
+    <Description>Drawer opened to give change</Description>
+    <DateCreated>2012-03-17T14:07:51.453125-06:00</DateCreated>
+  </CashRegisterDrawer>
+</NewDataSet>

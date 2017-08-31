@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>999999</ID>
+    <Name>Puzzle wood</Name>
+    <Description />
+    <UPC />
+    <Price>8.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-11-20T11:59:11.109375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>999999</ID>
+    <Name>Puzzle - wood</Name>
+    <Description />
+    <UPC />
+    <Price>8.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-11-20T11:59:44.203125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>999999</ID>
+    <Name>Puzzle - wood</Name>
+    <Description />
+    <UPC />
+    <Price>8.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>10</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-11-20T12:00:21.59375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>999999</ID>
+    <Name>Gift Tags - wood</Name>
+    <Description />
+    <UPC />
+    <Price>0.75</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-11-20T12:00:50.203125-07:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

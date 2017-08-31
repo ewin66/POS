@@ -1,0 +1,219 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>253</ID>
+    <Name>Strpied Scarf</Name>
+    <Description />
+    <UPC />
+    <Price>2.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>2.5</SalePrice>
+    <OnSale>true</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>10</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-24T10:59:31.15625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>254</ID>
+    <Name>Long Knitted Scarf</Name>
+    <Description />
+    <UPC />
+    <Price>3.5</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-24T11:00:28.4375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>255</ID>
+    <Name>Water Baton</Name>
+    <Description />
+    <UPC />
+    <Price>2.49</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-24T11:02:53.265625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>256</ID>
+    <Name>Friendship Fashions</Name>
+    <Description />
+    <UPC />
+    <Price>2.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-24T11:05:27.6875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>257</ID>
+    <Name>Bubbles Baton</Name>
+    <Description />
+    <UPC />
+    <Price>2.49</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-24T11:05:53-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>258</ID>
+    <Name>Batteries 9v</Name>
+    <Description />
+    <UPC />
+    <Price>3.49</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-24T11:06:57.125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>259</ID>
+    <Name>Model Woodshop</Name>
+    <Description />
+    <UPC />
+    <Price>0</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>3.99</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-24T11:08:36.796875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>260</ID>
+    <Name>Spinning top</Name>
+    <Description />
+    <UPC />
+    <Price>1.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-24T11:13:06.53125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>314</ID>
+    <Name>Bubbles Baton</Name>
+    <Description />
+    <UPC />
+    <Price>2.49</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-24T13:30:24.734375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>312</ID>
+    <Name>Water Baton</Name>
+    <Description />
+    <UPC />
+    <Price>2.49</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-24T13:31:43.40625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>316</ID>
+    <Name>Model Woodshop</Name>
+    <Description />
+    <UPC />
+    <Price>3.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-24T15:50:13.671875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>316</ID>
+    <Name>Model Woodshop</Name>
+    <Description />
+    <UPC />
+    <Price>3.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-24T15:50:22.734375-07:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <categoryID>-1</categoryID>
+    <Name>Lego Spongebob Krusty Krab Adventures</Name>
+    <Description>Drive the Patty Wagon to the all-new Krusty Krab! 
+
+Dive down to Bikini Bottom for a swell time! Patrick's got the Patty Wagon all revved up and SpongeBob™ is checking out the new gadgets inside the Krusty Krab. Good ol' Mr. Krabs™ is just hoping the boys don't cause any damage!
+
+
+•SpongeBob, Patrick and Mr. Krabs minifigures included!
+•The Krusty Krab restaurant features details like Mr. Krabs safe, money, working doors and more!
+•Krabby Patty vehicle also included!
+•Measures 6.5" (16cm) long and 4" (10cm) tall!</Description>
+    <UPC>673419111959</UPC>
+    <Price>57.95</Price>
+    <WholesalePrice>24.99</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>lego</Manufacturer>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-09-06T12:02:17.3125-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>2</ID>
+    <categoryID>-1</categoryID>
+    <Name>Lego Spongebob Krusty Krab Adventures</Name>
+    <Description>Drive the Patty Wagon to the all-new Krusty Krab! 
+
+Dive down to Bikini Bottom for a swell time! Patrick's got the Patty Wagon all revved up and SpongeBob™ is checking out the new gadgets inside the Krusty Krab. Good ol' Mr. Krabs™ is just hoping the boys don't cause any damage!
+
+
+•SpongeBob, Patrick and Mr. Krabs minifigures included!
+•The Krusty Krab restaurant features details like Mr. Krabs safe, money, working doors and more!
+•Krabby Patty vehicle also included!
+•Measures 6.5" (16cm) long and 4" (10cm) tall!</Description>
+    <UPC>673419111959</UPC>
+    <Price>56.95</Price>
+    <WholesalePrice>24.99</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>lego</Manufacturer>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-09-06T12:03:15.734375-06:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

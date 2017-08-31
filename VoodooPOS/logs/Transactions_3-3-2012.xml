@@ -1,0 +1,768 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_9:58 AM</Name>
+    <Description>Credit Transaction</Description>
+    <Price>17.3</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-03-03T09:58:47.46875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>2</ID>
+    <categoryID>-1</categoryID>
+    <Name>Pocket Magic Pencil Slicer</Name>
+    <UPC>0085761071568</UPC>
+    <Price>4.65</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>1</Quantity>
+    <DateCreated>2012-03-03T09:58:47.796875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>3</ID>
+    <categoryID>-1</categoryID>
+    <Name>Bewildering Magic</Name>
+    <UPC>0639277015631</UPC>
+    <Price>4.65</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-03-03T09:58:48.296875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>4</ID>
+    <categoryID>-1</categoryID>
+    <Name>Tarot Cards</Name>
+    <UPC>816344010410</UPC>
+    <Price>1.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-03-03T09:58:48.515625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>5</ID>
+    <categoryID>-1</categoryID>
+    <Name>Magic Svengali Deck</Name>
+    <UPC>639277156440</UPC>
+    <Price>4.65</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-03-03T09:58:48.703125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>6</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_12:56 PM</Name>
+    <Description>Credit Transaction</Description>
+    <Price>37.94</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-03-03T12:56:01.046875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>7</ID>
+    <categoryID>-1</categoryID>
+    <Name>Whacky Ball</Name>
+    <Description>Hammer in the morning. Hammer in the evening. Hammer at nap time. And snack time. Whenever. Four beautiful balls-whack them-watch them go! Mirrored background makes it twice as wacky. Hammer squeaks, wheels spin, balls bang. Tray catches balls and they're ready to roll again. Shipped in assorted colors. Clear recyclable packaging with gift tag.
+
+For ages 1 - 3 years old.</Description>
+    <UPC>062243219779</UPC>
+    <Price>34.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\whackyball.jpg</PicturePath>
+    <DateCreated>2012-03-03T12:56:01.296875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>8</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_1:06 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>21.66</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-03-03T13:06:57.703125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>9</ID>
+    <categoryID>-1</categoryID>
+    <Name>Plasma Orb Light</Name>
+    <UPC>085761037038</UPC>
+    <Price>19.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-03-03T13:06:57.828125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>10</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_1:10 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>4.61</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-03-03T13:10:18.4375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>11</ID>
+    <categoryID>-1</categoryID>
+    <Name>Magic Dark Ascension Booster</Name>
+    <Description>A 15 card booster pack of the newest series in the popular card game "Magic The Gathering"</Description>
+    <UPC>653569695325</UPC>
+    <Price>4.25</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Sothern Hobby</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\darkascensionbooster.jpg</PicturePath>
+    <DateCreated>2012-03-03T13:10:18.546875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>12</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_1:28 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>11.66</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-03-03T13:28:46.375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>13</ID>
+    <categoryID>-1</categoryID>
+    <Name>Lazer fingers</Name>
+    <Description>Create your own amazing light show with these sets of mini finger lights. Each set includes four .75 x .5 inch lights with elastic bands. Each light projects a different color.</Description>
+    <UPC>085761146358</UPC>
+    <Price>4.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\lazerfinger.bmp</PicturePath>
+    <DateCreated>2012-03-03T13:28:46.484375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>14</ID>
+    <categoryID>-1</categoryID>
+    <Name>Sip 'N Swirl Eye Glasses</Name>
+    <UPC>0010984011343</UPC>
+    <Price>5.75</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-03-03T13:28:46.71875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>15</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_1:49 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>5.42</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-03-03T13:49:42.734375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>16</ID>
+    <categoryID>-1</categoryID>
+    <Name>Solar dancing bugs</Name>
+    <UPC>639277095138</UPC>
+    <Price>4.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>dollar tree</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-03-03T13:49:42.859375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>17</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_2:09 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>5.42</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-03-03T14:09:22.75-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>18</ID>
+    <categoryID>-1</categoryID>
+    <Name>Solar dancing bugs</Name>
+    <UPC>639277095138</UPC>
+    <Price>4.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>dollar tree</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-03-03T14:09:22.875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>19</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_2:12 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>10.1</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-03-03T14:12:35.1875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>20</ID>
+    <categoryID>-1</categoryID>
+    <Name>Money Magic</Name>
+    <UPC>639277815637</UPC>
+    <Price>4.65</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-03-03T14:13:06.078125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>21</ID>
+    <categoryID>-1</categoryID>
+    <Name>Pocket Magic</Name>
+    <UPC>0085761071520</UPC>
+    <Price>4.65</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-03-03T14:13:06.265625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>22</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_2:20 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>2.16</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-03-03T14:20:06.203125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>23</ID>
+    <categoryID>-1</categoryID>
+    <Name>Thats Gross! Growing Body Part</Name>
+    <UPC>639277205278</UPC>
+    <Price>1.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-03-03T14:20:06.328125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>24</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_2:59 PM</Name>
+    <Description>Credit Transaction</Description>
+    <Price>19.53</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-03-03T14:59:50.3125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>25</ID>
+    <categoryID>-1</categoryID>
+    <Name>Twister</Name>
+    <UPC>653569489054</UPC>
+    <Price>17.99</Price>
+    <WholesalePrice>17.99</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toys R us</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-03-03T15:00:01.046875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>26</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_3:07 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>6.5</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-03-03T15:07:40.171875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>27</ID>
+    <categoryID>-1</categoryID>
+    <Name>Peg game</Name>
+    <Description>This classic wooden puzzle is a puzzle anyone in your family will enjoy! Jump the pegs to remove all but 1 peg from the board. Sounds easy? Give it a shot--we assure you, this is not as easy as it seems. Will challenge any puzzle master's IQ for hours. It also comes in a collectible box, making it a great gift for the classic toy collector in your family.</Description>
+    <UPC>085761127845</UPC>
+    <Price>5.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\peggame.jpg</PicturePath>
+    <DateCreated>2012-03-03T15:07:40.28125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>28</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_3:08 PM</Name>
+    <Description>Credit Transaction</Description>
+    <Price>14.65</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-03-03T15:08:50.21875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>29</ID>
+    <categoryID>-1</categoryID>
+    <Name>Mood Ring</Name>
+    <UPC>085761128446</UPC>
+    <Price>4.5</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>3</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-03-03T15:08:50.328125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>30</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_3:14 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>1.09</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-03-03T15:14:16.109375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>31</ID>
+    <categoryID>-1</categoryID>
+    <Name>incence</Name>
+    <Price>0.2</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>5</Quantity>
+    <DateCreated>2012-03-03T15:14:16.171875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>32</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_3:17 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>1.09</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-03-03T15:17:15.421875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>33</ID>
+    <categoryID>-1</categoryID>
+    <Price>0.2</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>5</Quantity>
+    <DateCreated>2012-03-03T15:18:01.5-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>34</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_3:53 PM</Name>
+    <Description>Credit Transaction</Description>
+    <Price>33.05</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-03-03T15:53:31.34375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>35</ID>
+    <categoryID>-1</categoryID>
+    <Name>Potty Putty</Name>
+    <Description>It makes Fart Noises Plus it's fun to fidget with</Description>
+    <UPC>085761097131</UPC>
+    <Price>3.5</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\pottyputty.jpg</PicturePath>
+    <DateCreated>2012-03-03T15:53:31.453125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>36</ID>
+    <categoryID>-1</categoryID>
+    <Name>Carnivorous Creations Terrarium</Name>
+    <Description>Grow Your Own Collection of Feared and Famous Meat-eating Plants! 
+This deluxe Carnivorous Creations kit has seeds from over 10 varieties of carnivorous plants, including the Cobra Plant, Venus Fly Trap, Pitcher Plant, Trumpet Plant and more. 
+You'll make your own authentic bog with the included peat planting mix, blue Swamp Rocks, three Bog Buddies and colorful decals! 
+This rare and unusual collection of plants will flourish for years in the specially designed terrarium with proper care and stratification. 
+Like all plants, carnivorous plants use the sun to produce energy through photosynthesis. However, these plants grow in peat bogs where there are no additional minerals or nutrients in the soil. Because of this, over time, carnivorous plants began to catch insects for food to get the much needed minerals and nutrients the peat around them lacked. After having acquired the skill of hunting, these carnivorous plants began to thrive. 
+The plants attract insects to their traps by producing a sweet odor. When small insects land on the plant, they touch tiny hairs that set off triggers and cause the trap to close making escape impossible. Each type of carnivorous plant traps their prey in a different way. 
+The famous Venus Fly Trap has jaw-like leaves that snap shut. The Hooded Pitcher Plant has downward facing spikes that prevent the insect from flying out. Some plants produce chemicals that dissolve the insect while other plants depend on bacteria and other microorganisms to help them digest. Once digested and absorbed, the insect becomes liquified nutrients that help the plant work and live.
+Each Complete Kit Includes:
+•Growing Dome 
+•Planting Mixture 
+•Carnivorous Seed Pack
+•3 Photo Decals 
+•3 Bog Buddies
+•Swamp Rocks 
+•Instructions and Information Manual</Description>
+    <UPC>851694000094</UPC>
+    <Price>26.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Ben International</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\Carnivorouscreations.jpg</PicturePath>
+    <DateCreated>2012-03-03T15:53:31.671875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>37</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_3:59 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>2.17</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-03-03T15:59:07.25-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>38</ID>
+    <categoryID>-1</categoryID>
+    <Price>0.2</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>10</Quantity>
+    <DateCreated>2012-03-03T15:59:15.125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>39</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_4:03 PM</Name>
+    <Description>Credit Transaction</Description>
+    <Price>8.66</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-03-03T16:03:35.0625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>40</ID>
+    <categoryID>-1</categoryID>
+    <Name>Ultra Pro Green Deck Box</Name>
+    <Description>Sturdy plastic green card deck box holds up to 80 Cards
+Great for keeping your most powerful cards in perfect condition!</Description>
+    <UPC>074427814519</UPC>
+    <Price>3.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>sourthern hobby</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\greendb.jpg</PicturePath>
+    <DateCreated>2012-03-03T16:03:35.1875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>41</ID>
+    <categoryID>-1</categoryID>
+    <Name>Ultra Pro black deck box</Name>
+    <Description>Sturdy plastic black card deck box holds up to 80 Cards
+Great for keeping your most powerful cards in perfect condition!</Description>
+    <UPC>074427814533</UPC>
+    <Price>3.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>southern hobby</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\blackdb.jpg</PicturePath>
+    <DateCreated>2012-03-03T16:03:35.390625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>42</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_4:42 PM</Name>
+    <Description>Credit Transaction</Description>
+    <Price>37.17</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-03-03T16:42:48.828125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>43</ID>
+    <categoryID>-1</categoryID>
+    <Name>Owl pop up</Name>
+    <Description>Kids love pop-up books. Now they can take that idea to a whole new level and create their very own Djeco Owl Pop Up Paper Art. From flat package to intricate wall dcor, this fabulous art craft kit transforms into an awesome, artistic 3-dimensional paper owl wall hanging. All supplies included.</Description>
+    <UPC>307090004904</UPC>
+    <Price>29.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\owlpop.jpg</PicturePath>
+    <DateCreated>2012-03-03T16:42:48.953125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>44</ID>
+    <categoryID>-1</categoryID>
+    <Name>Puzzle Mini wire</Name>
+    <UPC>085761080515</UPC>
+    <Price>4.25</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-03-03T16:42:49.171875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>45</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_5:21 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>4.32</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-03-03T17:21:02.359375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>46</ID>
+    <categoryID>-1</categoryID>
+    <Name>Select/Scan an Item</Name>
+    <Price>0</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-03-03T17:21:02.484375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>47</ID>
+    <categoryID>-1</categoryID>
+    <Name>Gazz-it!</Name>
+    <UPC>694744226262</UPC>
+    <Price>1.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-03-03T17:21:22.90625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>48</ID>
+    <categoryID>-1</categoryID>
+    <Name>Bouncing putty</Name>
+    <UPC>639277258304</UPC>
+    <Price>1.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-03-03T17:21:23.796875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>49</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_6:05 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>4.88</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-03-03T18:05:21.53125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>50</ID>
+    <categoryID>-1</categoryID>
+    <Name>Hackey Sacks</Name>
+    <UPC>NA</UPC>
+    <Price>4.5</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-03-03T18:05:21.65625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>51</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_6:25 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>29.745</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-03-03T18:25:46.53125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>52</ID>
+    <categoryID>-1</categoryID>
+    <Name>Windhorse prayer flag</Name>
+    <Price>7.5</Price>
+    <WholesalePrice>3.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-03-03T18:25:46.734375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>53</ID>
+    <categoryID>-1</categoryID>
+    <Name>Sorry Board Game</Name>
+    <UPC>073000003906</UPC>
+    <Price>22.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>king soopers</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-03-03T18:25:46.984375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>54</ID>
+    <categoryID>-1</categoryID>
+    <Name>HAIL Nasty Discount</Name>
+    <Price>-3.045</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>-3.045</SalePrice>
+    <OnSale>true</OnSale>
+    <Quantity>1</Quantity>
+    <DateCreated>2012-03-03T18:25:47.078125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>55</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_6:36 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>7.33</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-03-03T18:36:40.140625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>56</ID>
+    <categoryID>-1</categoryID>
+    <Name>X Stream Internal Wing Aircraft</Name>
+    <UPC>0085761077683</UPC>
+    <Price>6.75</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-03-03T18:36:40.265625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>57</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_6:45 PM</Name>
+    <Description>Cash Transaction</Description>
+    <Price>4.29</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-03-03T18:45:21.046875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>58</ID>
+    <categoryID>-1</categoryID>
+    <Name>Tricky Worms</Name>
+    <UPC>0075656052192</UPC>
+    <Price>3.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <DateCreated>2012-03-03T18:45:21.171875-07:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

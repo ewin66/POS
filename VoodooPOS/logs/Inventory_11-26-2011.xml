@@ -1,0 +1,147 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <Name>All Terrain Vehicles</Name>
+    <Description />
+    <UPC />
+    <Price>13.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-11-26T12:44:15.921875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>2</ID>
+    <Name>Radio Control  Car</Name>
+    <Description />
+    <UPC />
+    <Price>12.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-11-26T12:45:45.8125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>128</ID>
+    <Name>Happy Nappers Dog House</Name>
+    <Description />
+    <UPC />
+    <Price>20.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-11-26T14:29:15.546875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>130</ID>
+    <Name>Happy Nappers Dragon Castle</Name>
+    <Description />
+    <UPC />
+    <Price>20.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>4</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-11-26T14:29:28.203125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>129</ID>
+    <Name>Happy Nappers Ladybug Bungalow</Name>
+    <Description />
+    <UPC />
+    <Price>20.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>3</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-11-26T14:29:36.046875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>131</ID>
+    <Name>Happy Nappers Princess Castle</Name>
+    <Description />
+    <UPC />
+    <Price>20.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-11-26T14:29:44.875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>196</ID>
+    <Name>Classic Hideaway</Name>
+    <Description />
+    <UPC />
+    <Price>19.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>4</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-11-26T16:19:02.140625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>197</ID>
+    <Name>Learning Phone</Name>
+    <Description />
+    <UPC />
+    <Price>13.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>2</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-11-26T16:27:46.296875-07:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

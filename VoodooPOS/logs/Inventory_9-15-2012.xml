@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <categoryID>-1</categoryID>
+    <Name>Rainbow clay</Name>
+    <Description>High quality modeling clay in a set of 24 colors. 18 oz of clay in each set. Make lots of fun figures and designs.</Description>
+    <UPC>085761024311</UPC>
+    <Price>9.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-09-15T12:07:08.484375-06:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

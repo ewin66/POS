@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="VoodooPOS.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="BackgroundImagePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/images/logo5.jpg</Value>
+    </Setting>
+    <Setting Name="LogoImagePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ImageNotFoundImagePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/images/coming-soon.jpg</Value>
+    </Setting>
+    <Setting Name="TaxRate" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">7.4</Value>
+    </Setting>
+    <Setting Name="EndOfBusinessDay24HourTime" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+    <Setting Name="MinimumCreditCharge" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

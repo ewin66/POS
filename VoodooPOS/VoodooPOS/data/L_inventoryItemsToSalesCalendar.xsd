@@ -1,0 +1,15 @@
+<xsd:schema xmlns:schema="L_inventoryItemsToSalesCalendarSchema" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:sqltypes="http://schemas.microsoft.com/sqlserver/2004/sqltypes" targetNamespace="L_inventoryItemsToSalesCalendarSchema" elementFormDefault="qualified">
+<xsd:import namespace="http://schemas.microsoft.com/sqlserver/2004/sqltypes" schemaLocation="http://schemas.microsoft.com/sqlserver/2004/sqltypes/sqltypes.xsd" />
+<xsd:element name="L_inventoryItemsToSalesCalendar">
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name="ID" type="sqltypes:int" />
+<xsd:element name="InventoryItemID" type="sqltypes:int" />
+<xsd:element name="SalePrice" type="sqltypes:int" />
+<xsd:element name="StartDate" type="sqltypes:datetime" />
+<xsd:element name="EndDate" type="sqltypes:datetime" />
+<xsd:element name="CreatedDate" type="sqltypes:datetime" />
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+</xsd:schema>

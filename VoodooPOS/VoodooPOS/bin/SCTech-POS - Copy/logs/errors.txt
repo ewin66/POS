@@ -1,0 +1,6 @@
+4/8/2015 12:47 PM : Failure sending mail.
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at SCTech.Common.Email.SendEmail(String accountName, String from, String subject, String body) in D:\utilities\Programming\c#\Common\Common.cs:line 961
+4/8/2015 12:48 PM : Failure sending mail.
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at SCTech.Common.Email.SendEmail(String accountName, String from, String subject, String body) in D:\utilities\Programming\c#\Common\Common.cs:line 961

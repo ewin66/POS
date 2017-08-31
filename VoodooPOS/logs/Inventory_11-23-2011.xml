@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <Name>Mood Ring</Name>
+    <Description />
+    <UPC />
+    <Price>4.5</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>30</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-11-23T16:21:11.5-07:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

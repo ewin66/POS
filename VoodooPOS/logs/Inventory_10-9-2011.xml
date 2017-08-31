@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <Name>test</Name>
+    <Description />
+    <UPC />
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath>D:\utilities\Programming\VoodooPOS\VoodooPOS\bin\Debug\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-09T21:01:49.4678593-06:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

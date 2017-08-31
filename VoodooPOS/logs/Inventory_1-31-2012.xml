@@ -1,0 +1,136 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <categoryID>-1</categoryID>
+    <Name>Card Protector sleeves</Name>
+    <Price>2.99</Price>
+    <WholesalePrice>1.7</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Southern Hobby</Manufacturer>
+    <Quantity>5</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-01-31T12:05:46.375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>2</ID>
+    <categoryID>-1</categoryID>
+    <Name>Blast Bow</Name>
+    <UPC>085761015357</UPC>
+    <Price>24.95</Price>
+    <WholesalePrice>10</WholesalePrice>
+    <SalePrice>17.5</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>6</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\InventoryImages\blastbow3.jpg</PicturePath>
+    <DateCreated>2012-01-31T14:28:30.09375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>3</ID>
+    <categoryID>-1</categoryID>
+    <Name>Boinks</Name>
+    <UPC>0085761031340</UPC>
+    <Price>0.99</Price>
+    <WholesalePrice>0.4</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>99</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\InventoryImages\boink.jpg</PicturePath>
+    <DateCreated>2012-01-31T14:28:51.25-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>4</ID>
+    <categoryID>-1</categoryID>
+    <Name>Build A Fort Kit Khaki Camo</Name>
+    <Price>34.95</Price>
+    <WholesalePrice>16.95</WholesalePrice>
+    <SalePrice>24.5</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\InventoryImages\buildAFort.jpg</PicturePath>
+    <DateCreated>2012-01-31T14:29:03.796875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>5</ID>
+    <categoryID>-1</categoryID>
+    <Name>Build A Fort Purple Camo</Name>
+    <Price>34.95</Price>
+    <WholesalePrice>34.95</WholesalePrice>
+    <SalePrice>24.5</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>4</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\InventoryImages\buildAFort.jpg</PicturePath>
+    <DateCreated>2012-01-31T14:29:18.546875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>6</ID>
+    <categoryID>-1</categoryID>
+    <Name>Candy Worlds Biggest Candy Necklace</Name>
+    <Description>Necklace measures 30 ½ “long and contains 120 pieces of candy.</Description>
+    <Price>2.99</Price>
+    <WholesalePrice>1.25</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>22</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\InventoryImages\candynecklace.jpg</PicturePath>
+    <DateCreated>2012-01-31T14:29:45.46875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>7</ID>
+    <categoryID>-1</categoryID>
+    <Name>Cash Register</Name>
+    <UPC>0085761066403</UPC>
+    <Price>34.95</Price>
+    <WholesalePrice>15</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>4</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\InventoryImages\cashregister.jpg</PicturePath>
+    <DateCreated>2012-01-31T14:29:57.703125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>8</ID>
+    <categoryID>-1</categoryID>
+    <Name>Classic Dinosaurs</Name>
+    <Description>These7 inch molded vinyl dinosaurs are vibrantly painted and come in six assorted styles.</Description>
+    <UPC>085761097575</UPC>
+    <Price>3.75</Price>
+    <WholesalePrice>1.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>23</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\InventoryImages\classicdinosaurs.jpg</PicturePath>
+    <DateCreated>2012-01-31T14:30:08.21875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>9</ID>
+    <categoryID>-1</categoryID>
+    <Name>Contractor's Tool Kit</Name>
+    <UPC>0062243203556</UPC>
+    <Price>26.95</Price>
+    <WholesalePrice>11</WholesalePrice>
+    <SalePrice>18.95</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>6</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\InventoryImages\contractortoolkit.jpg</PicturePath>
+    <DateCreated>2012-01-31T14:30:22.640625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>10</ID>
+    <categoryID>-1</categoryID>
+    <Name>Cosmic Thruster</Name>
+    <UPC>085761052994</UPC>
+    <Price>24.95</Price>
+    <WholesalePrice>9</WholesalePrice>
+    <SalePrice>17.5</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>6</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\InventoryImages\cosmicthruster.jpg</PicturePath>
+    <DateCreated>2012-01-31T14:30:31.9375-07:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

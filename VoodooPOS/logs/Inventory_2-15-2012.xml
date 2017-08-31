@@ -1,0 +1,1143 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <categoryID>-1</categoryID>
+    <Name>Nightmare Before Christmas Square Jack Pillow</Name>
+    <UPC>634482280119</UPC>
+    <Price>24.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>ee</Manufacturer>
+    <Quantity>5</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\Nightmare Before Christmas Square Jack Pillow.jpg</PicturePath>
+    <DateCreated>2012-02-15T12:00:26.75-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>2</ID>
+    <categoryID>-1</categoryID>
+    <Name>Nightmare Before Christmas Square Jack Pillow</Name>
+    <UPC>634482280119</UPC>
+    <Price>27.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>ee</Manufacturer>
+    <Quantity>5</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\Nightmare Before Christmas Square Jack Pillow.jpg</PicturePath>
+    <DateCreated>2012-02-15T12:02:19.71875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>3</ID>
+    <categoryID>-1</categoryID>
+    <Name>Grow Your Own Herbs</Name>
+    <Description>These miniature herb garden kits come in a cute 2 inch galvanized bucket and include seeds, growing medium and instructions. Assortment includes three each of Parsley, Chives, Thyme and Basil gardens. Made by Toysmith. Pack of 12 each.
+
+</Description>
+    <UPC>085761143296</UPC>
+    <Price>8.99</Price>
+    <WholesalePrice>3.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>12</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\growYourOwnHerbs.jpg</PicturePath>
+    <DateCreated>2012-02-15T12:07:11.234375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>4</ID>
+    <categoryID>-1</categoryID>
+    <Name>Sensitive Plants</Name>
+    <Description>Grow your own interactive plants! Fainting plants wilt when touched, and Dancing Plants move when exposed to sunlight. Each packaged kit includes seeds, growing medium, a little 1 inch mini pot and instructions.</Description>
+    <UPC>085761143043</UPC>
+    <Price>8.99</Price>
+    <WholesalePrice>3.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>12</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\sensitivePlants.jpg</PicturePath>
+    <DateCreated>2012-02-15T12:12:42.328125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>5</ID>
+    <categoryID>-1</categoryID>
+    <Name>Cutie Mood Ring</Name>
+    <UPC>085761128446</UPC>
+    <Price>4.5</Price>
+    <WholesalePrice>1.25</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>38</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-15T12:15:40.484375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>6</ID>
+    <categoryID>-1</categoryID>
+    <Name>Super Stacking Tops</Name>
+    <UPC>085761063655</UPC>
+    <Price>9.5</Price>
+    <WholesalePrice>3</WholesalePrice>
+    <SalePrice>6.75</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>16</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-15T12:18:27.21875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>7</ID>
+    <categoryID>-1</categoryID>
+    <Name>Medical Set</Name>
+    <Description> pretend medical kit with eleven pieces, Features a white travel case with handle, scissors, tongs, and tweezers and more. 
+
+The toy Medical Kit is a pretend eleven piece play-set that includes: a white travel case with handle, scissors, tongs, tweezers, a mirror, a tray, a stethoscope, a thermometer, a syringe, a hammer, a blood pressure gauge, and an ear examiner. Case measures 9.75 inches long x 4-inches diameter x 8.25 inches high.
+
+</Description>
+    <UPC>0062243181977</UPC>
+    <Price>26.95</Price>
+    <WholesalePrice>11</WholesalePrice>
+    <SalePrice>18.95</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>8</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\medicalKit.jpg</PicturePath>
+    <DateCreated>2012-02-15T12:23:36.453125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>8</ID>
+    <categoryID>-1</categoryID>
+    <Name>Periscope</Name>
+    <Description>This periscope extends to 14 inches, making it easy to look over and around other objects. Assorted Colors - Yours will be chosen at random from stock. If you tell us if it is for a boy or girl, we will choose an appropriate color.</Description>
+    <UPC>0085761069145</UPC>
+    <Price>14.95</Price>
+    <WholesalePrice>6</WholesalePrice>
+    <SalePrice>10.5</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>7</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-15T12:25:46.96875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>9</ID>
+    <categoryID>-1</categoryID>
+    <Name>Pocket Magic Single Pocket Tricks</Name>
+    <UPC>085761092440</UPC>
+    <Price>4.65</Price>
+    <WholesalePrice>1.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>23</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-15T12:27:28.734375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>10</ID>
+    <categoryID>-1</categoryID>
+    <Name>Hurry Scurry Spider</Name>
+    <Description>Scare your friends with the realistic scurry of these creepy 2.5 inch battery powered spiders! Requires one AG13 battery - included.</Description>
+    <UPC>085761157712</UPC>
+    <Price>4.99</Price>
+    <WholesalePrice>2.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>12</Quantity>
+    <DateCreated>2012-02-15T12:33:36.46875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>11</ID>
+    <categoryID>-1</categoryID>
+    <Name>Hurry Scurry Spider</Name>
+    <Description>Scare your friends with the realistic scurry of these creepy 2.5 inch battery powered spiders! Requires one AG13 battery - included.</Description>
+    <UPC>085761157712</UPC>
+    <Price>4.99</Price>
+    <WholesalePrice>2.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>12</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\Hurry Scurry Spider.jpg</PicturePath>
+    <DateCreated>2012-02-15T12:34:35.90625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>12</ID>
+    <categoryID>-1</categoryID>
+    <Name>Hurry Scurry Spider</Name>
+    <Description>Scare your friends with the realistic scurry of these creepy 2.5 inch battery powered spiders! Requires one AG13 battery - included.</Description>
+    <UPC>085761157712</UPC>
+    <Price>4.99</Price>
+    <WholesalePrice>2.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>12</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\Hurry Scurry Spider.jpg</PicturePath>
+    <DateCreated>2012-02-15T12:35:02.796875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>13</ID>
+    <categoryID>-1</categoryID>
+    <Name>Hurry Scurry Spider</Name>
+    <Description>Scare your friends with the realistic scurry of these creepy 2.5 inch battery powered spiders! Requires one AG13 battery - included.</Description>
+    <UPC>085761157712</UPC>
+    <Price>4.99</Price>
+    <WholesalePrice>2.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>12</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\Hurry Scurry Spider.jpg</PicturePath>
+    <DateCreated>2012-02-15T12:35:17.421875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>14</ID>
+    <categoryID>-1</categoryID>
+    <Name>Magnets and More set</Name>
+    <Description>Magnet Set . Fun and educational, this set includes eight assorted magnets and five paperclips for magnetic experiments..
+</Description>
+    <UPC>0622432363560</UPC>
+    <Price>6.99</Price>
+    <WholesalePrice>2</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>12</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\magnets8.jpg</PicturePath>
+    <DateCreated>2012-02-15T12:36:59.296875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>15</ID>
+    <categoryID>-1</categoryID>
+    <Name>X Stream Internal Wing Aircraft</Name>
+    <UPC>0085761077683</UPC>
+    <Price>6.75</Price>
+    <WholesalePrice>3</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>23</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-15T12:38:25.09375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>16</ID>
+    <categoryID>-1</categoryID>
+    <Name>Firefly</Name>
+    <UPC>665766081207</UPC>
+    <Price>4.75</Price>
+    <WholesalePrice>1.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>23</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-15T12:39:20.875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>17</ID>
+    <categoryID>-1</categoryID>
+    <Name>Firefly</Name>
+    <Description>Launch the Firefly to incredible heights with the included launcher. It spirals back to earth thanks to its uniquely designed fins. The high intensity LED allows you to launch it day or night. Batteries included.</Description>
+    <UPC>665766081207</UPC>
+    <Price>4.75</Price>
+    <WholesalePrice>1.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>23</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\firefly.jpg</PicturePath>
+    <DateCreated>2012-02-15T12:41:25.9375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>18</ID>
+    <categoryID>-1</categoryID>
+    <Name>Grow Your Own Herbs</Name>
+    <Description>These miniature herb garden kits come in a cute 2 inch galvanized bucket and include seeds, growing medium and instructions. Assortment includes three each of Parsley, Chives, Thyme and Basil gardens. Made by Toysmith. Pack of 12 each.
+
+</Description>
+    <UPC>085761143296</UPC>
+    <Price>8.99</Price>
+    <WholesalePrice>3.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>12</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\growYourOwnHerbs.jpg</PicturePath>
+    <DateCreated>2012-02-15T12:45:25.3125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>19</ID>
+    <categoryID>-1</categoryID>
+    <Name>Sensitive Plants</Name>
+    <Description>Grow your own interactive plants! Fainting plants wilt when touched, and Dancing Plants move when exposed to sunlight. Each packaged kit includes seeds, growing medium, a little 1 inch mini pot and instructions.</Description>
+    <UPC>085761143043</UPC>
+    <Price>8.99</Price>
+    <WholesalePrice>3.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>12</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\sensitivePlants.jpg</PicturePath>
+    <DateCreated>2012-02-15T12:45:50.78125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>20</ID>
+    <categoryID>-1</categoryID>
+    <Name>Grow Your Own Herbs</Name>
+    <Description>These miniature herb garden kits come in a cute 2 inch galvanized bucket and include seeds, growing medium and instructions. Assortment includes three each of Parsley, Chives, Thyme and Basil gardens. Made by Toysmith. Pack of 12 each.</Description>
+    <UPC>085761143296</UPC>
+    <Price>8.99</Price>
+    <WholesalePrice>3.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>12</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\growYourOwnHerbs.jpg</PicturePath>
+    <DateCreated>2012-02-15T12:46:37.09375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>21</ID>
+    <categoryID>-1</categoryID>
+    <Name>Littlest Pet Shop</Name>
+    <UPC>0653569603207</UPC>
+    <Price>6.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-15T12:50:21.140625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>22</ID>
+    <categoryID>-1</categoryID>
+    <Name>Littlest Pet Shop</Name>
+    <UPC>0653569603207</UPC>
+    <Price>6.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-15T12:50:41.5-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>23</ID>
+    <categoryID>-1</categoryID>
+    <Name>My Little Pony Lily Blossom</Name>
+    <UPC>0653569577720</UPC>
+    <Price>9.5</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-15T12:52:42.6875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>24</ID>
+    <categoryID>-1</categoryID>
+    <Name>My Little Pony Lily Blossom</Name>
+    <UPC>0653569577720</UPC>
+    <Price>9.5</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-15T12:52:55.125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>25</ID>
+    <categoryID>-1</categoryID>
+    <Name>My Little Pony Cherrilee</Name>
+    <UPC>653569577744</UPC>
+    <Price>9.5</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-15T12:53:11.640625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>26</ID>
+    <categoryID>-1</categoryID>
+    <Name>My Little Pony Pinky Pie</Name>
+    <UPC>653569543886</UPC>
+    <Price>9.5</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-15T12:53:20.546875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>27</ID>
+    <categoryID>-1</categoryID>
+    <Name>My Little Pony ApplyJack</Name>
+    <UPC>0653569543909</UPC>
+    <Price>9.5</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-15T12:53:59.34375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>28</ID>
+    <categoryID>-1</categoryID>
+    <Name>My Little Pony Twilight Sparkle</Name>
+    <UPC>0653569543923</UPC>
+    <Price>9.5</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-15T12:54:11.75-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>29</ID>
+    <categoryID>-1</categoryID>
+    <Name>My Little Pony Rarity</Name>
+    <UPC>0653569543893</UPC>
+    <Price>9.5</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-15T12:54:21.1875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>30</ID>
+    <categoryID>-1</categoryID>
+    <Name>Incy Bincies 10 pack</Name>
+    <UPC>845218001131</UPC>
+    <Price>8.95</Price>
+    <WholesalePrice>4</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>24</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-15T12:55:24.40625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>31</ID>
+    <categoryID>-1</categoryID>
+    <Name>Incy Bincies 10 pack</Name>
+    <UPC>845218001131</UPC>
+    <Price>8.95</Price>
+    <WholesalePrice>4</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>24</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-15T12:56:58.953125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>32</ID>
+    <categoryID>-1</categoryID>
+    <Name>Littlest Pet Shop Shimmer and Shine 2151</Name>
+    <Description>This little pet is as fancy as can be and cant wait to play with you! This elephant pet will make an adorable and shimmery addition to your collection. You and your new pet will have all kinds of fun together! </Description>
+    <UPC>653569603023</UPC>
+    <Price>11.99</Price>
+    <WholesalePrice>4.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>ee</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\littlestPetShopShimmerAndShine.jpg</PicturePath>
+    <DateCreated>2012-02-15T13:05:39.75-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>33</ID>
+    <categoryID>-1</categoryID>
+    <Name>Littlest Pet Shop Shimmer and Shine 2153</Name>
+    <UPC>653569603047</UPC>
+    <Price>11.99</Price>
+    <WholesalePrice>4.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <DateCreated>2012-02-15T13:07:01-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>34</ID>
+    <categoryID>-1</categoryID>
+    <Name>Littlest Pet Shop Shimmer and Shine 2156</Name>
+    <Description>This little pet is as fancy as can be and cant wait to play with you! This elephant pet will make an adorable and shimmery addition to your collection. You and your new pet will have all kinds of fun together! </Description>
+    <UPC>653569603085</UPC>
+    <Price>11.99</Price>
+    <WholesalePrice>4.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <DateCreated>2012-02-15T13:08:11.546875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>35</ID>
+    <categoryID>-1</categoryID>
+    <Name>Littlest Pet Shop Shimmer and Shine 2152</Name>
+    <Description>This little pet is as fancy as can be and cant wait to play with you! This elephant pet will make an adorable and shimmery addition to your collection. You and your new pet will have all kinds of fun together! </Description>
+    <UPC>653569603030</UPC>
+    <Price>11.99</Price>
+    <WholesalePrice>4.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <DateCreated>2012-02-15T13:09:18.078125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>36</ID>
+    <categoryID>-1</categoryID>
+    <Name>Littlest Pet Shop Shimmer and Shine 2154</Name>
+    <Description>This little pet is as fancy as can be and cant wait to play with you! This elephant pet will make an adorable and shimmery addition to your collection. You and your new pet will have all kinds of fun together! </Description>
+    <UPC>653569603054</UPC>
+    <Price>11.99</Price>
+    <WholesalePrice>4.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <DateCreated>2012-02-15T13:10:28.109375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>37</ID>
+    <categoryID>-1</categoryID>
+    <Name>Littlest Pet Shop Shimmer and Shine 2155</Name>
+    <Description>This little pet is as fancy as can be and cant wait to play with you! This elephant pet will make an adorable and shimmery addition to your collection. You and your new pet will have all kinds of fun together! </Description>
+    <UPC>653569603078</UPC>
+    <Price>11.99</Price>
+    <WholesalePrice>4.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <DateCreated>2012-02-15T13:11:24.734375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>38</ID>
+    <categoryID>-1</categoryID>
+    <Name>Littlest Pet Shop Shimmer and Shine 2151</Name>
+    <Description>This little pet is as fancy as can be and cant wait to play with you! This elephant pet will make an adorable and shimmery addition to your collection. You and your new pet will have all kinds of fun together! </Description>
+    <UPC>653569603023</UPC>
+    <Price>11.99</Price>
+    <WholesalePrice>4.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>ee</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\littlestPetShopShimmerAndShine.jpg</PicturePath>
+    <DateCreated>2012-02-15T13:11:49.671875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>39</ID>
+    <categoryID>-1</categoryID>
+    <Name>My Little Pony - Fluttershy</Name>
+    <Description>Pretty tricycle with butterfly riding on the basket is the perfect way for your pony figure to visit all her animal friends! Pony figure comes with tricycle, butterfly, flowers and scarf. FLUTTERSHY is a kind and gentle pony with a big heart. She likes to take care of others, especially her little animal friends! Help your FLUTTERSHY pony figure visit all her friends in style! This pretty tricycle has a butterfly riding on the basket to lead the way. A fashionable scarf lets the FLUTTERSHY pony figure look adorable as she "rides" her tricycle! Tricycle comes with FLUTTERSHY pony figure and butterfly, flowers and scarf accessories. </Description>
+    <UPC>653569605171</UPC>
+    <Price>19.99</Price>
+    <WholesalePrice>8.4</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>ee</Manufacturer>
+    <Quantity>3</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\myLittlePonyFluttershy.jpg</PicturePath>
+    <DateCreated>2012-02-15T13:20:44.015625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>40</ID>
+    <categoryID>-1</categoryID>
+    <Name>My Little Pony - Fluttershy</Name>
+    <Description>Pretty tricycle with butterfly riding on the basket is the perfect way for your pony figure to visit all her animal friends! Pony figure comes with tricycle, butterfly, flowers and scarf. FLUTTERSHY is a kind and gentle pony with a big heart. She likes to take care of others, especially her little animal friends! Help your FLUTTERSHY pony figure visit all her friends in style! This pretty tricycle has a butterfly riding on the basket to lead the way. A fashionable scarf lets the FLUTTERSHY pony figure look adorable as she "rides" her tricycle! Tricycle comes with FLUTTERSHY pony figure and butterfly, flowers and scarf accessories. </Description>
+    <UPC>653569605171</UPC>
+    <Price>19.99</Price>
+    <WholesalePrice>8.4</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>ee</Manufacturer>
+    <Quantity>3</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\myLittlePonyFluttershy.jpg</PicturePath>
+    <DateCreated>2012-02-15T13:22:27.796875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>41</ID>
+    <categoryID>-1</categoryID>
+    <Name>Slam Shot Rocket</Name>
+    <UPC>0085761015128</UPC>
+    <Price>15.25</Price>
+    <WholesalePrice>6.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>13</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-15T13:34:43.046875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>42</ID>
+    <categoryID>-1</categoryID>
+    <Name>Operation Game With Sound FX</Name>
+    <Price>26.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>4</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-15T13:35:47.515625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>43</ID>
+    <categoryID>-1</categoryID>
+    <Name>Operation Game With Sound FX</Name>
+    <Price>26.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>4</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-15T13:35:53.921875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>44</ID>
+    <categoryID>-1</categoryID>
+    <Name>My Little Pony - Rainbow Dash</Name>
+    <Description>friends. RAINBOW DASH loves to ride to the park and practice skateboarding tricks!
+
+With an awesome skateboard, kneepads and visor, your RAINBOW DASH pony figure is ready to have some fun at the skate park! Help her zip and zoom through her skateboarding adventures, with her adorable turtle along for the ride! Your RAINBOW DASH pony figure is always ready to play and skateboard with you!
+
+Pony figure comes with skateboard, basket, visor, water bottle, 2 knee pads and turtle. 
+</Description>
+    <UPC>653569605218</UPC>
+    <Price>19.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>8.4</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>ee</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\myLittlePonyRainbowDash.jpg</PicturePath>
+    <DateCreated>2012-02-15T13:48:38.5-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>45</ID>
+    <categoryID>-1</categoryID>
+    <Name>My Little Pony - Twilight Sparkle</Name>
+    <Description>TWILIGHT SPARKLE tries to find the answer to every question! Whether studying a book or spending time with friends, she always learns something new! Help your TWILIGHT SPARKLE pony figure zip though town on her scooter to get to the library! Her sweet kitty fits in the back to come along for the ride, and her pretty helmet makes your TWILIGHT SPARKLE pony figure look fashionable and fun. She always has a book along so she can read anytime but she's always ready to imagine new stories with you! Pony figure comes with scooter, helmet, kitty and book. 
+</Description>
+    <UPC>653569605188</UPC>
+    <Price>19.99</Price>
+    <WholesalePrice>8.4</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>3</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\myLIttlePonyTwilightSparkle.jpg</PicturePath>
+    <DateCreated>2012-02-15T13:51:27.515625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>46</ID>
+    <categoryID>-1</categoryID>
+    <Name>Tinkertoy Junior Builder Set</Name>
+    <Description>The construction toy that's been a favorite for generations! This Tinkertoy set features 66 easy-fitting, durable, real wood and plastic pieces for creating all kinds of great designs!
+
+Build structures using the enclosed design guide or use your imagination to make lots of new and different creations! 66 piece set includes 25 rods, 2 couplings, 14 spools, 2 flags, 2 pulleys, 4 small tubes, 4 large tubes, 2 pods, 1 pod coupling, 2 pod hangers, 8 rail holders and design guide.
+
+Age: 3 years +
+
+
+</Description>
+    <UPC>076930548110</UPC>
+    <Price>24.95</Price>
+    <WholesalePrice>8.25</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>ee</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\TinkertoyJuniorBuilderSet.jpg</PicturePath>
+    <DateCreated>2012-02-15T13:56:15.578125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>47</ID>
+    <categoryID>-1</categoryID>
+    <Name>Tinkertoy Junior Builder Set</Name>
+    <Description>The construction toy that's been a favorite for generations! This Tinkertoy set features 66 easy-fitting, durable, real wood and plastic pieces for creating all kinds of great designs!
+
+Build structures using the enclosed design guide or use your imagination to make lots of new and different creations! 66 piece set includes 25 rods, 2 couplings, 14 spools, 2 flags, 2 pulleys, 4 small tubes, 4 large tubes, 2 pods, 1 pod coupling, 2 pod hangers, 8 rail holders and design guide.
+
+Age: 3 years +
+
+
+</Description>
+    <UPC>076930548110</UPC>
+    <Price>29.95</Price>
+    <WholesalePrice>8.25</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>ee</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\TinkertoyJuniorBuilderSet.jpg</PicturePath>
+    <DateCreated>2012-02-15T13:57:58.390625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>48</ID>
+    <categoryID>-1</categoryID>
+    <Name>Nightmare Before Christmas Square Jack Pillow</Name>
+    <UPC>634482280119</UPC>
+    <Price>29.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>ee</Manufacturer>
+    <Quantity>5</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\Nightmare Before Christmas Square Jack Pillow.jpg</PicturePath>
+    <DateCreated>2012-02-15T13:59:07.609375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>49</ID>
+    <categoryID>-1</categoryID>
+    <Name>Nightmare Before Christmas Square Jack Pillow</Name>
+    <UPC>634482280119</UPC>
+    <Price>29.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>ee</Manufacturer>
+    <Quantity>5</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\Nightmare Before Christmas Square Jack Pillow.jpg</PicturePath>
+    <DateCreated>2012-02-15T13:59:17.765625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>50</ID>
+    <categoryID>-1</categoryID>
+    <Name>Nightmare before christmas jack cylinder plush Pillow</Name>
+    <Description>Nightmare Before Christmas Jack Cylinder Plush NECA Nightmare Before Christmas Plush This Nightmare Before Christmas Jack Cylinder Plush makes an excellent addition in the home of any Nightmare Before Christmas fan. This cylindrical lycra plush is remarkably soft and squishy. The black plush features white pin-stripes and a big smiley of Jack Skellington on one side.</Description>
+    <UPC>634482327340</UPC>
+    <Price>19.95</Price>
+    <WholesalePrice>6.45</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>ee</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\Nightmare Before Christmas Jack Cylinder Plush.jpg</PicturePath>
+    <DateCreated>2012-02-15T14:21:15.75-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>51</ID>
+    <categoryID>-1</categoryID>
+    <Name>Root Viewer</Name>
+    <Description>Watch vegetables grow before your eyes with this exciting and educational kit. Includes wooden tube holder, three 5.5" plastic root viewers, growing medium, seeds and instructions. 
+
+√ Ages 5+
+√ Wooden tube holder
+√ 3 plastic root viewers
+√ Carrot, onion and radish seeds
+√ Educational activity journal
+
+
+</Description>
+    <UPC>085761028913</UPC>
+    <Price>12.95</Price>
+    <WholesalePrice>5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>6</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\rootViewer.jpg</PicturePath>
+    <DateCreated>2012-02-15T14:27:45.984375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>52</ID>
+    <categoryID>-1</categoryID>
+    <Name>Root Viewer</Name>
+    <Description>Watch vegetables grow before your eyes with this exciting and educational kit. Includes wooden tube holder, three 5.5" plastic root viewers, growing medium, seeds and instructions. 
+
+√ Ages 5+
+√ Wooden tube holder
+√ 3 plastic root viewers
+√ Carrot, onion and radish seeds
+√ Educational activity journal
+
+
+</Description>
+    <UPC>085761028913</UPC>
+    <Price>12.95</Price>
+    <WholesalePrice>5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>6</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\rootViewer.jpg</PicturePath>
+    <DateCreated>2012-02-15T14:28:48.3125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>53</ID>
+    <categoryID>-1</categoryID>
+    <Name>Grow Your Own Herbs</Name>
+    <Description>These miniature herb garden kits come in a cute 2 inch galvanized bucket and include seeds, growing medium and instructions. Assortment includes three each of Parsley, Chives, Thyme and Basil gardens. Made by Toysmith. Pack of 12 each.</Description>
+    <UPC>085761143296</UPC>
+    <Price>4.99</Price>
+    <WholesalePrice>2</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>12</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\growYourOwnHerbs.jpg</PicturePath>
+    <DateCreated>2012-02-15T14:31:32.015625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>54</ID>
+    <categoryID>-1</categoryID>
+    <Name>Grow Your Own Herbs</Name>
+    <Description>These miniature herb garden kits come in a cute 2 inch galvanized bucket and include seeds, growing medium and instructions. Assortment includes three each of Parsley, Chives, Thyme and Basil gardens. Made by Toysmith. Pack of 12 each.</Description>
+    <UPC>085761143296</UPC>
+    <Price>4.99</Price>
+    <WholesalePrice>2</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>12</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\growYourOwnHerbs.jpg</PicturePath>
+    <DateCreated>2012-02-15T14:31:38.921875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>55</ID>
+    <categoryID>-1</categoryID>
+    <Name>Net and Critter Gear</Name>
+    <Description>Each net is packaged with three exploration accessories.Net has an 18 inch handle and a 7 inch opening.</Description>
+    <UPC>085761040441</UPC>
+    <Price>8.99</Price>
+    <WholesalePrice>3.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>12</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\Net and Critter Gear.jpg</PicturePath>
+    <DateCreated>2012-02-15T14:36:12.046875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>56</ID>
+    <categoryID>-1</categoryID>
+    <Name>Net and Critter Gear</Name>
+    <Description>Each net is packaged with three exploration accessories.Net has an 18 inch handle and a 7 inch opening.</Description>
+    <UPC>085761040441</UPC>
+    <Price>8.99</Price>
+    <WholesalePrice>3.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>12</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\Net and Critter Gear.jpg</PicturePath>
+    <DateCreated>2012-02-15T14:36:30.8125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>57</ID>
+    <categoryID>-1</categoryID>
+    <Name>Root Viewer</Name>
+    <Description>Watch vegetables grow before your eyes with this exciting and educational kit. Includes wooden tube holder, three 5.5" plastic root viewers, growing medium, seeds and instructions. 
+
+√ Ages 5+
+√ Wooden tube holder
+√ 3 plastic root viewers
+√ Carrot, onion and radish seeds
+√ Educational activity journal</Description>
+    <UPC>085761028913</UPC>
+    <Price>12.95</Price>
+    <WholesalePrice>5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>6</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\rootViewer.jpg</PicturePath>
+    <DateCreated>2012-02-15T14:37:00.78125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>58</ID>
+    <categoryID>-1</categoryID>
+    <Name>Design Your Own Kite</Name>
+    <Description>Toysmith Design Your Own Kite Kit Create a one-of-a-kind kite with this hands-on kite-building kit! Kit includes everything necessary to custom make your own kite, including 20-inch white kite with tail and string, plus paints and brush to create your own masterpiece. Kite is approximately 20" tall. Ships within 1-2 days via USPS Priority from Oregon. Not recommended for children under 4. 
+
+</Description>
+    <UPC>085761142404</UPC>
+    <Price>19.99</Price>
+    <WholesalePrice>7</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>6</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\Design Your Own Kite.jpg</PicturePath>
+    <DateCreated>2012-02-15T14:39:59.71875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>59</ID>
+    <categoryID>-1</categoryID>
+    <Name>Design Your Own Kite</Name>
+    <Description>Toysmith Design Your Own Kite Kit Create a one-of-a-kind kite with this hands-on kite-building kit! Kit includes everything necessary to custom make your own kite, including 20-inch white kite with tail and string, plus paints and brush to create your own masterpiece. Kite is approximately 20" tall. Ships within 1-2 days via USPS Priority from Oregon. Not recommended for children under 4. 
+
+</Description>
+    <UPC>085761142404</UPC>
+    <Price>19.99</Price>
+    <WholesalePrice>7</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>6</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\Design Your Own Kite.jpg</PicturePath>
+    <DateCreated>2012-02-15T14:40:23.703125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>60</ID>
+    <categoryID>-1</categoryID>
+    <Name>Tinkertoy Junior Builder Set</Name>
+    <Description>The construction toy that's been a favorite for generations! This Tinkertoy set features 66 easy-fitting, durable, real wood and plastic pieces for creating all kinds of great designs!
+
+Build structures using the enclosed design guide or use your imagination to make lots of new and different creations! 66 piece set includes 25 rods, 2 couplings, 14 spools, 2 flags, 2 pulleys, 4 small tubes, 4 large tubes, 2 pods, 1 pod coupling, 2 pod hangers, 8 rail holders and design guide.
+
+Age: 3 years +</Description>
+    <UPC>076930548110</UPC>
+    <Price>29.95</Price>
+    <WholesalePrice>8.25</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>ee</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\TinkertoyJuniorBuilderSet.jpg</PicturePath>
+    <DateCreated>2012-02-15T14:45:24.5-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>61</ID>
+    <categoryID>-1</categoryID>
+    <Name>Nightmare before christmas jack cylinder plush Pillow</Name>
+    <Description>Nightmare Before Christmas Jack Cylinder Plush NECA Nightmare Before Christmas Plush This Nightmare Before Christmas Jack Cylinder Plush makes an excellent addition in the home of any Nightmare Before Christmas fan. This cylindrical lycra plush is remarkably soft and squishy. The black plush features white pin-stripes and a big smiley of Jack Skellington on one side.</Description>
+    <UPC>634482327340</UPC>
+    <Price>19.95</Price>
+    <WholesalePrice>6.45</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>ee</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\Nightmare Before Christmas Jack Cylinder Plush.jpg</PicturePath>
+    <DateCreated>2012-02-15T14:48:06.625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>62</ID>
+    <categoryID>-1</categoryID>
+    <Name>Nightmare Before Christmas Square Jack Pillow</Name>
+    <UPC>634482280119</UPC>
+    <Price>29.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>ee</Manufacturer>
+    <Quantity>5</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\Nightmare Before Christmas Square Jack Pillow.jpg</PicturePath>
+    <DateCreated>2012-02-15T14:49:13.828125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>63</ID>
+    <categoryID>-1</categoryID>
+    <Name>Elephant pop up</Name>
+    <Description>Djeco Elephantaisie Pop Up Art Wall Decor 
+Size: 16.14 inches tall, 12.6 inches wide, 8.27 inches diagonal 
+Designed by Charlotte Labaronne in France</Description>
+    <UPC>307090004902</UPC>
+    <Price>29.99</Price>
+    <WholesalePrice>15</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\elephantpop.jpg</PicturePath>
+    <DateCreated>2012-02-15T14:50:21.96875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>64</ID>
+    <categoryID>-1</categoryID>
+    <Name>Walking Stick</Name>
+    <Description>Solid wood, hand crafted walking stick.</Description>
+    <Price>23.95</Price>
+    <WholesalePrice>10</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>3</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-15T14:50:56.359375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>65</ID>
+    <categoryID>-1</categoryID>
+    <Name>Walking Stick with Compass</Name>
+    <Price>26.95</Price>
+    <WholesalePrice>12</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Lickeys Knotty Woods</Manufacturer>
+    <Quantity>3</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-15T14:51:16.296875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>66</ID>
+    <categoryID>-1</categoryID>
+    <Name>Bee umbrella</Name>
+    <Description>Features easy-grip handle and wrist cord.</Description>
+    <UPC>085761140073</UPC>
+    <Price>14.95</Price>
+    <WholesalePrice>5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>3</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\beeumbrella.jpg</PicturePath>
+    <DateCreated>2012-02-15T14:52:44.4375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>67</ID>
+    <categoryID>-1</categoryID>
+    <Name>Voodoo Toy Shop Souvenier Shirt</Name>
+    <Description>S, M, L, XL White T-shirt with store logo and voodoo doll</Description>
+    <Price>14.95</Price>
+    <WholesalePrice>3</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toyshop</Manufacturer>
+    <Quantity>6</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-15T14:53:23.1875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>68</ID>
+    <categoryID>-1</categoryID>
+    <Name>Forest animals blocks</Name>
+    <Description>Whimsical 10 nesting cubes with 5 illustrated sides of animals perched in the tree, forest animals, mom and baby, numbers and patterns. </Description>
+    <UPC>307090008507</UPC>
+    <Price>22.95</Price>
+    <WholesalePrice>11</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>3</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\forestblocks.jpg</PicturePath>
+    <DateCreated>2012-02-15T15:07:09.46875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>69</ID>
+    <categoryID>-1</categoryID>
+    <Name>Topanimo Stacking game</Name>
+    <Description>Stack, nest and play with this adorable block set! This set of 6 blocks are brightly colored, numbered, and house a farm animal in each! Stack them in a tower or lay them out to play. Blocks feature fun patterns, flowers and numbers. Ages: 18 months and Up 
+</Description>
+    <UPC>307090009103</UPC>
+    <Price>27.95</Price>
+    <WholesalePrice>14</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\topanimo.bmp</PicturePath>
+    <DateCreated>2012-02-15T15:08:02.9375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>70</ID>
+    <categoryID>-1</categoryID>
+    <Name>Zombie Zack</Name>
+    <UPC>0085761142749</UPC>
+    <Price>3.25</Price>
+    <WholesalePrice>1.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>29</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-15T15:10:50.78125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>71</ID>
+    <categoryID>-1</categoryID>
+    <Name>Bungee blast</Name>
+    <Description>Pull back this soft 7 inch foam rocket blaster, let it fling, and watch it soar up to 100 feet. Assorted blue-yellow and red-yellow colors</Description>
+    <UPC>085761077881</UPC>
+    <Price>2.5</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>25</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\bungeeblast.bmp</PicturePath>
+    <DateCreated>2012-02-15T15:12:11.75-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>72</ID>
+    <categoryID>-1</categoryID>
+    <Name>Magnets and More set</Name>
+    <Description>Magnet Set . Fun and educational, this set includes eight assorted magnets and five paperclips for magnetic experiments..</Description>
+    <UPC>0622432363560</UPC>
+    <Price>6.99</Price>
+    <WholesalePrice>2</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>12</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\magnets8.jpg</PicturePath>
+    <DateCreated>2012-02-15T15:12:36.796875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>73</ID>
+    <categoryID>-1</categoryID>
+    <Name>Lego Racers Toolbox and Playmat</Name>
+    <UPC>878119001245</UPC>
+    <Price>19.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-15T15:16:28.484375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>74</ID>
+    <categoryID>-1</categoryID>
+    <Name>Lego Star Wars Battle of Naboo</Name>
+    <Description>The invasion of the planet Naboo has begun! As the Trade Federation deploys its vast battle droid army from the Trade Federation troop carriers, Jar Jar Binks and his fellow Gungans prepare to repel the invasion. Includes eight battle droids with blasters, two droid pilots, Jar Jar Binks and Gungan scout minifigures. 
+</Description>
+    <UPC>673419144520</UPC>
+    <Price>38.95</Price>
+    <WholesalePrice>24.99</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Lego</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\Legobattlenaboo.bmp</PicturePath>
+    <DateCreated>2012-02-15T15:16:56.859375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>75</ID>
+    <categoryID>-1</categoryID>
+    <Name>Wild Flyers Pocket Parafoil</Name>
+    <UPC>639277091673</UPC>
+    <Price>4.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-15T15:20:07.40625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>76</ID>
+    <categoryID>-1</categoryID>
+    <Name>Voodoo Toy Shop Souvenier Shirt</Name>
+    <Description>S, M, L, XL White T-shirt with store logo and voodoo doll</Description>
+    <Price>14.95</Price>
+    <WholesalePrice>3</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toyshop</Manufacturer>
+    <Quantity>6</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-15T15:27:40.609375-07:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

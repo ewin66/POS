@@ -1,0 +1,19 @@
+<xsd:schema xmlns:schema="L_inventoryItemsToQuickButtonsSchema" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:sqltypes="http://schemas.microsoft.com/sqlserver/2004/sqltypes" targetNamespace="L_inventoryItemsToQuickButtonsSchema" elementFormDefault="qualified">
+<xsd:import namespace="http://schemas.microsoft.com/sqlserver/2004/sqltypes" schemaLocation="http://schemas.microsoft.com/sqlserver/2004/sqltypes/sqltypes.xsd" />
+<xsd:element name="L_inventoryItemsToQuickButtons">
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name="ID" type="sqltypes:int" />
+<xsd:element name="inventoryItemID" type="sqltypes:int" />
+<xsd:element name="btnText" minOccurs="0">
+<xsd:simpleType>
+<xsd:restriction base="sqltypes:varchar" sqltypes:localeId="1033" sqltypes:sqlCompareOptions="IgnoreCase IgnoreKanaType IgnoreWidth" sqltypes:sqlSortId="52">
+<xsd:maxLength value="50" />
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="dateCreated" type="sqltypes:datetime" />
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+</xsd:schema>

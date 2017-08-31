@@ -1,0 +1,423 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <Name>10 Piece Magnetic Fishing Playset</Name>
+    <Description />
+    <UPC />
+    <Price>13.5</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <backordered>false</backordered>
+    <DateCreated>2011-11-02T09:18:44.5617829-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>2</ID>
+    <Name>10 Piece Magnetic Fishing Playset</Name>
+    <Description />
+    <UPC />
+    <Price>13.5</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>2</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <backordered>false</backordered>
+    <DateCreated>2011-11-02T09:18:58.8616008-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>3</ID>
+    <Name>Pop Bottle Science Kit</Name>
+    <Description />
+    <UPC />
+    <Price>19.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>2</Quantity>
+    <picturePath />
+    <backordered>false</backordered>
+    <DateCreated>2011-11-02T09:21:35.2795474-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>4</ID>
+    <Name>200 pc Wooden Log Building Set (Lincoln Log stye)</Name>
+    <Description />
+    <UPC />
+    <Price>24.5</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>2</Quantity>
+    <picturePath />
+    <backordered>false</backordered>
+    <DateCreated>2011-11-02T09:23:53.1784348-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>5</ID>
+    <Name>Whoppair Boxing Gloves</Name>
+    <Description />
+    <UPC />
+    <Price>18.5</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>2</Quantity>
+    <picturePath />
+    <backordered>false</backordered>
+    <DateCreated>2011-11-02T09:26:03.8169069-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>6</ID>
+    <Name>Turtle Lighted Bath Fountain</Name>
+    <Description />
+    <UPC />
+    <Price>15.75</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>2</Quantity>
+    <picturePath />
+    <backordered>false</backordered>
+    <DateCreated>2011-11-02T09:27:54.6502462-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>7</ID>
+    <Name>Octopus Lighted Bath Fountain</Name>
+    <Description />
+    <UPC />
+    <Price>15.75</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>2</Quantity>
+    <picturePath />
+    <backordered>false</backordered>
+    <DateCreated>2011-11-02T09:36:53.6430748-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>8</ID>
+    <Name>51 pc Deli Shop Play Food Set</Name>
+    <Description />
+    <UPC />
+    <Price>32.5</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath />
+    <backordered>false</backordered>
+    <DateCreated>2011-11-02T09:42:09.4361372-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>9</ID>
+    <Name>66 pc Birthday Party Play Food Set</Name>
+    <Description />
+    <UPC />
+    <Price>32.5</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath />
+    <backordered>false</backordered>
+    <DateCreated>2011-11-02T09:43:24.996459-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>10</ID>
+    <Name>Inflated Rubber Balls</Name>
+    <Description />
+    <UPC />
+    <Price>3.5</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <backordered>false</backordered>
+    <DateCreated>2011-11-02T09:46:33.7852571-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>11</ID>
+    <Name>Reese's Peanut Butter Cup</Name>
+    <Description />
+    <UPC />
+    <Price>1.75</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>36</Quantity>
+    <picturePath />
+    <backordered>false</backordered>
+    <DateCreated>2011-11-02T09:53:04.7276177-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>12</ID>
+    <Name>Snickers Candy Bar</Name>
+    <Description />
+    <UPC />
+    <Price>1.75</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>48</Quantity>
+    <picturePath />
+    <backordered>false</backordered>
+    <DateCreated>2011-11-02T09:56:09.6061921-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>13</ID>
+    <Name>Snickers Candy Bar</Name>
+    <Description />
+    <UPC>04010207</UPC>
+    <Price>1.75</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>48</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <backordered>false</backordered>
+    <DateCreated>2011-11-02T09:57:12.7298026-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>14</ID>
+    <Name>Reese's Peanut Butter Cup</Name>
+    <Description />
+    <UPC>03444009</UPC>
+    <Price>1.75</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>36</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <backordered>false</backordered>
+    <DateCreated>2011-11-02T09:59:09.5074819-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>15</ID>
+    <Name>Snapple Kiwi Strawberry Juice Bottle</Name>
+    <Description />
+    <UPC>0076183202036</UPC>
+    <Price>2.75</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>8</Quantity>
+    <picturePath />
+    <backordered>false</backordered>
+    <DateCreated>2011-11-02T10:04:39.4463533-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>16</ID>
+    <Name>Snapple Mango Madness Juice Bottle</Name>
+    <Description />
+    <UPC>0076183202043</UPC>
+    <Price>2.75</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>8</Quantity>
+    <picturePath />
+    <backordered>false</backordered>
+    <DateCreated>2011-11-02T10:06:44.3524975-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>17</ID>
+    <Name>Snapple Fruit Punch Juice Bottles</Name>
+    <Description />
+    <UPC>0076183202050</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>8</Quantity>
+    <picturePath />
+    <backordered>false</backordered>
+    <DateCreated>2011-11-02T10:08:04.5040819-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>18</ID>
+    <Name>Drinking Water Bottle</Name>
+    <Description />
+    <UPC>027541007602</UPC>
+    <Price>1.25</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>35</Quantity>
+    <picturePath />
+    <backordered>false</backordered>
+    <DateCreated>2011-11-02T10:13:58.2993179-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>19</ID>
+    <Name>Snapple Fruit Punch Juice Bottles</Name>
+    <Description />
+    <UPC>0076183202050</UPC>
+    <Price>2.5</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>8</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <backordered>false</backordered>
+    <DateCreated>2011-11-02T10:14:26.3009195-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>20</ID>
+    <Name>Snapple Kiwi Strawberry Juice Bottle</Name>
+    <Description />
+    <UPC>0076183202036</UPC>
+    <Price>2.5</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>8</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <backordered>false</backordered>
+    <DateCreated>2011-11-02T10:14:42.1208243-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>21</ID>
+    <Name>Snapple Mango Madness Juice Bottle</Name>
+    <Description />
+    <UPC>0076183202043</UPC>
+    <Price>2.5</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>8</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <backordered>false</backordered>
+    <DateCreated>2011-11-02T10:15:01.1119106-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>22</ID>
+    <Name>Wrigley's 5 Gum Solstice</Name>
+    <Description />
+    <UPC>02295709</UPC>
+    <Price>1.85</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <backordered>false</backordered>
+    <DateCreated>2011-11-02T10:20:49.5518402-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>23</ID>
+    <Name>Wrigley's 5 Gum Solstice</Name>
+    <Description />
+    <UPC>02295709</UPC>
+    <Price>1.85</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>3</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <backordered>false</backordered>
+    <DateCreated>2011-11-02T10:21:50.1713074-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>24</ID>
+    <Name>Wrigley's 5 Gum Rain</Name>
+    <Description />
+    <UPC>02251404</UPC>
+    <Price>1.85</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>3</Quantity>
+    <picturePath />
+    <backordered>false</backordered>
+    <DateCreated>2011-11-02T10:23:48.0070472-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>25</ID>
+    <Name>Wrigley's 5 Gum React 2</Name>
+    <Description />
+    <UPC>022000117014</UPC>
+    <Price>1.85</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>3</Quantity>
+    <picturePath />
+    <backordered>false</backordered>
+    <DateCreated>2011-11-02T10:25:26.4836798-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>26</ID>
+    <Name>Wrigley's 5 Gum Cobalt</Name>
+    <Description />
+    <UPC>02251200</UPC>
+    <Price>1.85</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>3</Quantity>
+    <picturePath />
+    <backordered>false</backordered>
+    <DateCreated>2011-11-02T10:28:08.0259195-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>27</ID>
+    <Name>Trident Watermelon Twist</Name>
+    <Description />
+    <UPC>0012546615952</UPC>
+    <Price>1.85</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath />
+    <backordered>false</backordered>
+    <DateCreated>2011-11-02T10:31:39.1199934-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>28</ID>
+    <Name>Kit Kat Candy Bar</Name>
+    <Description />
+    <UPC>03424607</UPC>
+    <Price>1.75</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>36</Quantity>
+    <picturePath />
+    <backordered>false</backordered>
+    <DateCreated>2011-11-02T10:37:32.5092061-06:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

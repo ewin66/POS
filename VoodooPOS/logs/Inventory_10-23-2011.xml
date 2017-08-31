@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <Name>test4</Name>
+    <Description />
+    <UPC />
+    <Price>5</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>45</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-23T00:12:15.1660619-06:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

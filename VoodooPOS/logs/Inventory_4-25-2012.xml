@@ -1,0 +1,64 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <categoryID>-1</categoryID>
+    <Name>Lego City Zip Bin</Name>
+    <Description>Keep your childs room totally neat with LEGO City ZipBin Medium Toy Box Playmat. When unzipped, it becomes a city-themed playscape perfect for testing out new LEGO creations! When play is done, capture all the bricks inside. Sturdy, strong, stackable and portable. LEGO bricks not included. ZipBin - totally neat. For ages 3 years and up. 
+</Description>
+    <UPC>8781190009</UPC>
+    <Price>24.95</Price>
+    <WholesalePrice>10.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Neat-oh Heidi</Manufacturer>
+    <Quantity>6</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\cityzipbin.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-25T14:27:06.125-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>2</ID>
+    <categoryID>-1</categoryID>
+    <Name>Lego Star Wars Battle Bridge Zip Bin</Name>
+    <Description>The ZipBin LEGO Star Wars Battle Bridge Carry Case Playmat combines a Star Wars-themed playmat and a storage solution in one. Be it carrying your favorite LEGO blocks around to attack your enemies or packing your bag after suffering defeat, this ZipBin playmat comes handy. The carry case for the LEGO building set allows you to carry around the battle bridge, which can be easily unpacked to have hours of fun and stored away till the next battle. This carry case is easy to maintain - you only have to wipe it clean surface. The sturdy heavy-duty zippers provide quick and easy access to the contents. 
+
+ZipBin LEGO Star Wars Battle Bridge Carry Case Playmat
+•Colorful, durable, wipe-clean surface
+•Sturdy, heavy-duty zippers
+•Bin Dimensions: 12.8" x 8.3" x 7"
+•Mat Dimensions: 28" x 26"
+•LEGO blocks not included
+</Description>
+    <UPC>8781190016</UPC>
+    <Price>22.95</Price>
+    <WholesalePrice>9.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Neat-oh Heidi</Manufacturer>
+    <Quantity>6</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\legostarwarszipbin.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-25T14:34:01.90625-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>3</ID>
+    <categoryID>-1</categoryID>
+    <Name>Lego City Zip Bin</Name>
+    <Description>Keep your childs room totally neat with LEGO City ZipBin Medium Toy Box Playmat. When unzipped, it becomes a city-themed playscape perfect for testing out new LEGO creations! When play is done, capture all the bricks inside. Sturdy, strong, stackable and portable. LEGO bricks not included. ZipBin - totally neat. For ages 3 years and up. 
+</Description>
+    <UPC>8781190009</UPC>
+    <Price>24.95</Price>
+    <WholesalePrice>10.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Neat-oh Heidi</Manufacturer>
+    <Quantity>6</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\cityzipbin.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-25T14:35:43.8125-06:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

@@ -1,0 +1,143 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <Name>Knitting Art</Name>
+    <Description />
+    <UPC>085961093546</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>3</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-24T14:30:16.0077663-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>2</ID>
+    <Name>Party String</Name>
+    <Description />
+    <UPC>0097138400819</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>24</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-24T14:35:52.1349917-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>3</ID>
+    <Name>Glow light stick - 6 inch</Name>
+    <Description>Snap the 6” stick then shake and watch it glow. Glows up to 6 hours. Assorted colors.</Description>
+    <UPC>085761097025</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>50</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\glowstick.jpg</picturePath>
+    <DateCreated>2011-10-24T14:43:01.6175567-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>4</ID>
+    <Name>Flashing Puffer Ball Yo-Yo</Name>
+    <Description>Each two-tone ball has a “yo-activated” flashing light inside. Balls are 5” in diameter and have a 2” string. Six assorted color combinations.</Description>
+    <UPC>085761083745</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>24</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-24T14:47:06.7405769-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>5</ID>
+    <Name>Classic Dinosaurs</Name>
+    <Description>These7 inch molded vinyl dinosaurs are vibrantly painted and come in six assorted styles.</Description>
+    <UPC>085761097575</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>24</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\classicdinosaurs.jpg</picturePath>
+    <DateCreated>2011-10-24T14:49:37.6692095-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>6</ID>
+    <Name>Party Poppers</Name>
+    <Description />
+    <UPC />
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>50</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-24T14:52:35.6453892-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>7</ID>
+    <Name>Super Ropes</Name>
+    <Description>34 inches of Fun and Flavor</Description>
+    <UPC />
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>30</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-24T14:53:44.2323121-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>8</ID>
+    <Name>Worlds Biggest Candy Necklace</Name>
+    <Description>Necklace measures 30 ½ “long and contains 120 pieces of candy.</Description>
+    <UPC />
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>24</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\candynecklace.jpg</picturePath>
+    <DateCreated>2011-10-24T14:56:20.568254-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>9</ID>
+    <Name>Flashing Puffer Ball Yo-Yo</Name>
+    <Description>Each two-tone ball has a “yo-activated” flashing light inside. Balls are 5” in diameter and have a 2” string. Six assorted color combinations.</Description>
+    <UPC>085761083745</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>24</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\flashpufferballyoyo.jpg</picturePath>
+    <DateCreated>2011-10-24T14:56:42.9505342-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>10</ID>
+    <Name>Magic Mic</Name>
+    <Description />
+    <UPC />
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-24T15:17:52.0791242-06:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

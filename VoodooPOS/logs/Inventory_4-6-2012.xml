@@ -1,0 +1,65 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <categoryID>-1</categoryID>
+    <Name>Animal snap Bracelets </Name>
+    <UPC>085761091153</UPC>
+    <Price>2.99</Price>
+    <WholesalePrice>1.25</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith </Manufacturer>
+    <Quantity>36</Quantity>
+    <active>false</active>
+    <displayOnWeb>false</displayOnWeb>
+    <DateCreated>2012-04-06T15:21:33.25-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>2</ID>
+    <categoryID>-1</categoryID>
+    <Name>Newtons Cradle </Name>
+    <UPC>085761318847</UPC>
+    <Price>12.99</Price>
+    <WholesalePrice>5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>0</Quantity>
+    <active>false</active>
+    <displayOnWeb>false</displayOnWeb>
+    <DateCreated>2012-04-06T15:23:24.234375-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>3</ID>
+    <categoryID>-1</categoryID>
+    <Name>Newtons Cradle </Name>
+    <UPC>085761318847</UPC>
+    <Price>12.99</Price>
+    <WholesalePrice>5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>11</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>false</active>
+    <displayOnWeb>false</displayOnWeb>
+    <DateCreated>2012-04-06T17:34:03.03125-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>4</ID>
+    <categoryID>-1</categoryID>
+    <Name>Animal snap Bracelets </Name>
+    <UPC>085761091153</UPC>
+    <Price>2.99</Price>
+    <WholesalePrice>1.25</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith </Manufacturer>
+    <Quantity>36</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>false</active>
+    <displayOnWeb>false</displayOnWeb>
+    <DateCreated>2012-04-06T17:35:08.984375-06:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

@@ -1,0 +1,1881 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <categoryID>-1</categoryID>
+    <Name>Panda pop up</Name>
+    <Description>This pop up art is enclosed in a large envelope that hides a surprising present: a work made entirely of paper that opens like a book and expands into a stunning 3D decoration you can hang on your children's bedroom walls.</Description>
+    <UPC>307090004903</UPC>
+    <Price>24.95</Price>
+    <WholesalePrice>15</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\pandapopup.jpg</PicturePath>
+    <DateCreated>2012-02-12T08:40:06.1875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>2</ID>
+    <categoryID>-1</categoryID>
+    <Name>Dragondule pop up</Name>
+    <Description>Dimensions: 40 x 59 x 9 cm
+Material: paper
+
+Design: Christian Montenegro
+
+Un superb dragon to decorate the wall of your bedroom!
+
+A work made entirely of paper that opens like a book and expands into a stunning 3D decoration you can hang on your children's bedroom walls.
+
+This new version of the pop-up item is a joint creation by the art teams from Djeco and Italian paper engineer and children's author Dario Cestaro.</Description>
+    <UPC>307090004922</UPC>
+    <Price>24.95</Price>
+    <WholesalePrice>15</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Djeco</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\dragondule.jpg</PicturePath>
+    <DateCreated>2012-02-12T08:41:21.484375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>3</ID>
+    <categoryID>-1</categoryID>
+    <Name>Elephant pop up</Name>
+    <Description>Djeco Elephantaisie Pop Up Art Wall Decor 
+Size: 16.14 inches tall, 12.6 inches wide, 8.27 inches diagonal 
+Designed by Charlotte Labaronne in France 
+</Description>
+    <UPC>307090004902</UPC>
+    <Price>24.95</Price>
+    <WholesalePrice>15</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\elephantpop.jpg</PicturePath>
+    <DateCreated>2012-02-12T08:43:08.71875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>4</ID>
+    <categoryID>-1</categoryID>
+    <Name>Lion pop up</Name>
+    <Description>Decorative pop up wall art 
+Comes virtually ready to hang 
+Composed of a composite paper 
+Recommended for ages 3 and up 
+</Description>
+    <UPC>307090004925</UPC>
+    <Price>24.99</Price>
+    <WholesalePrice>15</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\lionpop.bmp</PicturePath>
+    <DateCreated>2012-02-12T08:43:45.734375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>5</ID>
+    <categoryID>-1</categoryID>
+    <Name>Lilibellule pop up</Name>
+    <Description>Kids love pop-up books. Now they can take that idea to a whole new level and create their very own Djeco Happy Liil Pop Up Paper Art. Going from flat package to intricate wall dcor, this fabulous art craft kit transforms into an awesome, artistic, 3-dimensional paper wall hanging. All supplies included. 
+</Description>
+    <UPC>307090004911</UPC>
+    <Price>24.99</Price>
+    <WholesalePrice>15</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\lilibellule.jpg</PicturePath>
+    <DateCreated>2012-02-12T08:45:07.96875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>6</ID>
+    <categoryID>-1</categoryID>
+    <Name>Owl pop up</Name>
+    <Description>Kids love pop-up books. Now they can take that idea to a whole new level and create their very own Djeco Owl Pop Up Paper Art. From flat package to intricate wall dcor, this fabulous art craft kit transforms into an awesome, artistic 3-dimensional paper owl wall hanging. All supplies included. 
+</Description>
+    <UPC>307090004904</UPC>
+    <Price>24.99</Price>
+    <WholesalePrice>15</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\owlpop.jpg</PicturePath>
+    <DateCreated>2012-02-12T08:45:32.859375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>7</ID>
+    <categoryID>-1</categoryID>
+    <Name>tiger pop up</Name>
+    <Description>Kids love pop-up books. Now they can take that idea to a whole new level and create their very own Djeco Tiger Pop Up Paper Art. From flat package to intricate wall dcor, this fabulous art craft kit transforms into an awesome, artistic 3-dimensional paper tiger wall hanging. All supplies included. 
+</Description>
+    <UPC>307090004924</UPC>
+    <Price>24.99</Price>
+    <WholesalePrice>15</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\tigerpop.jpg</PicturePath>
+    <DateCreated>2012-02-12T08:45:56.90625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>8</ID>
+    <categoryID>-1</categoryID>
+    <Name>My dog's journal</Name>
+    <Description>Make a family heirloom by recording all your pooch&amp;apos;s precious moments in this 28 page book. Kit includes 14 inner pages, front and back covers, cardboard, art paper, graphic templates, ribbons, cord, alphabet stickers, tape and full instructions. </Description>
+    <UPC>085761121768</UPC>
+    <Price>12.95</Price>
+    <WholesalePrice>5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>5</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\dogjournal.jpg</PicturePath>
+    <DateCreated>2012-02-12T08:46:32.375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>9</ID>
+    <categoryID>-1</categoryID>
+    <Name>Dragondule pop up</Name>
+    <Description>Dimensions: 40 x 59 x 9 cm
+Material: paper
+
+Design: Christian Montenegro
+
+Un superb dragon to decorate the wall of your bedroom!
+
+A work made entirely of paper that opens like a book and expands into a stunning 3D decoration you can hang on your children's bedroom walls.
+
+This new version of the pop-up item is a joint creation by the art teams from Djeco and Italian paper engineer and children's author Dario Cestaro.</Description>
+    <UPC>307090004922</UPC>
+    <Price>24.99</Price>
+    <WholesalePrice>15</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Djeco</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\dragondule.jpg</PicturePath>
+    <DateCreated>2012-02-12T08:47:17.59375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>10</ID>
+    <categoryID>-1</categoryID>
+    <Name>Elephant pop up</Name>
+    <Description>Djeco Elephantaisie Pop Up Art Wall Decor 
+Size: 16.14 inches tall, 12.6 inches wide, 8.27 inches diagonal 
+Designed by Charlotte Labaronne in France</Description>
+    <UPC>307090004902</UPC>
+    <Price>24.99</Price>
+    <WholesalePrice>15</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\elephantpop.jpg</PicturePath>
+    <DateCreated>2012-02-12T08:47:39.875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>11</ID>
+    <categoryID>-1</categoryID>
+    <Name>Stars renne pop up</Name>
+    <Description>Genuine little paper composition wonders, where illustrated universes suddenly come to life on children's walls. An original use of pop-ups, dream up by Dejeco.</Description>
+    <UPC>307090004913</UPC>
+    <Price>29.99</Price>
+    <WholesalePrice>15</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\starspopup.jpg</PicturePath>
+    <DateCreated>2012-02-12T08:54:05.234375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>12</ID>
+    <categoryID>-1</categoryID>
+    <Name>tiger pop up</Name>
+    <Description>Kids love pop-up books. Now they can take that idea to a whole new level and create their very own Djeco Tiger Pop Up Paper Art. From flat package to intricate wall dcor, this fabulous art craft kit transforms into an awesome, artistic 3-dimensional paper tiger wall hanging. All supplies included.</Description>
+    <UPC>307090004924</UPC>
+    <Price>29.99</Price>
+    <WholesalePrice>15</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\tigerpop.jpg</PicturePath>
+    <DateCreated>2012-02-12T08:54:25.28125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>13</ID>
+    <categoryID>-1</categoryID>
+    <Name>Owl pop up</Name>
+    <Description>Kids love pop-up books. Now they can take that idea to a whole new level and create their very own Djeco Owl Pop Up Paper Art. From flat package to intricate wall dcor, this fabulous art craft kit transforms into an awesome, artistic 3-dimensional paper owl wall hanging. All supplies included.</Description>
+    <UPC>307090004904</UPC>
+    <Price>29.99</Price>
+    <WholesalePrice>15</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\owlpop.jpg</PicturePath>
+    <DateCreated>2012-02-12T08:55:17-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>14</ID>
+    <categoryID>-1</categoryID>
+    <Name>Panda pop up</Name>
+    <Description>This pop up art is enclosed in a large envelope that hides a surprising present: a work made entirely of paper that opens like a book and expands into a stunning 3D decoration you can hang on your children's bedroom walls.</Description>
+    <UPC>307090004903</UPC>
+    <Price>29.99</Price>
+    <WholesalePrice>15</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\pandapopup.jpg</PicturePath>
+    <DateCreated>2012-02-12T08:55:47.203125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>15</ID>
+    <categoryID>-1</categoryID>
+    <Name>Lion pop up</Name>
+    <Description>Decorative pop up wall art 
+Comes virtually ready to hang 
+Composed of a composite paper 
+Recommended for ages 3 and up</Description>
+    <UPC>307090004925</UPC>
+    <Price>29.99</Price>
+    <WholesalePrice>15</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\lionpop.bmp</PicturePath>
+    <DateCreated>2012-02-12T08:56:14.46875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>16</ID>
+    <categoryID>-1</categoryID>
+    <Name>Lilibellule pop up</Name>
+    <Description>Kids love pop-up books. Now they can take that idea to a whole new level and create their very own Djeco Happy Liil Pop Up Paper Art. Going from flat package to intricate wall dcor, this fabulous art craft kit transforms into an awesome, artistic, 3-dimensional paper wall hanging. All supplies included.</Description>
+    <UPC>307090004911</UPC>
+    <Price>29.99</Price>
+    <WholesalePrice>15</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\lilibellule.jpg</PicturePath>
+    <DateCreated>2012-02-12T08:56:28-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>17</ID>
+    <categoryID>-1</categoryID>
+    <Name>Elephant pop up</Name>
+    <Description>Djeco Elephantaisie Pop Up Art Wall Decor 
+Size: 16.14 inches tall, 12.6 inches wide, 8.27 inches diagonal 
+Designed by Charlotte Labaronne in France</Description>
+    <UPC>307090004902</UPC>
+    <Price>29.99</Price>
+    <WholesalePrice>15</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\elephantpop.jpg</PicturePath>
+    <DateCreated>2012-02-12T08:56:58.53125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>18</ID>
+    <categoryID>-1</categoryID>
+    <Name>Dragondule pop up</Name>
+    <Description>Dimensions: 40 x 59 x 9 cm
+Material: paper
+
+Design: Christian Montenegro
+
+Un superb dragon to decorate the wall of your bedroom!
+
+A work made entirely of paper that opens like a book and expands into a stunning 3D decoration you can hang on your children's bedroom walls.
+
+This new version of the pop-up item is a joint creation by the art teams from Djeco and Italian paper engineer and children's author Dario Cestaro.</Description>
+    <UPC>307090004922</UPC>
+    <Price>29.99</Price>
+    <WholesalePrice>15</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Djeco</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\dragondule.jpg</PicturePath>
+    <DateCreated>2012-02-12T08:57:19.3125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>19</ID>
+    <categoryID>-1</categoryID>
+    <Name>An unusual night mobile</Name>
+    <Description>This mobile is truly one of the nicest we've ever seen. A three-dimensional tree that has all sorts of creatures and items associated with sleep and night-time hanging from its branches. The shades of blue and orange remind one of dusk and then once the lights are out, several parts gently glow in the dark. Size is 31.5" x 18.9" </Description>
+    <UPC>307090004301</UPC>
+    <Price>29.99</Price>
+    <WholesalePrice>15</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\nightmobile.jpg</PicturePath>
+    <DateCreated>2012-02-12T09:09:05-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>20</ID>
+    <categoryID>-1</categoryID>
+    <Name>funny dragons mobile</Name>
+    <Description>27.6" wide and 12" long with 10 whimsical dragon elements that hang. The elements are made of flexible plastic and the hangers and connector rings are made of metal. Packaging is rectangular box and the elements are wrapped in tissue paper. </Description>
+    <UPC>307090004317</UPC>
+    <Price>29.99</Price>
+    <WholesalePrice>16</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\dragonmobile.jpg</PicturePath>
+    <DateCreated>2012-02-12T09:14:19.984375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>21</ID>
+    <categoryID>-1</categoryID>
+    <Name>Zoe's bedroom mobile</Name>
+    <Description>The Djeco collection of mobiles, a poetic and ethereal meeting of two worlds. The design and illustration for children. A subtle game of balance between dream and reality. 35" wide and 12" long with 23 elements that hang off of a rainbow and clouds top in a whimsical assortment of elements from a bedroom. The elements are made of flexible plastic and the hangers and connector rings are made of metal. Packaging is rectangular box and the elements are wrapped in tissue paper. </Description>
+    <UPC>307090004303</UPC>
+    <Price>36.99</Price>
+    <WholesalePrice>20</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\zoemobile.jpg</PicturePath>
+    <DateCreated>2012-02-12T09:18:18.359375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>22</ID>
+    <categoryID>-1</categoryID>
+    <Name>Peg game</Name>
+    <Description>This classic wooden puzzle is a puzzle anyone in your family will enjoy! Jump the pegs to remove all but 1 peg from the board. Sounds easy? Give it a shot--we assure you, this is not as easy as it seems. Will challenge any puzzle master's IQ for hours. It also comes in a collectible box, making it a great gift for the classic toy collector in your family. </Description>
+    <UPC>085761127845</UPC>
+    <Price>5.99</Price>
+    <WholesalePrice>1.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>24</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\peggame.jpg</PicturePath>
+    <DateCreated>2012-02-12T09:23:51.15625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>23</ID>
+    <categoryID>-1</categoryID>
+    <Name>magnetic tic tac toe</Name>
+    <Description>Goplay Magnetic Tic Tac Toe 
+This magnetic Tic Tac Toe game makes travelling fun. All game pieces needed for play are included, in a neat self contained 5.5 inch tin box. 
+</Description>
+    <UPC>085761155183</UPC>
+    <Price>6.99</Price>
+    <WholesalePrice>3.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>4</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\magnetictictactoe.jpg</PicturePath>
+    <DateCreated>2012-02-12T09:30:28.671875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>24</ID>
+    <categoryID>-1</categoryID>
+    <Name>magnetic sudoku for kids</Name>
+    <Description>Goplay is the stylish travel range for kids and the young at heart. The games are packaged in convenient, travel-sized, branded metal boxes. Colorful, fun and eye-catching, the range will entice both young players and bewildered parents desperately searching for the perfect distraction for traveling kids</Description>
+    <UPC>085761155176</UPC>
+    <Price>6.99</Price>
+    <WholesalePrice>3.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Model>toysmith</Model>
+    <Quantity>4</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\magnetickidsudoku.jpg</PicturePath>
+    <DateCreated>2012-02-12T09:35:22.796875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>25</ID>
+    <categoryID>-1</categoryID>
+    <Name>magnetic crossword</Name>
+    <Description>This is a crossword game for children. It is designed with magnetic games for travel. It is packed in square shape.
+
+Crossword
+Includes 180 letters, 4 game boards, 1 tin box clip and full game instruction.
+
+Product specification:
+
+•Educational for children
+•Safe for kids to play with
+•An idea gift for kids
+
+
+</Description>
+    <UPC>085761155152</UPC>
+    <Price>6.99</Price>
+    <WholesalePrice>3.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>4</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\magneticcross.jpg</PicturePath>
+    <DateCreated>2012-02-12T09:42:06.40625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>26</ID>
+    <categoryID>-1</categoryID>
+    <Name>Magnetic hangman</Name>
+    <Description>Great fun on the Road 
+Self contained, easy to transport 
+Magnetic game pieces make it easy to play in a car, train, boat or plane 
+</Description>
+    <UPC>085761155190</UPC>
+    <Price>6.99</Price>
+    <WholesalePrice>3.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>4</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\magnetichangman.jpg</PicturePath>
+    <DateCreated>2012-02-12T09:46:39.40625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>27</ID>
+    <categoryID>-1</categoryID>
+    <Name>Once upon a time knights and dragons mobile</Name>
+    <Description>15.7 wide and 15.7 long with 7 elements that hang off of a castle and road top in a knight theme. The elements are made of flexible plastic and the hangers and connector rings are made of metal. Packaging a box with elements wrapped in tissue paper inside 
+</Description>
+    <UPC>307090004337</UPC>
+    <Price>24.99</Price>
+    <WholesalePrice>12.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\knightmobile.jpg</PicturePath>
+    <DateCreated>2012-02-12T09:54:34.328125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>28</ID>
+    <categoryID>-1</categoryID>
+    <Name>Sand Mandalas</Name>
+    <Description>•Gorgeous mandala creation made simple; A thoughtfully designed mandala kit 
+•Emphasizes creativity, attention to detail, &amp; value of precision in artistry 
+•Promotes appreciation of art across diverse cultures 
+•4 intricate mandala patterns, each 9 x 9 inches 
+•12 vibrant colors of fine grain sand, each its own transparent vial 
+•Peeling tool for simple removal of numbered stickers on mandala patterns 
+•Impressive box design keeps the project neat 
+•Detailed instruction booklet 
+•Option to create your own one-of-kind designs 
+•Makes a fabulous, frameable finished project
+
+History of the Mandala:
+Mandalas are Hindu and Buddhist pieces of art made of sand to aid in meditation. 
+
+</Description>
+    <UPC>307090008634</UPC>
+    <Price>24.99</Price>
+    <WholesalePrice>12.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\sandmandalas.jpg</PicturePath>
+    <DateCreated>2012-02-12T10:03:04.046875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>29</ID>
+    <categoryID>-1</categoryID>
+    <Name>Geo Savane</Name>
+    <Description>Beautiful design and colors 
+made of wood 
+stores neatly in a box, ideal for carry on 
+</Description>
+    <UPC>307090003133</UPC>
+    <Price>36.99</Price>
+    <WholesalePrice>15</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\geosavane.jpg</PicturePath>
+    <DateCreated>2012-02-12T10:08:35.203125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>30</ID>
+    <categoryID>-1</categoryID>
+    <Name>urban robots paper craft</Name>
+    <Description>3 Dimensional model set 
+Pre-printed and easy to fold 
+Includes stickers for decorating 
+Comes with easy to follow instructions 
+Recommended for ages 7 to 15 years 
+</Description>
+    <UPC>307090009675</UPC>
+    <Price>14.95</Price>
+    <WholesalePrice>5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\urbanrobot.jpg</PicturePath>
+    <DateCreated>2012-02-12T10:15:50.1875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>31</ID>
+    <categoryID>-1</categoryID>
+    <Name>Art Nouveau</Name>
+    <Description>Mixed media artwork kit for kids 
+Features original works of the artist who designed the kit 
+Includes felt tip markers 
+Comes with sticker sheets 
+Recommended for ages 9 and up 
+</Description>
+    <UPC>307090008607</UPC>
+    <Price>34.99</Price>
+    <WholesalePrice>16</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\artnouveau.jpg</PicturePath>
+    <DateCreated>2012-02-12T10:26:49.203125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>32</ID>
+    <categoryID>-1</categoryID>
+    <Name>Walking Stick with Compass</Name>
+    <Price>26.95</Price>
+    <WholesalePrice>12</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Lickeys Knotty Woods</Manufacturer>
+    <Quantity>3</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-12T10:36:39.46875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>33</ID>
+    <categoryID>-1</categoryID>
+    <Name>Walking Stick</Name>
+    <Description>Solid wood, hand crafted walking stick.</Description>
+    <Price>23.95</Price>
+    <WholesalePrice>10</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>3</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-12T10:37:43.15625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>34</ID>
+    <categoryID>-1</categoryID>
+    <Name>Voodoo Toy Shop Souvenier Shirt</Name>
+    <Description>S, M, L, XL White T-shirt with store logo and voodoo doll</Description>
+    <Price>14.95</Price>
+    <WholesalePrice>3</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toyshop</Manufacturer>
+    <Quantity>6</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-12T10:40:05.375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>35</ID>
+    <categoryID>-1</categoryID>
+    <Name>Ladybug Umbrella</Name>
+    <UPC>085761079977</UPC>
+    <Price>14.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-02-12T11:23:51.890625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>36</ID>
+    <categoryID>-1</categoryID>
+    <Name>Ladybug Umbrella</Name>
+    <Description>Ladybug Umbrella. 
+Childs Umbrella features plastic ribs, and easy grip handle and wrist cord. 
+Opens to 26 inch in diameter. 
+100% Genuine Brand Names. 
+100% safe &amp; secure shopping; Superior customer service. 
+</Description>
+    <UPC>085761079977</UPC>
+    <Price>14.95</Price>
+    <WholesalePrice>5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>3</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\Ladybugumbrella.jpg</PicturePath>
+    <DateCreated>2012-02-12T11:28:12.8125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>37</ID>
+    <categoryID>-1</categoryID>
+    <Name>Fish umbrella</Name>
+    <Description>Features easy-grip handle and wrist cord. </Description>
+    <UPC>085761140080</UPC>
+    <Price>14.95</Price>
+    <WholesalePrice>5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>3</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\Fishumbrella.jpg</PicturePath>
+    <DateCreated>2012-02-12T11:30:09.375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>38</ID>
+    <categoryID>-1</categoryID>
+    <Name>Frog umbrella</Name>
+    <Description>Frog Umbrella. 
+Childs Umbrella features plastic ribs, and easy grip handle and wrist cord. 
+Opens to 26 inch in diameter. 
+100% Genuine Brand Names. 
+100% safe &amp; secure shopping; Superior customer service. 
+</Description>
+    <UPC>085761079984</UPC>
+    <Price>14.95</Price>
+    <WholesalePrice>5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>3</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\Frogumbrella.jpg</PicturePath>
+    <DateCreated>2012-02-12T11:32:24.703125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>39</ID>
+    <categoryID>-1</categoryID>
+    <Name>Bee umbrella</Name>
+    <Description>Features easy-grip handle and wrist cord.</Description>
+    <UPC>085761140073</UPC>
+    <Price>14.95</Price>
+    <WholesalePrice>5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>3</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\beeumbrella.jpg</PicturePath>
+    <DateCreated>2012-02-12T11:34:45.109375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>40</ID>
+    <categoryID>-1</categoryID>
+    <Name>Fish umbrella</Name>
+    <Description>Features easy-grip handle and wrist cord. </Description>
+    <UPC>085761140080</UPC>
+    <Price>14.95</Price>
+    <WholesalePrice>5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>3</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\Fishumbrella.jpg</PicturePath>
+    <DateCreated>2012-02-12T11:35:51.5625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>41</ID>
+    <categoryID>-1</categoryID>
+    <Name>Ant Universe</Name>
+    <Description>This incredible habitat takes ant farming to the next level with its space-age design and cool blue gel. 
+Based on a 2003 NASA Space Shuttle experiment observing ants tunneling in microgravity 
+this innovative farm features nutrient-rich gel that promotes a healthy environment for your ants 
+Just kick back and watch them do their work--no food or water needed. 
+The Ant Universe habitat comes with: Non-toxic nutrient Gel (provides both food and water to the ants) 
+</Description>
+    <UPC>085761082779</UPC>
+    <Price>19.99</Price>
+    <WholesalePrice>9</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>7</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\antuniverse.bmp</PicturePath>
+    <DateCreated>2012-02-12T12:31:50.578125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>42</ID>
+    <categoryID>-1</categoryID>
+    <Name>Single pocket tricks </Name>
+    <UPC>085761092440</UPC>
+    <Price>4.65</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>24</Quantity>
+    <DateCreated>2012-02-12T12:35:19.34375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>43</ID>
+    <categoryID>-1</categoryID>
+    <Name>Pocket Magic Single Pocket Tricks </Name>
+    <UPC>085761092440</UPC>
+    <Price>4.65</Price>
+    <WholesalePrice>1.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith </Manufacturer>
+    <Quantity>24</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-12T12:39:09.90625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>44</ID>
+    <categoryID>-1</categoryID>
+    <Name>Art Nouveau</Name>
+    <Description>Mixed media artwork kit for kids 
+Features original works of the artist who designed the kit 
+Includes felt tip markers 
+Comes with sticker sheets 
+Recommended for ages 9 and up 
+</Description>
+    <UPC>307090008607</UPC>
+    <Price>34.99</Price>
+    <WholesalePrice>16</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\artnouveau.jpg</PicturePath>
+    <DateCreated>2012-02-12T12:43:12.09375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>45</ID>
+    <categoryID>-1</categoryID>
+    <Name>Art Nouveau</Name>
+    <Description>Mixed media artwork kit for kids 
+Features original works of the artist who designed the kit 
+Includes felt tip markers 
+Comes with sticker sheets 
+Recommended for ages 9 and up 
+</Description>
+    <UPC>307090008607</UPC>
+    <Price>34.99</Price>
+    <WholesalePrice>16</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\artnouveau.jpg</PicturePath>
+    <DateCreated>2012-02-12T12:43:51.234375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>46</ID>
+    <categoryID>-1</categoryID>
+    <Name>Crystal growing box kit</Name>
+    <Description>Engage in a fun project to grow your own natural assorted colored crystals. Kit Includes: Guide to Crystals booklet-- Base rock -- Growing tray-- Magnifying glass-- Spatula-- Special crystal formula-- Ages 10 and up. Not for children under age 3 years: small parts: choking hazard Parental supervision required. </Description>
+    <UPC>085761060722</UPC>
+    <Price>12.95</Price>
+    <WholesalePrice>5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>12</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\crystalboxkit.jpg</PicturePath>
+    <DateCreated>2012-02-12T12:46:55.46875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>47</ID>
+    <categoryID>-1</categoryID>
+    <Name>Cyclops Ball</Name>
+    <Description>Squeeze these creepy Cyclops balls and watch their eyes pop out! They measure about 2 inches in diameter. Assorted styles and colors. Made by Toysmith. Pack of 24 each.
+
+</Description>
+    <UPC>085761157729</UPC>
+    <Price>2.95</Price>
+    <WholesalePrice>1.25</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>24</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\cyclops.jpg</PicturePath>
+    <DateCreated>2012-02-12T12:47:34.765625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>48</ID>
+    <categoryID>-1</categoryID>
+    <Name>Dalmation vet kit</Name>
+    <Description>The dalmatian Vet Kit comes with everything a young veterinarian needs. It includes all the medical instruments needed to care for your little puppy. Made of the highest quality materials and comply to all US and Canadian safety regulations. Product dimensions 10.5x 8 x 8.12 inches. Includes: Medium puppy vet cage, stethoscope, small tray hammer, mirror, ear tool, tweezers, tongs, scissors, thermometer, syringe, bandages, plush puppy. 
+
+</Description>
+    <UPC>062243237582</UPC>
+    <Price>34.99</Price>
+    <WholesalePrice>18</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>4</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\dalmationvet.jpg</PicturePath>
+    <DateCreated>2012-02-12T12:49:14.5-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>49</ID>
+    <categoryID>-1</categoryID>
+    <Name>Dinosaur skeleton excavation kit</Name>
+    <Description>Dig and excavate the skeleton of a Pterosaur, Brachiosaurus, or Velociraptor. This kit includes a plaster block and a specially designed digging tool to help excavate the skeleton. Provides hours of fun for you as a paleontologist!
+</Description>
+    <UPC>085761036321</UPC>
+    <Price>14.95</Price>
+    <WholesalePrice>5.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>6</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\digadino.jpg</PicturePath>
+    <DateCreated>2012-02-12T12:50:51.65625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>50</ID>
+    <categoryID>-1</categoryID>
+    <Name>Extreme Galaxy Spinner</Name>
+    <Description>Launch these little 4 inch diameter discs up to 25 feet in the air. Each set includes six green discs and rip-cord hand launcher.</Description>
+    <UPC>0085761140387</UPC>
+    <Price>6.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>12</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-12T12:53:03.640625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>51</ID>
+    <categoryID>-1</categoryID>
+    <Name>funny dragons mobile</Name>
+    <Description>27.6" wide and 12" long with 10 whimsical dragon elements that hang. The elements are made of flexible plastic and the hangers and connector rings are made of metal. Packaging is rectangular box and the elements are wrapped in tissue paper. </Description>
+    <UPC>307090004317</UPC>
+    <Price>29.99</Price>
+    <WholesalePrice>16</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\dragonmobile.jpg</PicturePath>
+    <DateCreated>2012-02-12T12:55:04.015625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>52</ID>
+    <categoryID>-1</categoryID>
+    <Name>Geo Savane</Name>
+    <Description>Beautiful design and colors 
+made of wood 
+stores neatly in a box, ideal for carry on 
+</Description>
+    <UPC>307090003133</UPC>
+    <Price>36.99</Price>
+    <WholesalePrice>15</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\geosavane.jpg</PicturePath>
+    <DateCreated>2012-02-12T12:59:01.40625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>53</ID>
+    <categoryID>-1</categoryID>
+    <Name>History 500 pc Observation puzzle</Name>
+    <Description> This puzzle includes a book with information about parts of history shown on the puzzle and round cards with elements to identify in the puzzle plus a full-size poster of the puzzle graphic. Unique spiral graphic of the history timeline from the stone age to modern times. Huge educational and play value. Appropriate for a variety of stores from toy stores, book stores, educational products stores, etc. 
+</Description>
+    <UPC>307090007400</UPC>
+    <Price>29.95</Price>
+    <WholesalePrice>16</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\historypuzzle.jpg</PicturePath>
+    <DateCreated>2012-02-12T13:00:21.53125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>54</ID>
+    <categoryID>-1</categoryID>
+    <Name>Magnifier</Name>
+    <UPC>639277205056</UPC>
+    <Price>3.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>3</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-12T13:02:56.953125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>55</ID>
+    <categoryID>-1</categoryID>
+    <Name>Mayan Change Purse</Name>
+    <Description>Handwoven in Guatemala. 4.25 X 3 Colorful change purse. Assorted variety.Colors may vary.</Description>
+    <UPC>N/A</UPC>
+    <Price>3.5</Price>
+    <WholesalePrice>0.63</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Ben International</Manufacturer>
+    <Quantity>47</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\Mayanchangepurse.jpg</PicturePath>
+    <DateCreated>2012-02-12T13:03:46.53125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>56</ID>
+    <categoryID>-1</categoryID>
+    <Name>Mini Tea Set</Name>
+    <Description>Use the included paints and brush to decorate this 13 piece ceramic tea set. Pieces range in size from 1.25 to 2.25 inches tall. Instructions included. Note: for play/display only - not intended for use with food. CHOKING HAZARD -- Small parts. Not for children under 3 yrs.</Description>
+    <UPC>085761035119</UPC>
+    <Price>22.95</Price>
+    <WholesalePrice>6.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>6</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\MiniTeaSet.jpg</PicturePath>
+    <DateCreated>2012-02-12T13:05:01.171875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>57</ID>
+    <categoryID>-1</categoryID>
+    <Name>Mr. Potato Head</Name>
+    <Description>A slimmer, more active MR. POTATO HEAD has more holes than he used to and more facial features! Your child will love putting his nose where his ear should be and building many different versions of the original potato friend. The parts are compatible with other versions of MR. or MRS. POTATO HEAD. 
+
+Store the parts in the figure’s TATER TUSH. Potato figure comes with eyes, nose, mouth with teeth, hat, mustache, tongue, pair of glasses, 2 hands, 2 ears and 1 pair of legs with shoes. 
+
+Ages 2 and up.</Description>
+    <UPC>653569548140</UPC>
+    <Price>11.99</Price>
+    <WholesalePrice>6.75</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Ben International</Manufacturer>
+    <Quantity>4</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\InventoryImages\mrPotatoHead.jpg</PicturePath>
+    <DateCreated>2012-02-12T13:05:39.28125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>58</ID>
+    <categoryID>-1</categoryID>
+    <Name>Mrs. Potato Head</Name>
+    <UPC>653569548157</UPC>
+    <Price>11.99</Price>
+    <WholesalePrice>6.75</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Ben International</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\MrsPotatoHead.jpg</PicturePath>
+    <DateCreated>2012-02-12T13:06:12.09375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>59</ID>
+    <categoryID>-1</categoryID>
+    <Name>My Cooker Stove playset</Name>
+    <Description>Our colorful table top wooden cooker has no hot surfaces to worry about, but still cooks up hours of imaginative fun. Includes wooden utensils, pot with lid, pan, salt and pepper shakers and more! 
+</Description>
+    <UPC>307090006510</UPC>
+    <Price>85.95</Price>
+    <WholesalePrice>50</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Djeco</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\mycooker.bmp</PicturePath>
+    <DateCreated>2012-02-12T13:06:57.5-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>60</ID>
+    <categoryID>-1</categoryID>
+    <Name>My dog's journal</Name>
+    <Description>Make a family heirloom by recording all your pooch&amp;apos;s precious moments in this 28 page book. Kit includes 14 inner pages, front and back covers, cardboard, art paper, graphic templates, ribbons, cord, alphabet stickers, tape and full instructions.</Description>
+    <UPC>085761121768</UPC>
+    <Price>12.95</Price>
+    <WholesalePrice>5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>5</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\dogjournal.jpg</PicturePath>
+    <DateCreated>2012-02-12T13:07:54.375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>61</ID>
+    <categoryID>-1</categoryID>
+    <Name>My sweet baby set</Name>
+    <Description>This set includes 11 1/2 inch doll with a soft body and a vinyl head. Also included are an extra outfit, layette, baby food, bib, bottle, bowl and more. The reusable case has a handle and zipper closure., Recommended age group: 3 - NaN years, Manufacturer: Toysmith </Description>
+    <UPC>085761982291</UPC>
+    <Price>24.95</Price>
+    <WholesalePrice>12</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>6</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\sweetbaby.jpg</PicturePath>
+    <DateCreated>2012-02-12T13:08:32.8125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>62</ID>
+    <categoryID>-1</categoryID>
+    <Name>My sweet baby set</Name>
+    <Description>This set includes 11 1/2 inch doll with a soft body and a vinyl head. Also included are an extra outfit, layette, baby food, bib, bottle, bowl and more. The reusable case has a handle and zipper closure., Recommended age group: 3 - NaN years, Manufacturer: Toysmith</Description>
+    <UPC>085761982291</UPC>
+    <Price>24.95</Price>
+    <WholesalePrice>12</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>6</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\sweetbaby.jpg</PicturePath>
+    <DateCreated>2012-02-12T13:09:08.96875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>63</ID>
+    <categoryID>-1</categoryID>
+    <Name>Natural Rock art</Name>
+    <Description>Appreciate the sculptural art from nature! Rocks may be common but they are all unique. Turn them into cute creatures and raise them with love. Give them a home and play the interesting game we've included with the kit. Kit includes 4 real rocks and materials to decorate 8 rock creatures (you will need to collect 4 more rocks from nature). Decorations include: * Wool * Googly eyes * Felt * Birth Certificates * Glue * Paint * Paintbrush * Love Nature Game Sheet * 1Paper Dice * 1 Play Scene so you can create your own special theatrical performances with your new Rock Art friends * Complete, detailed instructions. Ages 5 and up. Contains Small Parts: Choke Hazard: Not recommended for children under age 3 years. </Description>
+    <UPC>085761143364</UPC>
+    <Price>14.5</Price>
+    <WholesalePrice>5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>3</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\rockart.jpg</PicturePath>
+    <DateCreated>2012-02-12T13:10:35.28125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>64</ID>
+    <categoryID>-1</categoryID>
+    <Name>Nite Hiker Head lamp</Name>
+    <Description>Great for indoors or out, this headlamp has an adjustable elastic strap to fit most children. It has red and white LED lights, and the lamp tilts up and down.</Description>
+    <UPC>085761146570</UPC>
+    <Price>8.99</Price>
+    <WholesalePrice>3.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>12</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\nitehiker.bmp</PicturePath>
+    <DateCreated>2012-02-12T13:11:38.84375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>65</ID>
+    <categoryID>-1</categoryID>
+    <Name>Once upon a time knights and dragons mobile</Name>
+    <Description>15.7 wide and 15.7 long with 7 elements that hang off of a castle and road top in a knight theme. The elements are made of flexible plastic and the hangers and connector rings are made of metal. Packaging a box with elements wrapped in tissue paper inside 
+</Description>
+    <UPC>307090004337</UPC>
+    <Price>24.99</Price>
+    <WholesalePrice>12.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\knightmobile.jpg</PicturePath>
+    <DateCreated>2012-02-12T13:13:26.25-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>66</ID>
+    <categoryID>-1</categoryID>
+    <Name>Paint A Bank</Name>
+    <UPC>0639277249241</UPC>
+    <Price>6.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>8</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-12T13:13:50.328125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>67</ID>
+    <categoryID>-1</categoryID>
+    <Name>Paint A Bank</Name>
+    <UPC>0639277249241</UPC>
+    <Price>6.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>8</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-12T13:13:58.96875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>68</ID>
+    <categoryID>-1</categoryID>
+    <Name>Paint A Bank</Name>
+    <UPC>0639277249241</UPC>
+    <Price>6.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>8</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-12T13:14:50.8125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>69</ID>
+    <categoryID>-1</categoryID>
+    <Name>Paper Recycling Kit</Name>
+    <Description>This hands-on kit teaches kids the craft of paper making and the science of recycling. Includes 6 x 8 inch mold and deckle and supplies for kids to make different patterned and textured bookmarks, a notebook, greeting cards, and more.
+
+Ages 8 and up.
+
+</Description>
+    <UPC>085761077515</UPC>
+    <Price>14.5</Price>
+    <WholesalePrice>5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>3</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\Paperrecycle.gif</PicturePath>
+    <DateCreated>2012-02-12T13:15:37.640625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>70</ID>
+    <categoryID>-1</categoryID>
+    <Name>Peg game</Name>
+    <Description>This classic wooden puzzle is a puzzle anyone in your family will enjoy! Jump the pegs to remove all but 1 peg from the board. Sounds easy? Give it a shot--we assure you, this is not as easy as it seems. Will challenge any puzzle master's IQ for hours. It also comes in a collectible box, making it a great gift for the classic toy collector in your family. </Description>
+    <UPC>085761127845</UPC>
+    <Price>5.99</Price>
+    <WholesalePrice>1.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>24</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\peggame.jpg</PicturePath>
+    <DateCreated>2012-02-12T13:16:32.609375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>71</ID>
+    <categoryID>-1</categoryID>
+    <Name>Periscope</Name>
+    <UPC>0085761069145</UPC>
+    <Price>14.95</Price>
+    <WholesalePrice>6</WholesalePrice>
+    <SalePrice>10.5</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>5</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-12T13:17:16.421875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>72</ID>
+    <categoryID>-1</categoryID>
+    <Name>Pinwheel</Name>
+    <Description>Spring and Summer are just not complete without a colorful pinwheel!  This version from Toysmith is brightly foil colored and perfect for outdoor windy day fun.  This assortment comes with blue, green blue and purple. </Description>
+    <UPC>085761070516</UPC>
+    <Price>1.95</Price>
+    <WholesalePrice>0.75</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>48</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\pinwheel.jpg</PicturePath>
+    <DateCreated>2012-02-12T13:36:04.265625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>73</ID>
+    <categoryID>-1</categoryID>
+    <Name>Pirate 100 pc Observation puzzle</Name>
+    <Description>There are lots of things to find in this observation puzzle. Start by putting all the pieces together, then have fun finding items from the border in the picture. Also includes full size poster.
+</Description>
+    <UPC>307090007506</UPC>
+    <Price>22.95</Price>
+    <WholesalePrice>10</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-12T13:36:33-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>74</ID>
+    <categoryID>-1</categoryID>
+    <Name>Rainbow clay</Name>
+    <Description>High quality modeling clay in a set of 24 colors. 18 oz of clay in each set. Make lots of fun figures and designs.</Description>
+    <UPC>085761024045</UPC>
+    <Price>9.99</Price>
+    <WholesalePrice>2</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>12</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\rainbowclay.bmp</PicturePath>
+    <DateCreated>2012-02-12T13:38:42.375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>75</ID>
+    <categoryID>-1</categoryID>
+    <Name>Recycled paper beads</Name>
+    <Description>Eco-friendly never looked so lovely! Use paper to make colorful, one-of-a-kind paper bead jewelry with this Recycled Paper Beads Green Creativity Kit. The bead winding tool turns ordinary paper strips into a tight bead that people will insist cannot possibly be made out of paper. This fun art craft kit comes with enough paper strips to make dozens of beads and turn them into a necklace, bracelet, anklet, etc. When they are gone, experimenting with other types of paper, - colorful magazine pages, Sunday comics, wrapping paper - will result in even more spectacular beads for gift giving or wearing. </Description>
+    <UPC>085761144415</UPC>
+    <Price>14.5</Price>
+    <WholesalePrice>5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>3</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\paperbeads.jpg</PicturePath>
+    <DateCreated>2012-02-12T13:49:26.21875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>76</ID>
+    <categoryID>-1</categoryID>
+    <Name>Sand Mandalas</Name>
+    <Description>•Gorgeous mandala creation made simple; A thoughtfully designed mandala kit 
+•Emphasizes creativity, attention to detail, &amp; value of precision in artistry 
+•Promotes appreciation of art across diverse cultures 
+•4 intricate mandala patterns, each 9 x 9 inches 
+•12 vibrant colors of fine grain sand, each its own transparent vial 
+•Peeling tool for simple removal of numbered stickers on mandala patterns 
+•Impressive box design keeps the project neat 
+•Detailed instruction booklet 
+•Option to create your own one-of-kind designs 
+•Makes a fabulous, frameable finished project
+
+History of the Mandala:
+Mandalas are Hindu and Buddhist pieces of art made of sand to aid in meditation. 
+
+</Description>
+    <UPC>307090008634</UPC>
+    <Price>24.99</Price>
+    <WholesalePrice>12.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\sandmandalas.jpg</PicturePath>
+    <DateCreated>2012-02-12T13:50:03.1875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>77</ID>
+    <categoryID>-1</categoryID>
+    <Name>Scouic pull toy</Name>
+    <Description>A colourful wooden pull along toy, beautifully designed for pre-school children.
+
+Play is essential to a child’s development and Djeco’s collection is ever more entertaining, educational and imaginative. Faithfull to their artistic approach, the passionate and inventive Djeco creative team calls on talented illustrators to enhance their collection of games and toys.
+
+This is part of their collection of Pre-School Toys. Fun, timeless and gentle in wood… To set out and conquer the world in complete safety.
+
+For Children aged 18+ Months
+
+Measures: 14.5 x 15.5 x 7.8cm</Description>
+    <UPC>307090006224</UPC>
+    <Price>22.95</Price>
+    <WholesalePrice>10</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\scouic.jpg</PicturePath>
+    <DateCreated>2012-02-12T14:20:05.828125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>78</ID>
+    <categoryID>-1</categoryID>
+    <Name>Chabada Pull toy</Name>
+    <Description>Cat Pull Along Toy for little toddlers. Cute and funky wooden pull along cat for little ones starting to explore on two feet! We love the little wooden mouse bouncing along on the front of the bike!
+
+As children start to walk they love to pull and push toys and Chabada cat with his little sprung mouse companion is sure to make walking more fun! 
+
+Includes pulling string, Suitable from 18 months 
+
+</Description>
+    <UPC>307090006226</UPC>
+    <Price>22.95</Price>
+    <WholesalePrice>10</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\chabada.jpg</PicturePath>
+    <DateCreated>2012-02-12T14:21:12.84375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>79</ID>
+    <categoryID>-1</categoryID>
+    <Name>Roulapic pull toy</Name>
+    <Description>A colourful wooden pull along toy, beautifully designed for pre-school children.
+
+Play is essential to a child’s development and Djeco’s collection is ever more entertaining, educational and imaginative. Faithfull to their artistic approach, the passionate and inventive Djeco creative team calls on talented illustrators to enhance their collection of games and toys.
+
+This is part of their collection of Pre-School Toys. Fun, timeless and gentle in wood… To set out and conquer the world in complete safety.
+
+For Children aged 18+ Months
+
+Measures: 14.5 x 15.5 x 7.8cm
+
+</Description>
+    <UPC>307090006225</UPC>
+    <Price>22.95</Price>
+    <WholesalePrice>10</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\roulapic.jpg</PicturePath>
+    <DateCreated>2012-02-12T14:22:10.890625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>80</ID>
+    <categoryID>-1</categoryID>
+    <Name>Solar Print Paper</Name>
+    <Description>Refill pack for the Solar Print Kit, Item 4062 
+12 sheets of sun-sensitive refill paper that udergoes a chemical change when exposed to sunlight 
+Images appear in minutes and are permanent 
+Refill frame included 
+Creatively educational 
+</Description>
+    <UPC>085761040649</UPC>
+    <Price>8.95</Price>
+    <WholesalePrice>3</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>24</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\solarPaper.jpg</PicturePath>
+    <DateCreated>2012-02-12T14:23:25.546875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>81</ID>
+    <categoryID>-1</categoryID>
+    <Name>Solar Print Paper</Name>
+    <Description>Refill pack for the Solar Print Kit, Item 4062 
+12 sheets of sun-sensitive refill paper that udergoes a chemical change when exposed to sunlight 
+Images appear in minutes and are permanent 
+Refill frame included 
+Creatively educational</Description>
+    <UPC>085761040649</UPC>
+    <Price>8.95</Price>
+    <WholesalePrice>3</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>24</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\solarPaper.jpg</PicturePath>
+    <DateCreated>2012-02-12T14:23:45.859375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>82</ID>
+    <categoryID>-1</categoryID>
+    <Name>Super Stacking Tops</Name>
+    <UPC>085761063655</UPC>
+    <Price>9.5</Price>
+    <WholesalePrice>3</WholesalePrice>
+    <SalePrice>6.75</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>11</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-12T14:24:59.4375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>83</ID>
+    <categoryID>-1</categoryID>
+    <Name>Survival Compass</Name>
+    <UPC>085761050914</UPC>
+    <Price>5.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>36</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\Survival Compass.jpg</PicturePath>
+    <DateCreated>2012-02-12T14:25:42.578125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>84</ID>
+    <categoryID>-1</categoryID>
+    <Name>Survival Compass</Name>
+    <UPC>085761050914</UPC>
+    <Price>5.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>36</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\Survival Compass.jpg</PicturePath>
+    <DateCreated>2012-02-12T14:26:13.6875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>85</ID>
+    <categoryID>-1</categoryID>
+    <Name>Trash Robot</Name>
+    <Description>The ultimate recycling kit! Turn everyday trash into an enviro-robot project that is fun to make and challenges your creativity. Materials are enough for you to make and decorate 2 different robots. It's cool and fun! Kit includes: * 2 plastic free-wheel bases (4 u-shaped plastic sides), * 2 plastic platforms, * 4 plastic axles, * 8 plastic wheels, * 4 moving eyes, * 2 sheets of colorful stickers, * Detailed instructions You will need to recycle plastic bottles of cans to complete your project. Ages 5 and up. Not for children under 3 years of age: Small parts: Choking hazard. 
+</Description>
+    <UPC>085761143371</UPC>
+    <Price>14.5</Price>
+    <WholesalePrice>5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>3</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\trashrobot.jpg</PicturePath>
+    <DateCreated>2012-02-12T14:26:58.796875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>86</ID>
+    <categoryID>-1</categoryID>
+    <Name>urban robots paper craft</Name>
+    <Description>3 Dimensional model set 
+Pre-printed and easy to fold 
+Includes stickers for decorating 
+Comes with easy to follow instructions 
+Recommended for ages 7 to 15 years 
+</Description>
+    <UPC>307090009675</UPC>
+    <Price>14.95</Price>
+    <WholesalePrice>5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\urbanrobot.jpg</PicturePath>
+    <DateCreated>2012-02-12T14:27:43.40625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>87</ID>
+    <categoryID>-1</categoryID>
+    <Name>Walkie Talkie</Name>
+    <UPC>085761015340</UPC>
+    <Price>19.95</Price>
+    <WholesalePrice>7.5</WholesalePrice>
+    <SalePrice>13.99</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>6</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-12T14:28:24.171875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>88</ID>
+    <categoryID>-1</categoryID>
+    <Name>Wiggle Snakes</Name>
+    <UPC>639277205537</UPC>
+    <Price>3.5</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>dollar tree</Manufacturer>
+    <Quantity>7</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-12T14:29:01.484375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>89</ID>
+    <categoryID>-1</categoryID>
+    <Name>Window Mosaic Safari</Name>
+    <Description>Design and create your very own window mosaic art; You can remove the pieces and put them down again; Simply follow the design template provided to make mosaic pictures to hang on your window. ; A perfect gift idea for any child who loves to create; Recommended for ages 7 and up .</Description>
+    <UPC>085761034549</UPC>
+    <Price>18.99</Price>
+    <WholesalePrice>7</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>12</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\safarimosaic.jpg</PicturePath>
+    <DateCreated>2012-02-12T14:29:45.3125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>90</ID>
+    <categoryID>-1</categoryID>
+    <Name>Window mosiac cupcake</Name>
+    <UPC>085761160873</UPC>
+    <Price>18.99</Price>
+    <WholesalePrice>7</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>12</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-12T14:30:07.25-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>91</ID>
+    <categoryID>-1</categoryID>
+    <Name>X Stream Internal Wing Aircraft</Name>
+    <UPC>0085761077683</UPC>
+    <Price>6.75</Price>
+    <WholesalePrice>3</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>10</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-12T14:30:44.90625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>92</ID>
+    <categoryID>-1</categoryID>
+    <Name>Zoe's bedroom mobile</Name>
+    <Description>The Djeco collection of mobiles, a poetic and ethereal meeting of two worlds. The design and illustration for children. A subtle game of balance between dream and reality. 35" wide and 12" long with 23 elements that hang off of a rainbow and clouds top in a whimsical assortment of elements from a bedroom. The elements are made of flexible plastic and the hangers and connector rings are made of metal. Packaging is rectangular box and the elements are wrapped in tissue paper. </Description>
+    <UPC>307090004303</UPC>
+    <Price>36.99</Price>
+    <WholesalePrice>20</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\zoemobile.jpg</PicturePath>
+    <DateCreated>2012-02-12T14:31:26.53125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>93</ID>
+    <categoryID>-1</categoryID>
+    <Name>An unusual night mobile</Name>
+    <Description>This mobile is truly one of the nicest we've ever seen. A three-dimensional tree that has all sorts of creatures and items associated with sleep and night-time hanging from its branches. The shades of blue and orange remind one of dusk and then once the lights are out, several parts gently glow in the dark. Size is 31.5" x 18.9" </Description>
+    <UPC>307090004301</UPC>
+    <Price>29.99</Price>
+    <WholesalePrice>15</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\nightmobile.jpg</PicturePath>
+    <DateCreated>2012-02-12T14:41:06.828125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>94</ID>
+    <categoryID>-1</categoryID>
+    <Name>Pirate ship wooden model</Name>
+    <Description>Each puzzle is made of 3mm thick wood pre-cut interlocking pieces, with a colorful printed coating showing realistic detailing. Each model includes real cloth sails and sixteen paper pirate figurines. Full instructions included. No tools required. Made by BCBones BC Bones. 
+</Description>
+    <UPC>085761497474</UPC>
+    <Price>22.95</Price>
+    <WholesalePrice>6.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>6</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\pirateship.jpg</PicturePath>
+    <DateCreated>2012-02-12T14:55:23-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>95</ID>
+    <categoryID>-1</categoryID>
+    <Name>Pirate ship wooden model</Name>
+    <Description>Each puzzle is made of 3mm thick wood pre-cut interlocking pieces, with a colorful printed coating showing realistic detailing. Each model includes real cloth sails and sixteen paper pirate figurines. Full instructions included. No tools required. Made by BCBones BC Bones.</Description>
+    <UPC>085761497474</UPC>
+    <Price>22.95</Price>
+    <WholesalePrice>6.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>6</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\pirateship.jpg</PicturePath>
+    <DateCreated>2012-02-12T14:55:42.390625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>96</ID>
+    <categoryID>-1</categoryID>
+    <Name>Pirate ship wooden model</Name>
+    <Description>Each puzzle is made of 3mm thick wood pre-cut interlocking pieces, with a colorful printed coating showing realistic detailing. Each model includes real cloth sails and sixteen paper pirate figurines. Full instructions included. No tools required. Made by BCBones BC Bones.</Description>
+    <UPC>085761497474</UPC>
+    <Price>22.95</Price>
+    <WholesalePrice>6.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>6</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\pirateship.jpg</PicturePath>
+    <DateCreated>2012-02-12T14:56:15.359375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>97</ID>
+    <categoryID>-1</categoryID>
+    <Name>Gazz-it!</Name>
+    <UPC>694744226262</UPC>
+    <Price>1.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>0</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-12T14:56:56.203125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>98</ID>
+    <categoryID>-1</categoryID>
+    <Name>Potato Gun</Name>
+    <Description>As potatoes are comprised of nearly all water potato pellets are safe for kids all of ages. To load simply insert the end of the barrel into a dry potato &amp; pull out the plug.  You can expect up to 300 shots per potato - depending on the size. Shooting &amp; reloading is very simple and detailed directions are included. Pellets fire best when potato is dry / cold. </Description>
+    <UPC>054617035603</UPC>
+    <Price>4.5</Price>
+    <WholesalePrice>1.25</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Ben International</Manufacturer>
+    <Quantity>6</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\potatogun.jpg</PicturePath>
+    <DateCreated>2012-02-12T14:59:51.546875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>99</ID>
+    <categoryID>-1</categoryID>
+    <Name>Potty Putty</Name>
+    <Description>It makes Fart Noises Plus it's fun to fidget with</Description>
+    <UPC>085761097131</UPC>
+    <Price>2.99</Price>
+    <WholesalePrice>1.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>12</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\pottyputty.jpg</PicturePath>
+    <DateCreated>2012-02-12T15:00:23.53125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>100</ID>
+    <categoryID>-1</categoryID>
+    <Name>Princess 54 pc observation puzzle</Name>
+    <Description>Observation puzzles are views of scenes from a certain vantage point. Lots to look at and around the borders are various key characters and graphics from the scene to identify the puzzle. Bright graphics depict a "Princess" scene complete with pink castle, unicorns and horse-drawn carriage. Finished puzzle is about 14.9" x 24" wide. Border has images from the puzzle that can be used to play find the picture game.</Description>
+    <UPC>307090007556</UPC>
+    <Price>22.95</Price>
+    <WholesalePrice>10</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\princesspuzzle.jpg</PicturePath>
+    <DateCreated>2012-02-12T15:00:52.734375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>101</ID>
+    <categoryID>-1</categoryID>
+    <Name>Fairytales 54 pc observation puzzle</Name>
+    <Description>Test your observation skills with this cute puzzle by Djeco. This puzzle features a busy scene from the land of fairytales with Little Red Riding Hood, Sleeping Beauty, the Three Little Pigs, Cinderella and many more fairytale characters.
+
+Put together the 54 piece puzzle and then use those observation skills to find all the items pictured around the edge.
+
+When complete this puzzle measures 61cm by 38cm.
+
+This puzzle also comes with a poster the same size as the puzzle. Hang the poster on the wall or lie it on the table to give guidance while making the puzzle.
+
+</Description>
+    <UPC>307090007561</UPC>
+    <Price>22.95</Price>
+    <WholesalePrice>10</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\fairytalespuzzle.jpg</PicturePath>
+    <DateCreated>2012-02-12T15:05:53.625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>102</ID>
+    <categoryID>-1</categoryID>
+    <Name>Abracadabra 52 pc puzzle gallery</Name>
+    <Description>Exquisitely illustrated by Marc Boutavant for DJECO in Paris, Abracadabra is a lovely 52 piece puzzle that will delight both children and adults. Full of details and surprises, this unique puzzle makes a wonderful gift.</Description>
+    <UPC>307090007611</UPC>
+    <Price>22.95</Price>
+    <WholesalePrice>10</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\abracadabrapuzzle.jpg</PicturePath>
+    <DateCreated>2012-02-12T15:10:20.5625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>103</ID>
+    <categoryID>-1</categoryID>
+    <Name>Weaving Loom</Name>
+    <UPC>0085761074064</UPC>
+    <Price>18.95</Price>
+    <WholesalePrice>6.5</WholesalePrice>
+    <SalePrice>13.5</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>6</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-12T15:12:05.953125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>104</ID>
+    <categoryID>-1</categoryID>
+    <Name>Knitting Art</Name>
+    <UPC>085961093546</UPC>
+    <Price>18.95</Price>
+    <WholesalePrice>6.5</WholesalePrice>
+    <SalePrice>13.5</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>4</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-12T15:13:25.296875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>105</ID>
+    <categoryID>-1</categoryID>
+    <Name>Whacky Ball</Name>
+    <Description>Hammer in the morning. Hammer in the evening. Hammer at nap time. And snack time. Whenever. Four beautiful balls-whack them-watch them go! Mirrored background makes it twice as wacky. Hammer squeaks, wheels spin, balls bang. Tray catches balls and they're ready to roll again. Shipped in assorted colors. Clear recyclable packaging with gift tag.
+
+For ages 1 - 3 years old.   </Description>
+    <UPC>062243219779</UPC>
+    <Price>34.95</Price>
+    <WholesalePrice>17.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>4</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\whackyball.jpg</PicturePath>
+    <DateCreated>2012-02-12T15:32:06.390625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>106</ID>
+    <categoryID>-1</categoryID>
+    <Name>Eyelights flashlight</Name>
+    <Description>Kitty, kitty burning bright, please stay by my bed tonight! This whimsical toy cat makes a friendly, reassuring kids' flashlight, thanks to its multicolored LED eyes. Our kid testers loved changing them from color to color (white...blue...green...magenta) with a simple flip of a switch. Going to bed is easier with a cat like this by your side! Fun for daytime, too: it's a rolling toy (there's a caster underneath), and as the cat rolls along, the eye colors flash. Battery included. For ages 2 and up.  
+</Description>
+    <UPC>062243235977</UPC>
+    <Price>19.99</Price>
+    <WholesalePrice>12</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>4</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\eyelights.jpg</PicturePath>
+    <DateCreated>2012-02-12T15:32:59.953125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>107</ID>
+    <categoryID>-1</categoryID>
+    <Name>Elemenosqueeze soft architectural Blocks</Name>
+    <Description>A different animal hand-sculpted for every letter. (Who says there's no such thing as a unicorn?) A Tower of A to Z relief art awaits. Chew on them, -toss them in the tub. Learn the alphabet, build your masterpiece. Pretty, reusable 100% recycled Polypropylene (PP) plastic bag feels remarkably -like fabric. 
+</Description>
+    <UPC>062243238305</UPC>
+    <Price>39.99</Price>
+    <WholesalePrice>20</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>3</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\elemenosqueeze.jpg</PicturePath>
+    <DateCreated>2012-02-12T15:34:15.40625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>108</ID>
+    <categoryID>-1</categoryID>
+    <Name>Hugs Links</Name>
+    <Description>Round plastic makes great teethers 
+Each link is a happy rattle 
+Beads click, smooth plastic feels good in little hands 
+Package 5" x 9" 
+No sharp edges 
+</Description>
+    <UPC>062243236356</UPC>
+    <Price>21.95</Price>
+    <WholesalePrice>10.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>4</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\hugs.jpg</PicturePath>
+    <DateCreated>2012-02-12T15:38:01.34375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>109</ID>
+    <categoryID>-1</categoryID>
+    <Name>Geo Savane</Name>
+    <Description>Beautiful design and colors 
+made of wood 
+stores neatly in a box, ideal for carry on</Description>
+    <UPC>307090003133</UPC>
+    <Price>44.95</Price>
+    <WholesalePrice>15</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\geosavane.jpg</PicturePath>
+    <DateCreated>2012-02-12T16:03:28.28125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>110</ID>
+    <categoryID>-1</categoryID>
+    <Name>Geo Savane</Name>
+    <Description>Beautiful design and colors 
+made of wood 
+stores neatly in a box, ideal for carry on</Description>
+    <UPC>307090003133</UPC>
+    <Price>44.95</Price>
+    <WholesalePrice>15</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\geosavane.jpg</PicturePath>
+    <DateCreated>2012-02-12T16:03:46.328125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>111</ID>
+    <categoryID>-1</categoryID>
+    <Name>Geo Savane</Name>
+    <Description>Beautiful design and colors 
+made of wood 
+stores neatly in a box, ideal for carry on</Description>
+    <UPC>307090003133</UPC>
+    <Price>44.99</Price>
+    <WholesalePrice>15</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\geosavane.jpg</PicturePath>
+    <DateCreated>2012-02-12T16:03:55.90625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>112</ID>
+    <categoryID>-1</categoryID>
+    <Name>Geo Savane</Name>
+    <Description>Beautiful design and colors 
+made of wood 
+stores neatly in a box, ideal for carry on</Description>
+    <UPC>307090003133</UPC>
+    <Price>44.99</Price>
+    <WholesalePrice>15</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\geosavane.jpg</PicturePath>
+    <DateCreated>2012-02-12T16:04:05.765625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>113</ID>
+    <categoryID>-1</categoryID>
+    <Name>Geo Savane</Name>
+    <Description>Beautiful design and colors 
+made of wood 
+stores neatly in a box, ideal for carry on</Description>
+    <UPC>307090003133</UPC>
+    <Price>44.99</Price>
+    <WholesalePrice>15</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\geosavane.jpg</PicturePath>
+    <DateCreated>2012-02-12T16:04:58.84375-07:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

@@ -1,0 +1,201 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <Name>Lego Ninjago Garmadons Dark Fortress</Name>
+    <Description />
+    <UPC>0673419144872</UPC>
+    <Price>84.95</Price>
+    <WholesalePrice>59.26</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-10T11:32:13.84375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>245</ID>
+    <Name>Lego Ninjago Garmadons Dark Fortress</Name>
+    <Description />
+    <UPC>0673419144872</UPC>
+    <Price>84.95</Price>
+    <WholesalePrice>59.26</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-10T11:33:28.296875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>125</ID>
+    <Name>Mini Puzzle</Name>
+    <Description />
+    <UPC />
+    <Price>4.25</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>48</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-10T12:10:39.5-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>144</ID>
+    <Name>Snickers Candy Bar</Name>
+    <Description />
+    <UPC />
+    <Price>1.25</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>48</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-10T15:49:13.84375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>155</ID>
+    <Name>Skittles</Name>
+    <Description />
+    <UPC>04016007</UPC>
+    <Price>1.25</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>36</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-10T15:49:34.359375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>153</ID>
+    <Name>Trident Watermelon Twist</Name>
+    <Description />
+    <UPC>0012546615952</UPC>
+    <Price>1.85</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-10T15:51:07.109375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>153</ID>
+    <Name>Trident Watermelon Twist</Name>
+    <Description />
+    <UPC>0012546615952</UPC>
+    <Price>1.85</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-10T15:51:19.546875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>152</ID>
+    <Name>Wrigley's 5 Gum Cobalt</Name>
+    <Description />
+    <UPC>02251200</UPC>
+    <Price>1.85</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>3</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-10T15:51:30.78125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>150</ID>
+    <Name>Wrigley's 5 Gum Rain</Name>
+    <Description />
+    <UPC>02251404</UPC>
+    <Price>1.85</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>3</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-10T15:51:45.46875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>150</ID>
+    <Name>Wrigley's 5 Gum Rain</Name>
+    <Description />
+    <UPC>02251404</UPC>
+    <Price>1.85</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>3</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-10T15:51:59.21875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>144</ID>
+    <Name>Snickers Candy Bar</Name>
+    <Description />
+    <UPC />
+    <Price>1.25</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>48</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-10T16:13:09.125-07:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

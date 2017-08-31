@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>0</ID>
+    <Name>New Cart_11:42 AM</Name>
+    <Description>Cash Transaction</Description>
+    <UPC />
+    <Price>16.55</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2012-01-04T11:42:41.703125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>108</ID>
+    <Name>Slam Shot Rocket</Name>
+    <Description />
+    <UPC>0085761015128</UPC>
+    <Price>15.25</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2012-01-04T11:42:41.828125-07:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

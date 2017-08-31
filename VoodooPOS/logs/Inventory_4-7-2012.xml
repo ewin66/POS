@@ -1,0 +1,107 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <categoryID>-1</categoryID>
+    <Name>CAT Tough Tracks Pickup</Name>
+    <Description>CAT Tough Tracks Pickup is ready to get to you to the job site. This durable 14" wheel loader is great for indoor or outdoor play when the weather is warm. Great addition to the beach toy bag to help build sand castles. No batteries required. Recommended for ages 2 and up. 
+t's the perfect machine for little hands in the sandbox! Durable plastic 14" Junior Loader has real moving wheels and parts. Appropriate for children 18 months and up. Realistic-looking bright yellow Cat Junior Loader even has authentic Cat logos.</Description>
+    <UPC>6535695341360</UPC>
+    <Price>26.95</Price>
+    <WholesalePrice>10</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>walmart</Manufacturer>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-07T10:05:35.40625-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>2</ID>
+    <categoryID>-1</categoryID>
+    <Name>CAT Tough Tracks Pickup</Name>
+    <Description>CAT Tough Tracks Pickup is ready to get to you to the job site. This durable 14" wheel loader is great for indoor or outdoor play when the weather is warm. Great addition to the beach toy bag to help build sand castles. No batteries required. Recommended for ages 2 and up. 
+t's the perfect machine for little hands in the sandbox! Durable plastic 14" Junior Loader has real moving wheels and parts. Appropriate for children 18 months and up. Realistic-looking bright yellow Cat Junior Loader even has authentic Cat logos.</Description>
+    <UPC>6535695341360</UPC>
+    <Price>26.95</Price>
+    <WholesalePrice>10</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>walmart</Manufacturer>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-07T10:06:12.234375-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>3</ID>
+    <categoryID>-1</categoryID>
+    <Name>CAT Tough Tracks Pickup</Name>
+    <Description>CAT Tough Tracks Pickup is ready to get to you to the job site. This durable 14" wheel loader is great for indoor or outdoor play when the weather is warm. Great addition to the beach toy bag to help build sand castles. No batteries required. Recommended for ages 2 and up. 
+t's the perfect machine for little hands in the sandbox! Durable plastic 14" Junior Loader has real moving wheels and parts. Appropriate for children 18 months and up. Realistic-looking bright yellow Cat Junior Loader even has authentic Cat logos.</Description>
+    <UPC>6535695341360</UPC>
+    <Price>26.95</Price>
+    <WholesalePrice>10</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>walmart</Manufacturer>
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-07T10:06:49.703125-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>4</ID>
+    <categoryID>-1</categoryID>
+    <Name>TONKA T.S. 4000 Dump Truck</Name>
+    <Description>Get down and dirty with this T.S. 4000 Dump Truck vehicle! Built with a steel cab, steel dump bed and signature steel grille, this vehicle is tough enough to stand up to your hardest "construction jobs". Fill up the dump bed, "drive" it to its destination and then use the real dumping action to unload it! Just like the real thing, this dump truck vehicle is built to operate in the toughest outdoor conditions. So load it up and move it out!
+
+Ages 3 and up.</Description>
+    <UPC>653569534136</UPC>
+    <Price>38.95</Price>
+    <WholesalePrice>24.95</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Walmart</Manufacturer>
+    <Quantity>0</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-04-07T10:08:09.09375-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>5</ID>
+    <categoryID>-1</categoryID>
+    <Name>Tonka rescue force</Name>
+    <UPC>021664041758</UPC>
+    <Price>26.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>wal mart</Manufacturer>
+    <Quantity>0</Quantity>
+    <active>false</active>
+    <displayOnWeb>false</displayOnWeb>
+    <DateCreated>2012-04-07T12:33:26.265625-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>6</ID>
+    <categoryID>-1</categoryID>
+    <Name>Tonka rescue force</Name>
+    <UPC>021664041758</UPC>
+    <Price>26.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>wal mart</Manufacturer>
+    <Quantity>0</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <active>false</active>
+    <displayOnWeb>false</displayOnWeb>
+    <DateCreated>2012-04-07T12:35:33.5-06:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

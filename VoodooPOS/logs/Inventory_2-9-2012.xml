@@ -1,0 +1,84 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <categoryID>-1</categoryID>
+    <Name>Dragondule pop up</Name>
+    <Description>Dimensions: 40 x 59 x 9 cm
+Material: paper
+
+Design: Christian Montenegro
+
+Un superb dragon to decorate the wall of your bedroom!
+
+A work made entirely of paper that opens like a book and expands into a stunning 3D decoration you can hang on your children's bedroom walls.
+
+This new version of the pop-up item is a joint creation by the art teams from Djeco and Italian paper engineer and children's author Dario Cestaro.
+
+</Description>
+    <UPC>307090004922</UPC>
+    <Price>28</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\dragondule.jpg</PicturePath>
+    <DateCreated>2012-02-09T17:45:24.765625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>2</ID>
+    <categoryID>-1</categoryID>
+    <Name>Dragondule pop up</Name>
+    <Description>Dimensions: 40 x 59 x 9 cm
+Material: paper
+
+Design: Christian Montenegro
+
+Un superb dragon to decorate the wall of your bedroom!
+
+A work made entirely of paper that opens like a book and expands into a stunning 3D decoration you can hang on your children's bedroom walls.
+
+This new version of the pop-up item is a joint creation by the art teams from Djeco and Italian paper engineer and children's author Dario Cestaro.
+
+</Description>
+    <UPC>307090004922</UPC>
+    <Price>29.95</Price>
+    <WholesalePrice>15</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Djeco</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\dragondule.jpg</PicturePath>
+    <DateCreated>2012-02-09T17:49:32.84375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>3</ID>
+    <categoryID>-1</categoryID>
+    <Name>Wiggle Snakes</Name>
+    <UPC>639277205537</UPC>
+    <Price>3.5</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>dollar tree</Manufacturer>
+    <Quantity>7</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-09T17:52:05.65625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>4</ID>
+    <categoryID>-1</categoryID>
+    <Name>My Cooker Stove playset</Name>
+    <Description>Our colorful table top wooden cooker has no hot surfaces to worry about, but still cooks up hours of imaginative fun. Includes wooden utensils, pot with lid, pan, salt and pepper shakers and more! 
+</Description>
+    <UPC>307090006510</UPC>
+    <Price>85.95</Price>
+    <WholesalePrice>50</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Djeco</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\mycooker.bmp</PicturePath>
+    <DateCreated>2012-02-09T17:59:34.84375-07:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

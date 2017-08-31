@@ -1,0 +1,843 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <Name>Ants in the Pants</Name>
+    <Description />
+    <UPC>032244047862</UPC>
+    <Price>16.99</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-29T12:25:29.1048492-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>2</ID>
+    <Name>Build-a-Buddy Brown Bear</Name>
+    <Description />
+    <UPC>747482110604</UPC>
+    <Price>22.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-29T13:02:17.2021451-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>3</ID>
+    <Name>Build-a-Buddy Light Brown Bear</Name>
+    <Description />
+    <UPC>0747482110601</UPC>
+    <Price>22.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-29T13:02:35.2411769-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>4</ID>
+    <Name>Build-a-Buddy Rabbit</Name>
+    <Description />
+    <UPC>747482110994</UPC>
+    <Price>22.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-29T13:02:49.7700079-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>5</ID>
+    <Name>Build-a-Buddy Tiger</Name>
+    <Description />
+    <UPC>0747482110710</UPC>
+    <Price>22.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-29T13:03:06.9939931-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>6</ID>
+    <Name>Build-a-Buddy Wolf</Name>
+    <Description />
+    <UPC>0747482111410</UPC>
+    <Price>22.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-29T13:03:23.7099492-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>7</ID>
+    <Name>Bungee Watch</Name>
+    <Description />
+    <UPC>085761147287</UPC>
+    <Price>22.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>24</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-29T13:03:37.7597528-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>8</ID>
+    <Name>Bungee Watch</Name>
+    <Description />
+    <UPC>085761147287</UPC>
+    <Price>5.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>24</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-29T13:05:02.4595973-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>9</ID>
+    <Name>Connect 4</Name>
+    <Description />
+    <UPC>0653569442417</UPC>
+    <Price>34.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>4</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-29T13:18:59.5164742-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>10</ID>
+    <Name>Cootie</Name>
+    <Description />
+    <UPC>0032244047824</UPC>
+    <Price>17.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>2</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-29T13:19:37.1926292-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>11</ID>
+    <Name>Ants in the Pants</Name>
+    <Description />
+    <UPC>032244047862</UPC>
+    <Price>17.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-29T13:19:56.1457132-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>12</ID>
+    <Name>Don't Break the Ice</Name>
+    <Description />
+    <UPC>0032244047848</UPC>
+    <Price>17.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>2</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-29T13:25:12.6028136-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>13</ID>
+    <Name>Don't Spill the Beans</Name>
+    <Description />
+    <UPC>0032244047855</UPC>
+    <Price>17.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-29T13:25:45.2626816-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>14</ID>
+    <Name>Firefly</Name>
+    <Description />
+    <UPC>665766081207</UPC>
+    <Price>4.75</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>24</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-29T13:27:26.9885-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>15</ID>
+    <Name>Fishing Game</Name>
+    <Description />
+    <UPC>0084358044480</UPC>
+    <Price>12.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>2</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-29T13:45:27.0612766-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>16</ID>
+    <Name>Fresh Metal Cars</Name>
+    <Description />
+    <UPC>085761139718</UPC>
+    <Price>3.75</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>36</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\freshmetalcars.jpg</picturePath>
+    <DateCreated>2011-10-29T13:46:35.3041799-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>17</ID>
+    <Name>Blood Capsules</Name>
+    <Description />
+    <UPC>0031828010155</UPC>
+    <Price>1.75</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-29T13:49:18.2995027-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>18</ID>
+    <Name>Blue Mouth Sweets</Name>
+    <Description />
+    <UPC>0031828010353</UPC>
+    <Price>1.75</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-29T13:49:28.8841081-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>19</ID>
+    <Name>Glow Bracelets</Name>
+    <Description />
+    <UPC />
+    <Price>0.25</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>360</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-29T13:51:02.7624776-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>20</ID>
+    <Name>Gummi Pizza</Name>
+    <Description />
+    <UPC />
+    <Price>0.99</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>48</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\gummipizza.jpg</picturePath>
+    <DateCreated>2011-10-29T13:51:34.5562961-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>21</ID>
+    <Name>Hackey Sacks</Name>
+    <Description />
+    <UPC />
+    <Price>4.5</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-29T13:54:58.4389575-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>22</ID>
+    <Name>Incy Bincies</Name>
+    <Description />
+    <UPC>845218001131</UPC>
+    <Price>0.99</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>24</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\incybincies.jpg</picturePath>
+    <DateCreated>2011-10-29T13:56:17.5314814-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>23</ID>
+    <Name>Jenga</Name>
+    <Description />
+    <UPC>0653569188407</UPC>
+    <Price>26.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>4</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-29T13:58:21.0615469-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>24</ID>
+    <Name>Knitting Art</Name>
+    <Description />
+    <UPC>085961093546</UPC>
+    <Price>18.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>3</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-29T14:01:36.7627404-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>25</ID>
+    <Name>Lego Castle Case</Name>
+    <Description />
+    <UPC>0673419144049</UPC>
+    <Price>17.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>3</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-29T14:04:01.3510103-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>26</ID>
+    <Name>Lego City Camper</Name>
+    <Description />
+    <UPC>0673419112482</UPC>
+    <Price>34.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>3</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-29T14:05:55.3155287-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>27</ID>
+    <Name>Lego Kingdoms Escape from Dragon's Prison</Name>
+    <Description />
+    <UPC>0673419145077</UPC>
+    <Price>34.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>4</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-29T14:08:19.3207654-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>28</ID>
+    <Name>Lego Racers Chopper Jump</Name>
+    <Description />
+    <UPC>0673419130851</UPC>
+    <Price>29.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-29T14:10:47.8492607-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>29</ID>
+    <Name>Lego Racers Ramp Crash</Name>
+    <Description />
+    <UPC>0673419130905</UPC>
+    <Price>29.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-29T14:12:27.8499804-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>30</ID>
+    <Name>Lego Road Case</Name>
+    <Description />
+    <UPC>0673419144087</UPC>
+    <Price>17.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>3</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-29T14:13:04.2890646-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>31</ID>
+    <Name>Leisure Time Books</Name>
+    <Description />
+    <UPC>0088908490000</UPC>
+    <Price>6.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>36</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-29T14:14:05.0785416-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>32</ID>
+    <Name>Magic Candles</Name>
+    <Description />
+    <UPC>0097138669711</UPC>
+    <Price>2.5</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-29T14:15:39.0219148-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>33</ID>
+    <Name>My Little Pony ApplyJack</Name>
+    <Description />
+    <UPC>0653569543909</UPC>
+    <Price>10.25</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>2</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-29T14:20:25.1812822-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>34</ID>
+    <Name>My Little Pony ApplyJack</Name>
+    <Description />
+    <UPC>0653569543909</UPC>
+    <Price>9.5</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>2</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-29T14:21:06.9906736-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>35</ID>
+    <Name>My Little Pony Cherrilee</Name>
+    <Description />
+    <UPC>653569577744</UPC>
+    <Price>9.5</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>2</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-29T14:21:33.7512042-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>36</ID>
+    <Name>My Little Pony Lily Blossom</Name>
+    <Description />
+    <UPC>0653569577720</UPC>
+    <Price>9.5</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>2</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-29T14:22:11.4573609-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>37</ID>
+    <Name>My Little Pony Pinky Pie</Name>
+    <Description />
+    <UPC>653569543886</UPC>
+    <Price>9.5</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>2</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-29T14:22:42.0541109-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>38</ID>
+    <Name>My Little Pony Rarity</Name>
+    <Description />
+    <UPC>0653569543893</UPC>
+    <Price>9.5</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>2</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-29T14:22:59.2200927-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>39</ID>
+    <Name>My Little Pony Twilight Sparkle</Name>
+    <Description />
+    <UPC>0653569543923</UPC>
+    <Price>9.5</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>2</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-29T14:23:20.432306-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>40</ID>
+    <Name>Neo Tracks</Name>
+    <Description />
+    <UPC>0603625917380</UPC>
+    <Price>34.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-29T14:28:21.4315222-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>41</ID>
+    <Name>Neo Tracks Cars</Name>
+    <Description />
+    <UPC>603625917441</UPC>
+    <Price>8.99</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-29T14:40:19.354585-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>42</ID>
+    <Name>Neo Tracks Extra Track</Name>
+    <Description />
+    <UPC>0603625917434</UPC>
+    <Price>22.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-29T14:43:42.60021-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>43</ID>
+    <Name>Nepali Headband</Name>
+    <Description />
+    <UPC />
+    <Price>6.5</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>8</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-29T14:45:34.5056106-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>44</ID>
+    <Name>Nepali Wool Adult Black Bear Hat</Name>
+    <Description />
+    <UPC />
+    <Price>25.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-29T14:46:06.6594497-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>45</ID>
+    <Name>Nepali Wool Adult Brown Sock Monkey Hat</Name>
+    <Description />
+    <UPC />
+    <Price>25.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-29T14:46:40.4963851-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>46</ID>
+    <Name>Nepali Wool Adult Dog Hat</Name>
+    <Description />
+    <UPC />
+    <Price>25.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-29T14:47:15.8404066-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>47</ID>
+    <Name>Nepali Wool Adult Frog Hat</Name>
+    <Description />
+    <UPC />
+    <Price>25.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-29T14:47:38.7417165-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>48</ID>
+    <Name>Nepali Wool Adult Grey Sock Monkey Hat</Name>
+    <Description />
+    <UPC />
+    <Price>25.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\hats.jpg</picturePath>
+    <DateCreated>2011-10-29T14:47:53.9125842-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>49</ID>
+    <Name>Nepali Wool Adult Tiger Hat</Name>
+    <Description />
+    <UPC />
+    <Price>25.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-29T14:48:15.1207973-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>50</ID>
+    <Name>Nepali Wool Child Brown Sock Monkey Hat</Name>
+    <Description />
+    <UPC />
+    <Price>22.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-29T14:48:49.7357771-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>51</ID>
+    <Name>Nepali Wool Child Dog Hat</Name>
+    <Description />
+    <UPC />
+    <Price>22.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-29T14:49:15.3592427-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>52</ID>
+    <Name>Nepali Wool Child Frog Hat</Name>
+    <Description />
+    <UPC />
+    <Price>22.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-29T14:49:46.7980409-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>53</ID>
+    <Name>Nepali Wool Child Grey Sock Monkey Hat</Name>
+    <Description />
+    <UPC />
+    <Price>22.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-29T14:50:11.8894761-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>54</ID>
+    <Name>Nepali Wool Child Tiger Hat</Name>
+    <Description />
+    <UPC />
+    <Price>22.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-29T14:50:35.176808-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>55</ID>
+    <Name>Nepali Wool Child Tiger Hat</Name>
+    <Description />
+    <UPC />
+    <Price>22.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-29T14:50:57.1170629-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>56</ID>
+    <Name>Ouija</Name>
+    <Description />
+    <UPC>0073000006006</UPC>
+    <Price>32.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-29T14:52:54.2017598-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>57</ID>
+    <Name>Party Poppers</Name>
+    <Description />
+    <UPC />
+    <Price>0.5</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>50</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-29T14:57:04.813094-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>58</ID>
+    <Name>Party String</Name>
+    <Description />
+    <UPC>0097138400819</UPC>
+    <Price>6.25</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>24</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-29T15:00:11.6327794-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>59</ID>
+    <Name>Pin Through Nose</Name>
+    <Description />
+    <UPC>0099996007445</UPC>
+    <Price>1.5</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-29T15:01:03.9747732-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>60</ID>
+    <Name>Punch Ball</Name>
+    <Description />
+    <UPC>085761027275</UPC>
+    <Price>3.5</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>24</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\punchballoons.jpg</picturePath>
+    <DateCreated>2011-10-29T15:02:30.514723-06:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

@@ -1,0 +1,453 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <Name>Glow Axe</Name>
+    <Description />
+    <UPC>0639277060815</UPC>
+    <Price>1.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-20T11:27:24.921875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>2</ID>
+    <Name>Glow Mask </Name>
+    <Description />
+    <UPC>0639277874979</UPC>
+    <Price>1.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-20T11:29:25.09375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>3</ID>
+    <Name>Glow sword</Name>
+    <Description />
+    <UPC />
+    <Price>1.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-20T11:30:04.671875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>4</ID>
+    <Name>Glow Trident</Name>
+    <Description />
+    <UPC />
+    <Price>1.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-20T11:30:31.140625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>286</ID>
+    <Name>Glowstick Wand</Name>
+    <Description />
+    <UPC />
+    <Price>1.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-20T11:34:35.828125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>289</ID>
+    <Name>Glow Wand</Name>
+    <Description />
+    <UPC>0639277060815</UPC>
+    <Price>1.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-20T11:35:32.46875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>290</ID>
+    <Name>Silly Shotz rocket fling</Name>
+    <Description />
+    <UPC />
+    <Price>1.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-20T11:36:05.75-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>291</ID>
+    <Name>Words'N Beads</Name>
+    <Description />
+    <UPC />
+    <Price>1.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-20T11:36:57.125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>292</ID>
+    <Name>Batteries AAA 2 pack</Name>
+    <Description />
+    <UPC />
+    <Price>1.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-20T11:38:25.078125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>293</ID>
+    <Name>Card Games</Name>
+    <Description />
+    <UPC />
+    <Price>0.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-20T12:21:09.5-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>296</ID>
+    <Name>Card Games</Name>
+    <Description />
+    <UPC />
+    <Price>0.99</Price>
+    <WholesalePrice>0.33</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-20T12:21:41.296875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>297</ID>
+    <Name>Wings</Name>
+    <Description />
+    <UPC>0639277251237</UPC>
+    <Price>3.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-20T12:26:34.1875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>298</ID>
+    <Name>Puzzle Puzzlebug</Name>
+    <Description />
+    <UPC />
+    <Price>4.25</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-20T12:30:00.484375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>299</ID>
+    <Name>Puzzle Encore</Name>
+    <Description />
+    <UPC />
+    <Price>4.25</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-20T12:30:22.65625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>299</ID>
+    <Name>Puzzle Encore</Name>
+    <Description />
+    <UPC />
+    <Price>4.25</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-20T12:33:42.921875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>298</ID>
+    <Name>Puzzle Puzzlebug</Name>
+    <Description />
+    <UPC />
+    <Price>4.25</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-20T12:34:56.828125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>297</ID>
+    <Name>Wings</Name>
+    <Description />
+    <UPC>0639277251237</UPC>
+    <Price>3.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-20T12:35:32.109375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>296</ID>
+    <Name>Card Games</Name>
+    <Description />
+    <UPC />
+    <Price>0.99</Price>
+    <WholesalePrice>0.33</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-20T12:36:12.484375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>294</ID>
+    <Name>Words'N Beads</Name>
+    <Description />
+    <UPC />
+    <Price>1.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-20T12:37:36.625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>305</ID>
+    <Name>Bouncing putty</Name>
+    <Description />
+    <UPC />
+    <Price>1.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-20T13:02:33.03125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>306</ID>
+    <Name>Gazz-it!</Name>
+    <Description />
+    <UPC />
+    <Price>1.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-20T13:02:55.828125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>125</ID>
+    <Name>Puzzle Mini wire</Name>
+    <Description />
+    <UPC />
+    <Price>4.25</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>48</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-20T13:28:44.84375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>308</ID>
+    <Name>Tower of Foam</Name>
+    <Description />
+    <UPC />
+    <Price>4.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-20T13:53:21.890625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>302</ID>
+    <Name>Tower of Foam</Name>
+    <Description />
+    <UPC />
+    <Price>4.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-20T14:00:09.34375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>302</ID>
+    <Name>Tower of Foam</Name>
+    <Description />
+    <UPC />
+    <Price>4.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-20T14:04:28.25-07:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

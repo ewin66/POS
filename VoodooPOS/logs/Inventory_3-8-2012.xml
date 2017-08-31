@@ -1,0 +1,78 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <categoryID>-1</categoryID>
+    <Name>Stretch and Launch Speed Boat</Name>
+    <Description>Colorful floating speed boat. Just hold the bungee cord, pull back, let go and watch the boat race accross the water! Great for bath time and pools!</Description>
+    <UPC>075656011922</UPC>
+    <Price>2.5</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>2</Quantity>
+    <DateCreated>2012-03-08T13:07:53-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>2</ID>
+    <categoryID>-1</categoryID>
+    <Name>Ninja Action Figures</Name>
+    <Description>Give your imagination some company with these ready-to-battle ninja action figures. Each pack comes with two 4½" ninja action figures with swords. Great for party favors, prize boxes, and toy rooms. Case includes 24 – 2-ct. packs of ninja action figures with swords in assorted colors. Ages 3+.
+
+</Description>
+    <UPC>639277439697</UPC>
+    <Price>3.5</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\ninjafigure.jpg</PicturePath>
+    <DateCreated>2012-03-08T13:20:08.734375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>3</ID>
+    <categoryID>-1</categoryID>
+    <Name>Knight action figure</Name>
+    <Description>Jousting knight figure on horseback.</Description>
+    <UPC>639277092243</UPC>
+    <Price>1.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\knightfigure.jpg</PicturePath>
+    <DateCreated>2012-03-08T13:54:35.84375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>4</ID>
+    <categoryID>-1</categoryID>
+    <Name>incense stick</Name>
+    <Description>sticks of fragrant incense</Description>
+    <Price>0.2</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Benjamin International</Manufacturer>
+    <Quantity>200</Quantity>
+    <DateCreated>2012-03-08T15:34:22.828125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>5</ID>
+    <categoryID>-1</categoryID>
+    <Name>Treasure Island map magic trick</Name>
+    <Description>Read minds to reveal the treasure everytime! 
+Easy to learn, easy to do. 
+</Description>
+    <UPC>639277002259</UPC>
+    <Price>3.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>dollar tree</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\treasureislandtrick.jpg</PicturePath>
+    <DateCreated>2012-03-08T18:21:53.71875-07:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

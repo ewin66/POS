@@ -1,0 +1,1008 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <categoryID>-1</categoryID>
+    <Name>Pinwheel</Name>
+    <Description>Spring and Summer are just not complete without a colorful pinwheel!  This version from Toysmith is brightly foil colored and perfect for outdoor windy day fun.  This assortment comes with blue, green blue and purple. </Description>
+    <UPC>085761070516</UPC>
+    <Price>1.95</Price>
+    <WholesalePrice>0.75</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>48</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\pinwheel.jpg</PicturePath>
+    <DateCreated>2012-02-11T11:15:00.140625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>2</ID>
+    <categoryID>-1</categoryID>
+    <Name>Soalr Print Paper</Name>
+    <Description>Refill pack for the Solar Print Kit, Item 4062 
+12 sheets of sun-sensitive refill paper that udergoes a chemical change when exposed to sunlight 
+Images appear in minutes and are permanent 
+Refill frame included 
+Creatively educational 
+</Description>
+    <UPC>085761040649</UPC>
+    <Price>8.95</Price>
+    <WholesalePrice>3</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>24</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\solarPaper.jpg</PicturePath>
+    <DateCreated>2012-02-11T11:54:50.40625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>3</ID>
+    <categoryID>-1</categoryID>
+    <Name>Lego Spongebob Krusty Krab Adventures</Name>
+    <Description>Drive the Patty Wagon to the all-new Krusty Krab! 
+
+Dive down to Bikini Bottom for a swell time! Patrick's got the Patty Wagon all revved up and SpongeBob™ is checking out the new gadgets inside the Krusty Krab. Good ol' Mr. Krabs™ is just hoping the boys don't cause any damage!
+
+
+•SpongeBob, Patrick and Mr. Krabs minifigures included!
+•The Krusty Krab restaurant features details like Mr. Krabs safe, money, working doors and more!
+•Krabby Patty vehicle also included!
+•Measures 6.5" (16cm) long and 4" (10cm) tall!
+
+</Description>
+    <UPC>673419111959</UPC>
+    <Price>38.95</Price>
+    <WholesalePrice>24.99</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>lego</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\krustykrab.jpg</PicturePath>
+    <DateCreated>2012-02-11T11:55:20.046875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>4</ID>
+    <categoryID>-1</categoryID>
+    <Name>Carnivorous Creations Terrarium</Name>
+    <Description>Grow Your Own Collection of Feared and Famous Meat-eating Plants! 
+This deluxe Carnivorous Creations kit has seeds from over 10 varieties of carnivorous plants, including the Cobra Plant, Venus Fly Trap, Pitcher Plant, Trumpet Plant and more. 
+You'll make your own authentic bog with the included peat planting mix, blue Swamp Rocks, three Bog Buddies and colorful decals! 
+This rare and unusual collection of plants will flourish for years in the specially designed terrarium with proper care and stratification. 
+Like all plants, carnivorous plants use the sun to produce energy through photosynthesis. However, these plants grow in peat bogs where there are no additional minerals or nutrients in the soil. Because of this, over time, carnivorous plants began to catch insects for food to get the much needed minerals and nutrients the peat around them lacked. After having acquired the skill of hunting, these carnivorous plants began to thrive. 
+The plants attract insects to their traps by producing a sweet odor. When small insects land on the plant, they touch tiny hairs that set off triggers and cause the trap to close making escape impossible. Each type of carnivorous plant traps their prey in a different way. 
+The famous Venus Fly Trap has jaw-like leaves that snap shut. The Hooded Pitcher Plant has downward facing spikes that prevent the insect from flying out. Some plants produce chemicals that dissolve the insect while other plants depend on bacteria and other microorganisms to help them digest. Once digested and absorbed, the insect becomes liquified nutrients that help the plant work and live.
+Each Complete Kit Includes:
+•Growing Dome 
+•Planting Mixture 
+•Carnivorous Seed Pack
+•3 Photo Decals 
+•3 Bog Buddies
+•Swamp Rocks 
+•Instructions and Information Manual</Description>
+    <UPC>851694000094</UPC>
+    <Price>26.95</Price>
+    <WholesalePrice>12.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Ben International</Manufacturer>
+    <Quantity>4</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\Carnivorouscreations.jpg</PicturePath>
+    <DateCreated>2012-02-11T11:57:13.390625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>5</ID>
+    <categoryID>-1</categoryID>
+    <Name>Poppitoppy</Name>
+    <Description>Can you push it once or will you push it 100 times? It pops and bops and rolls for hours of entertainment! Press her head and the balls pop like wild.</Description>
+    <UPC>062243220201</UPC>
+    <Price>10</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>24.95</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>4</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\Poppitoppy.jpg</PicturePath>
+    <DateCreated>2012-02-11T12:05:33.75-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>6</ID>
+    <categoryID>-1</categoryID>
+    <Name>Seven Seas Picture Projector</Name>
+    <Description>Flashlight comes with assorted clear disks with images of your favorite theme. Place a disk on the end of te flashlight and an image is projected onto the wall, ceiling or other flat surface. Requires two "AA" batteries. (not included) Ages 5 &amp; up 6" </Description>
+    <UPC>085761075474</UPC>
+    <Price>0</Price>
+    <WholesalePrice>1.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>6</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\sevenSeasMiniProjector.jpg</PicturePath>
+    <DateCreated>2012-02-11T12:12:56.984375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>7</ID>
+    <categoryID>-1</categoryID>
+    <Name>Seven Seas Picture Projector</Name>
+    <Description>Flashlight comes with assorted clear disks with images of your favorite theme. Place a disk on the end of te flashlight and an image is projected onto the wall, ceiling or other flat surface. Requires two "AA" batteries. (not included) Ages 5 &amp; up 6" </Description>
+    <UPC>085761075474</UPC>
+    <Price>5.99</Price>
+    <WholesalePrice>1.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>6</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\sevenSeasMiniProjector.jpg</PicturePath>
+    <DateCreated>2012-02-11T12:14:37.796875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>8</ID>
+    <categoryID>-1</categoryID>
+    <Name>Seven Seas Picture Projector</Name>
+    <Description>Flashlight comes with assorted clear disks with images of your favorite theme. Place a disk on the end of te flashlight and an image is projected onto the wall, ceiling or other flat surface. Requires two "AA" batteries. (not included) Ages 5 &amp; up 6" </Description>
+    <UPC>085761075474</UPC>
+    <Price>5.99</Price>
+    <WholesalePrice>1.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>6</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\sevenSeasMiniProjector.jpg</PicturePath>
+    <DateCreated>2012-02-11T12:17:25.796875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>9</ID>
+    <categoryID>-1</categoryID>
+    <Name>Rockin and scary picture projector</Name>
+    <Description>Flashlight comes with assorted clear disks with images of your favorite theme. Place a disk on the end of te flashlight and an image is projected onto the wall, ceiling or other flat surface. Requires two "AA" batteries. (not included) Ages 5 &amp; up 6" </Description>
+    <UPC>085761075900</UPC>
+    <Price>5.99</Price>
+    <WholesalePrice>1.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>17</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\rockinprojector.jpg</PicturePath>
+    <DateCreated>2012-02-11T12:20:40.125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>10</ID>
+    <categoryID>-1</categoryID>
+    <Name>Rockin and scary picture projector</Name>
+    <Description>Flashlight comes with assorted clear disks with images of your favorite theme. Place a disk on the end of te flashlight and an image is projected onto the wall, ceiling or other flat surface. Requires two "AA" batteries. (not included) Ages 5 &amp; up 6" </Description>
+    <UPC>085761075900</UPC>
+    <Price>5.99</Price>
+    <WholesalePrice>1.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>17</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\rockinprojector.jpg</PicturePath>
+    <DateCreated>2012-02-11T12:20:57.328125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>11</ID>
+    <categoryID>-1</categoryID>
+    <Name>Fanciful Picture Projector</Name>
+    <Description>Flashlight comes with assorted clear disks with images of your favorite theme. Place a disk on the end of te flashlight and an image is projected onto the wall, ceiling or other flat surface. Requires two "AA" batteries. (not included) Ages 5 &amp; up 6"</Description>
+    <UPC>085761075481</UPC>
+    <Price>5.99</Price>
+    <WholesalePrice>1.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\fancifulMiniProjector.jpg</PicturePath>
+    <DateCreated>2012-02-11T12:22:18.46875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>12</ID>
+    <categoryID>-1</categoryID>
+    <Name>Jungle Picture Projector</Name>
+    <Description>Flashlight comes with assorted clear disks with images of your favorite theme. Place a disk on the end of te flashlight and an image is projected onto the wall, ceiling or other flat surface. Requires two "AA" batteries. (not included) Ages 5 &amp; up 6"</Description>
+    <UPC>085761075467</UPC>
+    <Price>5.99</Price>
+    <WholesalePrice>1.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>6</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\jungleMiniProjector.jpg</PicturePath>
+    <DateCreated>2012-02-11T12:23:37.03125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>13</ID>
+    <categoryID>-1</categoryID>
+    <Name>Space Picture Projector</Name>
+    <Description>Flashlight comes with assorted clear disks with images of your favorite theme. Place a disk on the end of te flashlight and an image is projected onto the wall, ceiling or other flat surface. Requires two "AA" batteries. (not included) Ages 5 &amp; up 6"</Description>
+    <UPC>085761075450</UPC>
+    <Price>5.99</Price>
+    <WholesalePrice>1.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>6</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\spaceMiniProjector.jpg</PicturePath>
+    <DateCreated>2012-02-11T12:25:10.59375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>14</ID>
+    <categoryID>-1</categoryID>
+    <Name>Rockin and scary picture projector</Name>
+    <Description>Flashlight comes with assorted clear disks with images of your favorite theme. Place a disk on the end of te flashlight and an image is projected onto the wall, ceiling or other flat surface. Requires two "AA" batteries. (not included) Ages 5 &amp; up 6"</Description>
+    <UPC>085761075900</UPC>
+    <Price>5.99</Price>
+    <WholesalePrice>1.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>17</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\rockinprojector.jpg</PicturePath>
+    <DateCreated>2012-02-11T12:25:56.65625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>15</ID>
+    <categoryID>-1</categoryID>
+    <Name>Bungee blast</Name>
+    <Description>Pull back this soft 7 inch foam rocket blaster, let it fling, and watch it soar up to 100 feet. Assorted blue-yellow and red-yellow colors</Description>
+    <UPC>085761077881</UPC>
+    <Price>2.5</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>25</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\bungeeblast.bmp</PicturePath>
+    <DateCreated>2012-02-11T12:30:25.515625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>16</ID>
+    <categoryID>-1</categoryID>
+    <Name>Ant Universe</Name>
+    <Description>This incredible habitat takes ant farming to the next level with its space-age design and cool blue gel. 
+Based on a 2003 NASA Space Shuttle experiment observing ants tunneling in microgravity 
+this innovative farm features nutrient-rich gel that promotes a healthy environment for your ants 
+Just kick back and watch them do their work--no food or water needed. 
+The Ant Universe habitat comes with: Non-toxic nutrient Gel (provides both food and water to the ants) 
+</Description>
+    <UPC>085761082779</UPC>
+    <Price>19.99</Price>
+    <WholesalePrice>9</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>7</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\antuniverse.bmp</PicturePath>
+    <DateCreated>2012-02-11T12:35:06.546875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>17</ID>
+    <categoryID>-1</categoryID>
+    <Name>Hugs Links</Name>
+    <Description>Round plastic makes great teethers 
+Each link is a happy rattle 
+Beads click, smooth plastic feels good in little hands 
+Package 5" x 9" 
+No sharp edges 
+</Description>
+    <UPC>062243236356</UPC>
+    <Price>21.95</Price>
+    <WholesalePrice>10.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>4</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\hugs.jpg</PicturePath>
+    <DateCreated>2012-02-11T12:40:04.09375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>18</ID>
+    <categoryID>-1</categoryID>
+    <Name>Magnets and More set</Name>
+    <Description>Magnet Set . Fun and educational, this set includes eight assorted magnets and five paperclips for magnetic experiments..
+</Description>
+    <UPC>0622432363560</UPC>
+    <Price>6.99</Price>
+    <WholesalePrice>2</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>12</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\magnets8.jpg</PicturePath>
+    <DateCreated>2012-02-11T12:46:25.140625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>19</ID>
+    <categoryID>-1</categoryID>
+    <Name>Go play magnetic checkers</Name>
+    <Description>This stylish travel gane is for kids and the young at heart. The checker game is packaged in a convenient, travel-sized, metal tin, thus maintaining the magnetic element. Colourful, fun and eye-catching, this checker game is great for travelling kids. 
+</Description>
+    <UPC>085761155220</UPC>
+    <Price>6.99</Price>
+    <WholesalePrice>3.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\magneticcheckers.jpg</PicturePath>
+    <DateCreated>2012-02-11T12:53:34.1875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>20</ID>
+    <categoryID>-1</categoryID>
+    <Name>Magnetic backgammon</Name>
+    <Description>Take Backgammon on the road or play at home.  The convenient tin case lets you save games for later.   
+
+Includes 32 counters, 1 tin box clip and full game instructions.  Tin measures 5 x 5"
+
+For 2 players.
+
+Recommended for Ages 6+
+
+</Description>
+    <UPC>085761155237</UPC>
+    <Price>6.99</Price>
+    <WholesalePrice>3.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>4</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\magneticbackgammon.jpg</PicturePath>
+    <DateCreated>2012-02-11T13:00:32.9375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>21</ID>
+    <categoryID>-1</categoryID>
+    <Name>Magnetic chess</Name>
+    <Description>Goplay Magnetic Chess 
+This magnetic Chess game makes an intriguing travel companion. All game pieces needed for play are included, in a neat self contained 5.5 inch tin box 
+</Description>
+    <UPC>085761155206</UPC>
+    <Price>6.99</Price>
+    <WholesalePrice>3.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>4</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\magneticchess.bmp</PicturePath>
+    <DateCreated>2012-02-11T13:04:11.265625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>22</ID>
+    <categoryID>-1</categoryID>
+    <Name>Magnetic 4 in a row</Name>
+    <Description>Magnetic travel game 
+44 magnetic pieces 
+Full instructions 
+In colorful steel container 
+For 2 players 
+</Description>
+    <UPC>085761155213</UPC>
+    <Price>6.99</Price>
+    <WholesalePrice>3.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>4</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\magnetic4inarow.jpg</PicturePath>
+    <DateCreated>2012-02-11T13:09:39.421875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>23</ID>
+    <categoryID>-1</categoryID>
+    <Name>Owl pop up</Name>
+    <Description>Kids love pop-up books. Now they can take that idea to a whole new level and create their very own Djeco Owl Pop Up Paper Art. From flat package to intricate wall dcor, this fabulous art craft kit transforms into an awesome, artistic 3-dimensional paper owl wall hanging. All supplies included. 
+</Description>
+    <UPC>307090004904</UPC>
+    <Price>29.99</Price>
+    <WholesalePrice>15</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\owlpop.jpg</PicturePath>
+    <DateCreated>2012-02-11T13:21:26.359375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>24</ID>
+    <categoryID>-1</categoryID>
+    <Name>tiger pop up</Name>
+    <Description>Kids love pop-up books. Now they can take that idea to a whole new level and create their very own Djeco Tiger Pop Up Paper Art. From flat package to intricate wall dcor, this fabulous art craft kit transforms into an awesome, artistic 3-dimensional paper tiger wall hanging. All supplies included. 
+</Description>
+    <UPC>307090004924</UPC>
+    <Price>29.99</Price>
+    <WholesalePrice>15</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\tigerpop.jpg</PicturePath>
+    <DateCreated>2012-02-11T13:27:52.046875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>25</ID>
+    <categoryID>-1</categoryID>
+    <Name>Elephant pop up</Name>
+    <Description>Djeco Elephantaisie Pop Up Art Wall Decor 
+Size: 16.14 inches tall, 12.6 inches wide, 8.27 inches diagonal 
+Designed by Charlotte Labaronne in France 
+</Description>
+    <UPC>307090004902</UPC>
+    <Price>29.99</Price>
+    <WholesalePrice>15</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\elephantpop.jpg</PicturePath>
+    <DateCreated>2012-02-11T13:30:25.453125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>26</ID>
+    <categoryID>-1</categoryID>
+    <Name>Lion pop up</Name>
+    <Description>Decorative pop up wall art 
+Comes virtually ready to hang 
+Composed of a composite paper 
+Recommended for ages 3 and up 
+</Description>
+    <UPC>307090004925</UPC>
+    <Price>29.99</Price>
+    <WholesalePrice>15</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\lionpop.bmp</PicturePath>
+    <DateCreated>2012-02-11T13:33:09.5-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>27</ID>
+    <categoryID>-1</categoryID>
+    <Name>Lilibellule</Name>
+    <Description>Kids love pop-up books. Now they can take that idea to a whole new level and create their very own Djeco Happy Liil Pop Up Paper Art. Going from flat package to intricate wall dcor, this fabulous art craft kit transforms into an awesome, artistic, 3-dimensional paper wall hanging. All supplies included. 
+</Description>
+    <UPC>307090004911</UPC>
+    <Price>29.99</Price>
+    <WholesalePrice>15</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\lilibellule.jpg</PicturePath>
+    <DateCreated>2012-02-11T13:41:29.125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>28</ID>
+    <categoryID>-1</categoryID>
+    <Name>Finger Frights</Name>
+    <Description>Our fun finger frights look like mini dragons or monsters. Comes in a set of four creating lots of fun play.</Description>
+    <UPC>085761146976</UPC>
+    <Price>0.75</Price>
+    <WholesalePrice>0.35</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>72</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\fingerFrights.jpg</PicturePath>
+    <DateCreated>2012-02-11T14:26:49.28125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>29</ID>
+    <categoryID>-1</categoryID>
+    <Name>Finger Frights</Name>
+    <Description>Our fun finger frights look like mini dragons or monsters. Comes in a set of four creating lots of fun play.</Description>
+    <UPC>085761146976</UPC>
+    <Price>0.75</Price>
+    <WholesalePrice>0.35</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>72</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\fingerFrights.jpg</PicturePath>
+    <DateCreated>2012-02-11T14:28:35.46875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>30</ID>
+    <categoryID>-1</categoryID>
+    <Name>Finger Frights</Name>
+    <Description>Our fun finger frights look like mini dragons or monsters. Comes in a set of four creating lots of fun play.</Description>
+    <UPC>085761146976</UPC>
+    <Price>0.75</Price>
+    <WholesalePrice>0.35</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>72</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\fingerFrights.jpg</PicturePath>
+    <DateCreated>2012-02-11T14:29:47.8125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>31</ID>
+    <categoryID>-1</categoryID>
+    <Name>Survival Compass</Name>
+    <UPC>085761050914</UPC>
+    <Price>0</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>36</Quantity>
+    <DateCreated>2012-02-11T14:34:15.828125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>32</ID>
+    <categoryID>-1</categoryID>
+    <Name>Survival Compass</Name>
+    <UPC>085761050914</UPC>
+    <Price>5.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>36</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\Survival Compass.jpg</PicturePath>
+    <DateCreated>2012-02-11T14:39:30.375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>33</ID>
+    <categoryID>-1</categoryID>
+    <Name>Survival Compass</Name>
+    <UPC>085761050914</UPC>
+    <Price>5.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>36</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\Survival Compass.jpg</PicturePath>
+    <DateCreated>2012-02-11T14:39:39.875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>34</ID>
+    <categoryID>-1</categoryID>
+    <Name>Poppitoppy</Name>
+    <Description>Can you push it once or will you push it 100 times? It pops and bops and rolls for hours of entertainment! Press her head and the balls pop like wild.</Description>
+    <UPC>062243220201</UPC>
+    <Price>24.95</Price>
+    <WholesalePrice>10</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>4</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\Poppitoppy.jpg</PicturePath>
+    <DateCreated>2012-02-11T15:28:11.390625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>35</ID>
+    <categoryID>-1</categoryID>
+    <Name>Poppitoppy</Name>
+    <Description>Can you push it once or will you push it 100 times? It pops and bops and rolls for hours of entertainment! Press her head and the balls pop like wild.</Description>
+    <UPC>062243220201</UPC>
+    <Price>24.95</Price>
+    <WholesalePrice>10</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>4</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\Poppitoppy.jpg</PicturePath>
+    <DateCreated>2012-02-11T15:28:24.65625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>36</ID>
+    <categoryID>-1</categoryID>
+    <Name>Magnetic chess</Name>
+    <Description>Goplay Magnetic Chess 
+This magnetic Chess game makes an intriguing travel companion. All game pieces needed for play are included, in a neat self contained 5.5 inch tin box 
+</Description>
+    <UPC>085761155206</UPC>
+    <Price>6.99</Price>
+    <WholesalePrice>3.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>4</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\magneticchess.bmp</PicturePath>
+    <DateCreated>2012-02-11T15:29:39.421875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>37</ID>
+    <categoryID>-1</categoryID>
+    <Name>Mini Tea Set</Name>
+    <Description>Use the included paints and brush to decorate this 13 piece ceramic tea set. Pieces range in size from 1.25 to 2.25 inches tall. Instructions included. Note: for play/display only - not intended for use with food. CHOKING HAZARD -- Small parts. Not for children under 3 yrs. </Description>
+    <UPC>085761035119</UPC>
+    <Price>22.95</Price>
+    <WholesalePrice>6.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>6</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\MiniTeaSet.jpg</PicturePath>
+    <DateCreated>2012-02-11T15:35:49.515625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>38</ID>
+    <categoryID>-1</categoryID>
+    <Name>Mini Tea Set</Name>
+    <Description>Use the included paints and brush to decorate this 13 piece ceramic tea set. Pieces range in size from 1.25 to 2.25 inches tall. Instructions included. Note: for play/display only - not intended for use with food. CHOKING HAZARD -- Small parts. Not for children under 3 yrs. </Description>
+    <UPC>085761035119</UPC>
+    <Price>22.95</Price>
+    <WholesalePrice>6.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>6</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\MiniTeaSet.jpg</PicturePath>
+    <DateCreated>2012-02-11T15:37:16.578125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>39</ID>
+    <categoryID>-1</categoryID>
+    <Name>Mini Tea Set</Name>
+    <Description>Use the included paints and brush to decorate this 13 piece ceramic tea set. Pieces range in size from 1.25 to 2.25 inches tall. Instructions included. Note: for play/display only - not intended for use with food. CHOKING HAZARD -- Small parts. Not for children under 3 yrs.</Description>
+    <UPC>085761035119</UPC>
+    <Price>22.95</Price>
+    <WholesalePrice>6.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>6</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\MiniTeaSet.jpg</PicturePath>
+    <DateCreated>2012-02-11T15:37:55.265625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>40</ID>
+    <categoryID>-1</categoryID>
+    <Name>Classic Dinosaurs</Name>
+    <Description>These7 inch molded vinyl dinosaurs are vibrantly painted and come in six assorted styles.</Description>
+    <UPC>085761097575</UPC>
+    <Price>3.75</Price>
+    <WholesalePrice>1.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>22</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\InventoryImages\classicdinosaurs.jpg</PicturePath>
+    <DateCreated>2012-02-11T15:39:11.796875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>41</ID>
+    <categoryID>-1</categoryID>
+    <Name>Dragons of Gaveroth</Name>
+    <UPC>0085761033665</UPC>
+    <Price>6.25</Price>
+    <WholesalePrice>3</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>12</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-11T15:40:22.265625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>42</ID>
+    <categoryID>-1</categoryID>
+    <Description>Make a family heirloom by recording all your pooch&amp;apos;s precious moments in this 28 page book. Kit includes 14 inner pages, front and back covers, cardboard, art paper, graphic templates, ribbons, cord, alphabet stickers, tape and full instructions. </Description>
+    <UPC>085761121768</UPC>
+    <Price>12.95</Price>
+    <WholesalePrice>5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>5</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\dogjournal.jpg</PicturePath>
+    <DateCreated>2012-02-11T15:51:08.375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>43</ID>
+    <categoryID>-1</categoryID>
+    <Name>Dinosaur skeleton excavation kit</Name>
+    <Description>Dig and excavate the skeleton of a Pterosaur, Brachiosaurus, or Velociraptor. This kit includes a plaster block and a specially designed digging tool to help excavate the skeleton. Provides hours of fun for you as a paleontologist!
+</Description>
+    <UPC>085761036321</UPC>
+    <Price>14.95</Price>
+    <WholesalePrice>5.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>6</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\digadino.jpg</PicturePath>
+    <DateCreated>2012-02-11T15:58:57.765625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>44</ID>
+    <categoryID>-1</categoryID>
+    <Name>Potty Putty</Name>
+    <Description>It makes Fart Noises Plus it's fun to fidget with</Description>
+    <UPC>085761097131</UPC>
+    <Price>2.99</Price>
+    <WholesalePrice>1.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>12</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\pottyputty.jpg</PicturePath>
+    <DateCreated>2012-02-11T16:02:44.546875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>45</ID>
+    <categoryID>-1</categoryID>
+    <Name>Pirate ship wooden model</Name>
+    <Description>Each puzzle is made of 3mm thick wood pre-cut interlocking pieces, with a colorful printed coating showing realistic detailing. Each model includes real cloth sails and sixteen paper pirate figurines. Full instructions included. No tools required. Made by BCBones BC Bones. 
+</Description>
+    <UPC>085761497474</UPC>
+    <Price>22.95</Price>
+    <WholesalePrice>6.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>5</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\pirateship.jpg</PicturePath>
+    <DateCreated>2012-02-11T16:21:47.1875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>46</ID>
+    <categoryID>-1</categoryID>
+    <Name>Dalmation vet kit</Name>
+    <Description>The dalmatian Vet Kit comes with everything a young veterinarian needs. It includes all the medical instruments needed to care for your little puppy. Made of the highest quality materials and comply to all US and Canadian safety regulations. Product dimensions 10.5x 8 x 8.12 inches. Includes: Medium puppy vet cage, stethoscope, small tray hammer, mirror, ear tool, tweezers, tongs, scissors, thermometer, syringe, bandages, plush puppy. 
+
+</Description>
+    <UPC>062243237582</UPC>
+    <Price>34.99</Price>
+    <WholesalePrice>18</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>4</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\dalmationvet.jpg</PicturePath>
+    <DateCreated>2012-02-11T16:28:51.15625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>47</ID>
+    <categoryID>-1</categoryID>
+    <Name>Cupcake window mosiac</Name>
+    <UPC>085761160873</UPC>
+    <Price>0</Price>
+    <WholesalePrice>7</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>12</Quantity>
+    <DateCreated>2012-02-11T16:34:13.25-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>48</ID>
+    <categoryID>-1</categoryID>
+    <Name>Window mosiac cupcake</Name>
+    <UPC>085761160873</UPC>
+    <Price>18.99</Price>
+    <WholesalePrice>7</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>12</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-11T16:36:06.421875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>49</ID>
+    <categoryID>-1</categoryID>
+    <Name>History 500 pc Observation puzzle</Name>
+    <Description> This puzzle includes a book with information about parts of history shown on the puzzle and round cards with elements to identify in the puzzle plus a full-size poster of the puzzle graphic. Unique spiral graphic of the history timeline from the stone age to modern times. Huge educational and play value. Appropriate for a variety of stores from toy stores, book stores, educational products stores, etc. 
+</Description>
+    <UPC>307090007400</UPC>
+    <Price>29.95</Price>
+    <WholesalePrice>16</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\historypuzzle.jpg</PicturePath>
+    <DateCreated>2012-02-11T16:44:32.09375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>50</ID>
+    <categoryID>-1</categoryID>
+    <Name>My swett baby set</Name>
+    <Description>This set includes 11 1/2 inch doll with a soft body and a vinyl head. Also included are an extra outfit, layette, baby food, bib, bottle, bowl and more. The reusable case has a handle and zipper closure., Recommended age group: 3 - NaN years, Manufacturer: Toysmith </Description>
+    <UPC>085761982291</UPC>
+    <Price>24.95</Price>
+    <WholesalePrice>12</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>6</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\sweetbaby.jpg</PicturePath>
+    <DateCreated>2012-02-11T16:57:39.40625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>51</ID>
+    <categoryID>-1</categoryID>
+    <Name>Crystal growing box kit</Name>
+    <Description>Engage in a fun project to grow your own natural assorted colored crystals. Kit Includes: Guide to Crystals booklet-- Base rock -- Growing tray-- Magnifying glass-- Spatula-- Special crystal formula-- Ages 10 and up. Not for children under age 3 years: small parts: choking hazard Parental supervision required. </Description>
+    <UPC>085761060722</UPC>
+    <Price>12.95</Price>
+    <WholesalePrice>5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>12</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\crystalboxkit.jpg</PicturePath>
+    <DateCreated>2012-02-11T17:06:02.828125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>52</ID>
+    <categoryID>-1</categoryID>
+    <Name>Binoculars 6 X 35</Name>
+    <Description>These durable 5.25 inch binoculars feature 6 X 35 power, and come in two assorted translucent colors. Detachable neck strap included.</Description>
+    <UPC>085761069176</UPC>
+    <Price>14.5</Price>
+    <WholesalePrice>5.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>12</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\binoculars.jpg</PicturePath>
+    <DateCreated>2012-02-11T17:50:29.078125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>53</ID>
+    <categoryID>-1</categoryID>
+    <Name>Paper Recycling Kit</Name>
+    <Description>This hands-on kit teaches kids the craft of paper making and the science of recycling. Includes 6 x 8 inch mold and deckle and supplies for kids to make different patterned and textured bookmarks, a notebook, greeting cards, and more.
+
+Ages 8 and up.
+
+</Description>
+    <UPC>085761077515</UPC>
+    <Price>14.5</Price>
+    <WholesalePrice>5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>3</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\Paperrecycle.gif</PicturePath>
+    <DateCreated>2012-02-11T18:01:04.78125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>54</ID>
+    <categoryID>-1</categoryID>
+    <Name>Trash Robot</Name>
+    <Description>The ultimate recycling kit! Turn everyday trash into an enviro-robot project that is fun to make and challenges your creativity. Materials are enough for you to make and decorate 2 different robots. It's cool and fun! Kit includes: * 2 plastic free-wheel bases (4 u-shaped plastic sides), * 2 plastic platforms, * 4 plastic axles, * 8 plastic wheels, * 4 moving eyes, * 2 sheets of colorful stickers, * Detailed instructions You will need to recycle plastic bottles of cans to complete your project. Ages 5 and up. Not for children under 3 years of age: Small parts: Choking hazard. 
+</Description>
+    <UPC>085761143371</UPC>
+    <Price>14.5</Price>
+    <WholesalePrice>5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>3</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\trashrobot.jpg</PicturePath>
+    <DateCreated>2012-02-11T18:05:39.171875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>55</ID>
+    <categoryID>-1</categoryID>
+    <Name>Natural Rock art</Name>
+    <Description>Appreciate the sculptural art from nature! Rocks may be common but they are all unique. Turn them into cute creatures and raise them with love. Give them a home and play the interesting game we've included with the kit. Kit includes 4 real rocks and materials to decorate 8 rock creatures (you will need to collect 4 more rocks from nature). Decorations include: * Wool * Googly eyes * Felt * Birth Certificates * Glue * Paint * Paintbrush * Love Nature Game Sheet * 1Paper Dice * 1 Play Scene so you can create your own special theatrical performances with your new Rock Art friends * Complete, detailed instructions. Ages 5 and up. Contains Small Parts: Choke Hazard: Not recommended for children under age 3 years. </Description>
+    <UPC>085761143364</UPC>
+    <Price>14.5</Price>
+    <WholesalePrice>5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>3</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\rockart.jpg</PicturePath>
+    <DateCreated>2012-02-11T18:10:48.828125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>56</ID>
+    <categoryID>-1</categoryID>
+    <Name>Recycled paper beads</Name>
+    <Description>Eco-friendly never looked so lovely! Use paper to make colorful, one-of-a-kind paper bead jewelry with this Recycled Paper Beads Green Creativity Kit. The bead winding tool turns ordinary paper strips into a tight bead that people will insist cannot possibly be made out of paper. This fun art craft kit comes with enough paper strips to make dozens of beads and turn them into a necklace, bracelet, anklet, etc. When they are gone, experimenting with other types of paper, - colorful magazine pages, Sunday comics, wrapping paper - will result in even more spectacular beads for gift giving or wearing. </Description>
+    <UPC>085761144415</UPC>
+    <Price>14.5</Price>
+    <WholesalePrice>5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>3</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\paperbeads.jpg</PicturePath>
+    <DateCreated>2012-02-11T18:19:23.640625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>57</ID>
+    <categoryID>-1</categoryID>
+    <Name>Abracadabra 52 pc puzzle gallery</Name>
+    <Description>Exquisitely illustrated by Marc Boutavant for DJECO in Paris, Abracadabra is a lovely 52 piece puzzle that will delight both children and adults. Full of details and surprises, this unique puzzle makes a wonderful gift.</Description>
+    <UPC>307090007611</UPC>
+    <Price>19.99</Price>
+    <WholesalePrice>10</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\abracadabrapuzzle.jpg</PicturePath>
+    <DateCreated>2012-02-11T18:27:54.0625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>58</ID>
+    <categoryID>-1</categoryID>
+    <Name>Princess 54 pc observation puzzle</Name>
+    <Description>Observation puzzles are views of scenes from a certain vantage point. Lots to look at and around the borders are various key characters and graphics from the scene to identify the puzzle. Bright graphics depict a "Princess" scene complete with pink castle, unicorns and horse-drawn carriage. Finished puzzle is about 14.9" x 24" wide. Border has images from the puzzle that can be used to play find the picture game. 
+
+</Description>
+    <UPC>307090007556</UPC>
+    <Price>22.95</Price>
+    <WholesalePrice>10</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>1</Quantity>
+    <DateCreated>2012-02-11T18:32:32.5625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>59</ID>
+    <categoryID>-1</categoryID>
+    <Name>Abracadabra 52 pc puzzle gallery</Name>
+    <Description>Exquisitely illustrated by Marc Boutavant for DJECO in Paris, Abracadabra is a lovely 52 piece puzzle that will delight both children and adults. Full of details and surprises, this unique puzzle makes a wonderful gift.</Description>
+    <UPC>307090007611</UPC>
+    <Price>22.95</Price>
+    <WholesalePrice>10</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\abracadabrapuzzle.jpg</PicturePath>
+    <DateCreated>2012-02-11T18:33:25.640625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>60</ID>
+    <categoryID>-1</categoryID>
+    <Name>Princess 54 pc observation puzzle</Name>
+    <Description>Observation puzzles are views of scenes from a certain vantage point. Lots to look at and around the borders are various key characters and graphics from the scene to identify the puzzle. Bright graphics depict a "Princess" scene complete with pink castle, unicorns and horse-drawn carriage. Finished puzzle is about 14.9" x 24" wide. Border has images from the puzzle that can be used to play find the picture game. 
+
+</Description>
+    <UPC>307090007556</UPC>
+    <Price>22.95</Price>
+    <WholesalePrice>10</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\princesspuzzle.jpg</PicturePath>
+    <DateCreated>2012-02-11T18:34:43.25-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>61</ID>
+    <categoryID>-1</categoryID>
+    <Name>Pirate 100 pc Observation puzzle</Name>
+    <Description>There are lots of things to find in this observation puzzle. Start by putting all the pieces together, then have fun finding items from the border in the picture. Also includes full size poster.
+</Description>
+    <UPC>307090007506</UPC>
+    <Price>22.95</Price>
+    <WholesalePrice>10</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>1</Quantity>
+    <DateCreated>2012-02-11T18:40:56.734375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>62</ID>
+    <categoryID>-1</categoryID>
+    <Name>Fairytales 54 pc observation puzzle</Name>
+    <Description>Test your observation skills with this cute puzzle by Djeco. This puzzle features a busy scene from the land of fairytales with Little Red Riding Hood, Sleeping Beauty, the Three Little Pigs, Cinderella and many more fairytale characters.
+
+Put together the 54 piece puzzle and then use those observation skills to find all the items pictured around the edge.
+
+When complete this puzzle measures 61cm by 38cm.
+
+This puzzle also comes with a poster the same size as the puzzle. Hang the poster on the wall or lie it on the table to give guidance while making the puzzle.
+
+</Description>
+    <UPC>307090007561</UPC>
+    <Price>22.95</Price>
+    <WholesalePrice>10</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>djeco</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\fairytalespuzzle.jpg</PicturePath>
+    <DateCreated>2012-02-11T18:47:02.21875-07:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

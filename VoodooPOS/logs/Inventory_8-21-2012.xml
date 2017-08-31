@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <categoryID>-1</categoryID>
+    <Name>Cranium Brain Breaks</Name>
+    <UPC>653569603221</UPC>
+    <Price>24.95</Price>
+    <WholesalePrice>12</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>1</Quantity>
+    <active>true</active>
+    <displayOnWeb>false</displayOnWeb>
+    <DateCreated>2012-08-21T14:46:18.625-06:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

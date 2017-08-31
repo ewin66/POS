@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Load-Save objects to XML", "Load-Save objects to XML.csproj", "{541BB90C-5737-4C66-9590-399E16F98BD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{541BB90C-5737-4C66-9590-399E16F98BD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{541BB90C-5737-4C66-9590-399E16F98BD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{541BB90C-5737-4C66-9590-399E16F98BD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{541BB90C-5737-4C66-9590-399E16F98BD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

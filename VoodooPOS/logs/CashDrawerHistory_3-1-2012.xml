@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <CashRegisterDrawer>
+    <ID>1</ID>
+    <Amount>8.90000000000001</Amount>
+    <Description>$113.00 Removed from drawer</Description>
+    <DateCreated>2012-03-01T11:50:47.34375-07:00</DateCreated>
+  </CashRegisterDrawer>
+</NewDataSet>

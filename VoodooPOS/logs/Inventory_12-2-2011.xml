@@ -1,0 +1,327 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <Name>Hot Wheels Zero G Drop Force Track Set</Name>
+    <Description />
+    <UPC />
+    <Price>38.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>3</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-02T12:23:24.015625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>2</ID>
+    <Name>Hot Wheels Rinse and Race</Name>
+    <Description />
+    <UPC />
+    <Price>27.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>3</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-02T12:26:39.328125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>3</ID>
+    <Name>Scrabble Board Game</Name>
+    <Description />
+    <UPC />
+    <Price>24.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>2</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-02T12:40:19.359375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>237</ID>
+    <Name>Scrabble Board Game</Name>
+    <Description />
+    <UPC />
+    <Price>27.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>2</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-02T12:43:37.40625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>238</ID>
+    <Name>Pictionary</Name>
+    <Description />
+    <UPC />
+    <Price>38.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>2</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-02T12:55:41.40625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>239</ID>
+    <Name>Operation Game With Sound FX</Name>
+    <Description />
+    <UPC />
+    <Price>26.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>2</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-02T13:01:46.859375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>240</ID>
+    <Name>Apples To Apples Board Game</Name>
+    <Description />
+    <UPC />
+    <Price>34.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-02T13:05:22.90625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>241</ID>
+    <Name>Chutes and Ladders</Name>
+    <Description />
+    <UPC />
+    <Price>22.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>3</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-02T13:08:19.75-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>242</ID>
+    <Name>Monoploy Classic Trading Property Board Game</Name>
+    <Description />
+    <UPC />
+    <Price>26.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Hasbro</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>3</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-02T13:14:01.171875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>243</ID>
+    <Name>Yahtzee</Name>
+    <Description />
+    <UPC />
+    <Price>19.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-02T14:32:27.09375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>244</ID>
+    <Name>Hungry Hungry Hippos</Name>
+    <Description />
+    <UPC />
+    <Price>28.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>2</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-02T14:36:50.4375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>240</ID>
+    <Name>Apples To Apples Board Game</Name>
+    <Description />
+    <UPC />
+    <Price>34.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>3</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-02T14:37:03.90625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>203</ID>
+    <Name>All Terrain Vehicles</Name>
+    <Description />
+    <UPC />
+    <Price>13.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-02T14:37:31.90625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>229</ID>
+    <Name>Cars Stickers with Notebook</Name>
+    <Description />
+    <UPC />
+    <Price>1.75</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>2</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-02T14:37:47.625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>209</ID>
+    <Name>Crayons</Name>
+    <Description />
+    <UPC />
+    <Price>3.05</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>4</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-02T14:38:23.90625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>208</ID>
+    <Name>Coloring Book</Name>
+    <Description />
+    <UPC />
+    <Price>3.5</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>17</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-02T14:40:13.65625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>244</ID>
+    <Name>Hungry Hungry Hippos</Name>
+    <Description />
+    <UPC />
+    <Price>28.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>2</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-02T18:21:34.78125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>51</ID>
+    <Name>Ants in the Pants</Name>
+    <Description />
+    <UPC>032244047862</UPC>
+    <Price>17.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-02T18:49:43.109375-07:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

@@ -1,0 +1,483 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <categoryID>-1</categoryID>
+    <Name>Hot Wheels Crashin' Rig</Name>
+    <UPC>746775054144</UPC>
+    <Price>14.99</Price>
+    <WholesalePrice>9.99</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Target</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\hotwheelscrashinrig.jpg</PicturePath>
+    <DateCreated>2012-02-25T11:59:42.046875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>2</ID>
+    <categoryID>-1</categoryID>
+    <Name>Star Wars Operation</Name>
+    <Description>When we heard that C3PO was going to be a surgeon, we were quite concerned. After all, he's not exactly the most mentally stable or confident droids out there. In fact, if we were to pick a droid, ANY droid from any universe to be our surgeon, we're pretty sure C3PO would be at the bottom of our list. (FWIW, we'd pick Data.)
+
+But there's R2, on the slab, needing some emergency surgery, and C3PO's got the scalpel. But you can help! This classic board game takes a Star Wars twist with everyone's favorite astromech droid on the table. Use your tweezers to pull out lightsabers, Leia holograms, and tiny Darth Vader helmets. (How did those get in there!?) Find out where the bleeps and bloops come from and save R2 from a future in the scrap yard.
+
+</Description>
+    <UPC>653569725862</UPC>
+    <Price>29.99</Price>
+    <WholesalePrice>19.99</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Target</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\starwarsoperation.jpg</PicturePath>
+    <DateCreated>2012-02-25T12:06:30.890625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>3</ID>
+    <categoryID>-1</categoryID>
+    <Name>Whirl 0 Wheel</Name>
+    <UPC>639277205780</UPC>
+    <Price>1.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>1</Quantity>
+    <DateCreated>2012-02-25T12:08:51.4375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>4</ID>
+    <categoryID>-1</categoryID>
+    <Name>Batteries AA 4 Pack Panasonic</Name>
+    <Description>Super Heavy Duty</Description>
+    <UPC>073096504226</UPC>
+    <Price>2.75</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>4</Quantity>
+    <DateCreated>2012-02-25T12:10:39.96875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>5</ID>
+    <categoryID>-1</categoryID>
+    <Name>Underwater Ring Toss</Name>
+    <UPC>639277210180</UPC>
+    <Price>2.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>3</Quantity>
+    <DateCreated>2012-02-25T12:13:52.171875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>6</ID>
+    <categoryID>-1</categoryID>
+    <Name>FBI Action Play Set</Name>
+    <UPC>639277193407</UPC>
+    <Price>4.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>2</Quantity>
+    <DateCreated>2012-02-25T12:15:44.3125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>7</ID>
+    <categoryID>-1</categoryID>
+    <Name>Gum Ball Machine</Name>
+    <UPC>639277258328</UPC>
+    <Price>4.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>3</Quantity>
+    <DateCreated>2012-02-25T12:20:26.15625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>8</ID>
+    <categoryID>-1</categoryID>
+    <Name>Batteries C 3 Pack Sunbeam</Name>
+    <UPC>629312116386</UPC>
+    <Price>3.29</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>2</Quantity>
+    <DateCreated>2012-02-25T12:25:03.34375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>9</ID>
+    <categoryID>-1</categoryID>
+    <Name>Gum Ball Machine</Name>
+    <UPC>639277258328</UPC>
+    <Price>4.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>3</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-25T12:48:21.984375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>10</ID>
+    <categoryID>-1</categoryID>
+    <Name>Underwater Ring Toss</Name>
+    <UPC>639277210180</UPC>
+    <Price>2.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>3</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-25T12:49:12.984375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>11</ID>
+    <categoryID>-1</categoryID>
+    <Name>Batteries 9v</Name>
+    <UPC>629312116096</UPC>
+    <Price>3.49</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>4</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-25T12:50:25.203125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>12</ID>
+    <categoryID>-1</categoryID>
+    <Name>Batteries C 3 Pack Sunbeam</Name>
+    <UPC>629312116386</UPC>
+    <Price>3.29</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-25T12:50:50.03125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>13</ID>
+    <categoryID>-1</categoryID>
+    <Name>Batteries AA 8 Pack Sunbeam</Name>
+    <UPC>629312067473</UPC>
+    <Price>3.25</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>3</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-25T12:51:51-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>14</ID>
+    <categoryID>-1</categoryID>
+    <Name>Batteries AA 8 Pack Sunbeam</Name>
+    <UPC>629312067473</UPC>
+    <Price>3.25</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>3</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-25T12:52:33-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>15</ID>
+    <categoryID>-1</categoryID>
+    <Name>Batteries AA 4 Pack Panasonic</Name>
+    <Description>Super Heavy Duty</Description>
+    <UPC>073096504226</UPC>
+    <Price>2.75</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>4</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-25T12:58:17.609375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>16</ID>
+    <categoryID>-1</categoryID>
+    <Name>Star Wars Operation</Name>
+    <Description>When we heard that C3PO was going to be a surgeon, we were quite concerned. After all, he's not exactly the most mentally stable or confident droids out there. In fact, if we were to pick a droid, ANY droid from any universe to be our surgeon, we're pretty sure C3PO would be at the bottom of our list. (FWIW, we'd pick Data.)
+
+But there's R2, on the slab, needing some emergency surgery, and C3PO's got the scalpel. But you can help! This classic board game takes a Star Wars twist with everyone's favorite astromech droid on the table. Use your tweezers to pull out lightsabers, Leia holograms, and tiny Darth Vader helmets. (How did those get in there!?) Find out where the bleeps and bloops come from and save R2 from a future in the scrap yard.
+
+</Description>
+    <UPC>653569725862</UPC>
+    <Price>29.99</Price>
+    <WholesalePrice>19.99</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Target</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\starwarsoperation.jpg</PicturePath>
+    <DateCreated>2012-02-25T12:59:49.9375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>17</ID>
+    <categoryID>-1</categoryID>
+    <Name>Hot Wheels Crashin' Rig</Name>
+    <UPC>746775054144</UPC>
+    <Price>14.99</Price>
+    <WholesalePrice>9.99</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Target</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\hotwheelscrashinrig.jpg</PicturePath>
+    <DateCreated>2012-02-25T13:00:46.125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>18</ID>
+    <categoryID>-1</categoryID>
+    <Name>Magic Dark Ascension Booster</Name>
+    <Description>A 15 card booster pack of the newest series in the popular card game "Magic The Gathering"</Description>
+    <UPC>653569695325</UPC>
+    <Price>4.25</Price>
+    <WholesalePrice>2.2</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Sothern Hobby</Manufacturer>
+    <Quantity>72</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\darkascensionbooster.jpg</PicturePath>
+    <DateCreated>2012-02-25T13:01:48.03125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>19</ID>
+    <categoryID>-1</categoryID>
+    <Name>Magic black mana card deck with divider</Name>
+    <Description>Sturdy plastic black mana with divider card deck box holds up to 80 Cards
+Great for keeping your most powerful cards in perfect condition!
+</Description>
+    <UPC>074427824495</UPC>
+    <Price>4.99</Price>
+    <WholesalePrice>1.75</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>southern hobby</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\balckmanadb.jpg</PicturePath>
+    <DateCreated>2012-02-25T13:03:09.3125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>20</ID>
+    <categoryID>-1</categoryID>
+    <Name>Magic blue mana deck box with divider</Name>
+    <Description>Sturdy plastic blue mana card deck box holds up to 80 Cards
+Great for keeping your most powerful cards in perfect condition!
+</Description>
+    <UPC>074427824471</UPC>
+    <Price>4.99</Price>
+    <WholesalePrice>1.75</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>southern hobby</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\bluemanadb.jpg</PicturePath>
+    <DateCreated>2012-02-25T13:03:29.734375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>21</ID>
+    <categoryID>-1</categoryID>
+    <Name>Magic Sideloading deck Indomitable</Name>
+    <Description>Magic Scars of Mirrodin Indomitable Ultra Pro Magic the Gathering Sideloading Deck Box 
+Suitable for Magic and WOW cards
+Self-Locking Lid Feature
+Write-on Strip</Description>
+    <UPC>074427825966</UPC>
+    <Price>4.99</Price>
+    <WholesalePrice>1.6</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>southern hobby</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\magicindomitabledb.jpg</PicturePath>
+    <DateCreated>2012-02-25T13:04:15.375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>22</ID>
+    <categoryID>-1</categoryID>
+    <Name>Ultra Pro black deck box</Name>
+    <Description>Sturdy plastic black card deck box holds up to 80 Cards
+Great for keeping your most powerful cards in perfect condition!
+</Description>
+    <UPC>074427814533</UPC>
+    <Price>3.99</Price>
+    <WholesalePrice>1.3</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>southern hobby</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\blackdb.jpg</PicturePath>
+    <DateCreated>2012-02-25T13:05:27.484375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>23</ID>
+    <categoryID>-1</categoryID>
+    <Name>Ultra Pro Green Deck Box</Name>
+    <Description>Sturdy plastic green card deck box holds up to 80 Cards
+Great for keeping your most powerful cards in perfect condition!
+</Description>
+    <UPC>074427814519</UPC>
+    <Price>3.99</Price>
+    <WholesalePrice>1.3</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>sourthern hobby</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\greendb.jpg</PicturePath>
+    <DateCreated>2012-02-25T13:05:44.546875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>24</ID>
+    <categoryID>-1</categoryID>
+    <Name>Ultra Pro pink deck box</Name>
+    <Description>Sturdy plastic pink card deck box holds up to 80 Cards
+Great for keeping your most powerful cards in perfect condition!
+</Description>
+    <UPC>074427824815</UPC>
+    <Price>3.99</Price>
+    <WholesalePrice>1.3</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>southern hobby</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\pinkdb.jpg</PicturePath>
+    <DateCreated>2012-02-25T13:06:38.03125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>25</ID>
+    <categoryID>-1</categoryID>
+    <Name>Lego Dino Tower Takedown</Name>
+    <Description>Capture the Pteranodon before it flies away with the bait! 
+
+
+Lure the hungry Pteranodon dinosaur to the lakeside tower with a smelly fish! Can our hero capture it when as it lunges for the bait? Or will he be forced to make a quick exit on the speedy jet boat? You decide! Use the shooting net and tranquilizer gun! Hero minifigure and Pteranodon dinosaur included.</Description>
+    <UPC>673419165938</UPC>
+    <Price>34.95</Price>
+    <WholesalePrice>19.99</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>lego</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\dinotower.png</PicturePath>
+    <DateCreated>2012-02-25T14:34:25.203125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>26</ID>
+    <categoryID>-1</categoryID>
+    <Name>Water Baton</Name>
+    <UPC>639277647658</UPC>
+    <Price>2.49</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>6</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-25T14:36:33.765625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>27</ID>
+    <categoryID>-1</categoryID>
+    <Name>Water Baton</Name>
+    <UPC>639277647658</UPC>
+    <Price>2.49</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>6</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-25T14:36:39.265625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>28</ID>
+    <categoryID>-1</categoryID>
+    <Name>Water Baton</Name>
+    <UPC>639277647658</UPC>
+    <Price>2.49</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>6</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-25T14:37:03.75-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>29</ID>
+    <categoryID>-1</categoryID>
+    <Name>Glow in the dark planets and asteroids</Name>
+    <UPC>639277137852</UPC>
+    <Price>6.5</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-25T14:41:54.6875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>30</ID>
+    <categoryID>-1</categoryID>
+    <Name>Ant Universe</Name>
+    <Description>This incredible habitat takes ant farming to the next level with its space-age design and cool blue gel. 
+Based on a 2003 NASA Space Shuttle experiment observing ants tunneling in microgravity 
+this innovative farm features nutrient-rich gel that promotes a healthy environment for your ants 
+Just kick back and watch them do their work--no food or water needed. 
+The Ant Universe habitat comes with: Non-toxic nutrient Gel (provides both food and water to the ants)</Description>
+    <UPC>085761082779</UPC>
+    <Price>19.99</Price>
+    <WholesalePrice>9</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toysmith</Manufacturer>
+    <Quantity>7</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\antuniverse.bmp</PicturePath>
+    <DateCreated>2012-02-25T14:46:04.84375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>31</ID>
+    <categoryID>-1</categoryID>
+    <Name>Spell Candle</Name>
+    <Description>Burn these candles for love, money, good luck, health, or creativity.</Description>
+    <Price>6.99</Price>
+    <WholesalePrice>1.25</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>34</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-25T16:18:42.953125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>32</ID>
+    <categoryID>-1</categoryID>
+    <Name>Spell Candle</Name>
+    <Description>Burn these candles for love, money, good luck, health, or creativity.</Description>
+    <Price>6.99</Price>
+    <WholesalePrice>1.25</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>34</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-02-25T16:21:28.0625-07:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

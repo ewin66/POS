@@ -1,0 +1,689 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <Name>Space Saber</Name>
+    <Description />
+    <UPC>0075656006867</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>24</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-11T09:32:00.1036002-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>2</ID>
+    <Name>Fishing Game</Name>
+    <Description />
+    <UPC>0084358044480</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>2</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-11T09:32:43.4080771-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>3</ID>
+    <Name>Neo Tracks</Name>
+    <Description />
+    <UPC>0603625917380</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-11T09:33:47.0507172-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>4</ID>
+    <Name>Skittles Light up rainbow wand</Name>
+    <Description />
+    <UPC>0609454619471</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-11T09:36:42.9047755-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>5</ID>
+    <Name>Sip 'N Swirl Eye Glasses</Name>
+    <Description />
+    <UPC>0010984011343</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>24</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-11T09:37:39.5480153-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>6</ID>
+    <Name>Snap Pets</Name>
+    <Description />
+    <UPC>010984060273</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-11T09:39:24.6800285-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>7</ID>
+    <Name>Tricky Worms</Name>
+    <Description />
+    <UPC>0075656052192</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>24</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-11T09:40:54.9301905-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>8</ID>
+    <Name>Wild West Handcuffs</Name>
+    <Description />
+    <UPC>0085761036024</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-11T09:53:45.1012418-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>9</ID>
+    <Name>Science Magic </Name>
+    <Description />
+    <UPC>0085761076020</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-11T10:16:14.7064348-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>10</ID>
+    <Name>Science Magic </Name>
+    <Description />
+    <UPC>0085761076020</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-11T10:16:47.6783207-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>11</ID>
+    <Name>Extreme Galaxy Spinner</Name>
+    <Description />
+    <UPC>0085761140387</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-11T10:20:57.3195993-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>12</ID>
+    <Name>Walkie Talkie</Name>
+    <Description />
+    <UPC>085761015340</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-11T10:23:20.3007774-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>13</ID>
+    <Name>Galaxy Grabber</Name>
+    <Description />
+    <UPC>0085761061354</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-11T10:26:40.5092287-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>14</ID>
+    <Name>Glow in the dark stars</Name>
+    <Description />
+    <UPC>0085761051669</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>24</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-11T10:28:17.5857811-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>15</ID>
+    <Name>Periscope</Name>
+    <Description />
+    <UPC>0085761069145</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-11T10:29:09.9837781-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>16</ID>
+    <Name>Diabolo</Name>
+    <Description />
+    <UPC>0085761092174</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>8</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-11T10:30:59.2520279-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>17</ID>
+    <Name>Dragons of Gaveroth</Name>
+    <Description />
+    <UPC>0085761033665</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-11T10:32:19.3576097-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>18</ID>
+    <Name>Rubber band shooter</Name>
+    <Description />
+    <UPC>0085761025288</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-11T10:34:25.4928242-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>19</ID>
+    <Name>Snuggle Baby</Name>
+    <Description />
+    <UPC>0085761121027</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-11T10:35:16.1727229-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>20</ID>
+    <Name>Foam Pirate Sword</Name>
+    <Description />
+    <UPC>085761092280</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>18</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-11T10:39:23.8058867-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>21</ID>
+    <Name>Plasma Orb Light</Name>
+    <Description />
+    <UPC>085761037038</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-11T10:43:14.4620795-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>22</ID>
+    <Name>Leisure Time Books</Name>
+    <Description />
+    <UPC>0088908490000</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>36</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-11T10:44:27.9112806-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>23</ID>
+    <Name>Wooden Pop Gun</Name>
+    <Description />
+    <UPC>0085761062207</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-11T10:46:43.9130594-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>24</ID>
+    <Name>X Stream Internal Wing Aircraft</Name>
+    <Description />
+    <UPC>0085761077683</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-11T10:49:34.5368185-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>25</ID>
+    <Name>Pocket Magic Crazy Cubes</Name>
+    <Description />
+    <UPC>0085761071513</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-11T10:52:13.015883-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>26</ID>
+    <Name>Pocket Magic Dizzy Dice</Name>
+    <Description />
+    <UPC>0085761071520</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-11T10:53:04.2238119-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>27</ID>
+    <Name>Pocket Magic Pencil Slicer</Name>
+    <Description />
+    <UPC>0085761071568</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-11T10:53:43.7250713-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>28</ID>
+    <Name>Pocket Magic Finger Chopper</Name>
+    <Description />
+    <UPC>0085761071537</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-11T10:54:37.7731627-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>29</ID>
+    <Name>Pocket Magic Magic Lock Box</Name>
+    <Description />
+    <UPC>0085761071551</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-11T10:56:01.3279417-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>30</ID>
+    <Name>Pocket Magic Rope Trick</Name>
+    <Description />
+    <UPC>0085761071564</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-11T10:56:37.5330125-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>31</ID>
+    <Name>Crochet Art</Name>
+    <Description />
+    <UPC>0085761093553</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>3</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-11T10:59:32.1830019-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>32</ID>
+    <Name>Weaving Loom</Name>
+    <Description />
+    <UPC>0085761074064</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>3</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-11T10:59:55.5263371-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>33</ID>
+    <Name>Cross Stitch</Name>
+    <Description />
+    <UPC>085761093539</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>3</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-11T11:03:40.5432073-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>34</ID>
+    <Name>Kitting Art</Name>
+    <Description />
+    <UPC>085961093546</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>3</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-11T11:04:17.8353403-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>35</ID>
+    <Name>Build-a-Buddy Wolf</Name>
+    <Description />
+    <UPC>0747482111410</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-11T11:52:13.6848295-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>36</ID>
+    <Name>Build-a-Buddy Tiger</Name>
+    <Description />
+    <UPC>0747482110710</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-11T11:52:43.4785336-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>37</ID>
+    <Name>Build-a-Buddy Light Brown Bear</Name>
+    <Description />
+    <UPC>0747482110601</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-11T11:55:36.1304087-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>38</ID>
+    <Name>Build-a-Buddy Rabbit</Name>
+    <Description />
+    <UPC>747482110994</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-11T11:56:38.0739517-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>39</ID>
+    <Name>Build-a-Buddy Brown Bear</Name>
+    <Description />
+    <UPC>747482110604</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-11T11:58:49.5414712-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>40</ID>
+    <Name>Crochet Art</Name>
+    <Description />
+    <UPC>0085761093553</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>3</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-11T12:06:04.1663303-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>41</ID>
+    <Name>Crochet Art</Name>
+    <Description />
+    <UPC>0085761093553</UPC>
+    <Price>12</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>3</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-11T12:06:56.0222963-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>42</ID>
+    <Name>Crochet Art</Name>
+    <Description />
+    <UPC>0085761093553</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>3</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-11T12:07:15.9744375-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>43</ID>
+    <Name>Skittles Light Up Rainbow Wand</Name>
+    <Description />
+    <UPC>0609454619471</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-11T12:27:40.6834869-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>44</ID>
+    <Name>Skittles Light Up Rainbow Wand</Name>
+    <Description />
+    <UPC>0609454619471</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-11T12:28:12.575311-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>45</ID>
+    <Name>Weaving Loom</Name>
+    <Description />
+    <UPC>0085761074064</UPC>
+    <Price>10</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>3</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-11T12:28:52.6086007-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>46</ID>
+    <Name>Weaving Loom</Name>
+    <Description />
+    <UPC>0085761074064</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>3</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-11T12:29:06.8494153-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>47</ID>
+    <Name>Skittles Light Up Rainbow Wand</Name>
+    <Description />
+    <UPC>0609454619471</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-11T12:55:47.6159739-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>48</ID>
+    <Name>Walkie Talkie</Name>
+    <Description />
+    <UPC>085761015340</UPC>
+    <Price>2</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-11T12:56:50.9755979-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>49</ID>
+    <Name>Walkie Talkie</Name>
+    <Description />
+    <UPC>085761015340</UPC>
+    <Price>3</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath>C:\Program Files (x86)\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-11T12:57:13.1248647-06:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

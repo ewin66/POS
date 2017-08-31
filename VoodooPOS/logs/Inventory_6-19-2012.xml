@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <categoryID>-1</categoryID>
+    <Name>wood chopping set</Name>
+    <Description>The Campfire Kids Wood Chopping Set brings the great outdoors ... indoors.
+Young lumberjacks can test their mettle splitting this reusable break-apart log. Take the axe and give it a swing to chop the log in half, and then snap it back together for more log splittin' fun. The easy chopping action makes it safe and easy to use. Ages 3 and up.</Description>
+    <UPC>735569510058</UPC>
+    <Price>19.99</Price>
+    <WholesalePrice>7.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>toys r us</Manufacturer>
+    <Quantity>0</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\woodchopset.jpg</picturePath>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-06-19T11:04:14.96875-06:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

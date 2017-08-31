@@ -1,0 +1,7 @@
+D:\utilities\Programming\c#\VoodooPOS\example code\CtrlCloneTst\CtrlCloneTst\bin\Debug\CtrlCloneTst.exe
+D:\utilities\Programming\c#\VoodooPOS\example code\CtrlCloneTst\CtrlCloneTst\bin\Debug\CtrlCloneTst.pdb
+D:\utilities\Programming\c#\VoodooPOS\example code\CtrlCloneTst\CtrlCloneTst\obj\Debug\ResolveAssemblyReference.cache
+D:\utilities\Programming\c#\VoodooPOS\example code\CtrlCloneTst\CtrlCloneTst\obj\Debug\CtrlCloneTst.Form1.resources
+D:\utilities\Programming\c#\VoodooPOS\example code\CtrlCloneTst\CtrlCloneTst\obj\Debug\CtrlCloneTst.csproj.GenerateResource.Cache
+D:\utilities\Programming\c#\VoodooPOS\example code\CtrlCloneTst\CtrlCloneTst\obj\Debug\CtrlCloneTst.exe
+D:\utilities\Programming\c#\VoodooPOS\example code\CtrlCloneTst\CtrlCloneTst\obj\Debug\CtrlCloneTst.pdb

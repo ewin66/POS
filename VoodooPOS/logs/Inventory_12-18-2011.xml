@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>248</ID>
+    <Name>Puzzle 12 Piece Foil/Glitter</Name>
+    <Description />
+    <UPC />
+    <Price>4.25</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>3</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-18T13:19:15.828125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>112</ID>
+    <Name>Incy Bincies</Name>
+    <Description />
+    <UPC>845218001131</UPC>
+    <Price>8.95</Price>
+    <WholesalePrice>4</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>24</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-18T15:32:58.328125-07:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

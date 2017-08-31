@@ -1,0 +1,6 @@
+D:\utilities\Programming\VoodooPOS\DShowNET\bin\Release\DShowNET.dll
+D:\utilities\Programming\VoodooPOS\DShowNET\obj\Release\ResolveAssemblyReference.cache
+D:\utilities\Programming\VoodooPOS\DShowNET\obj\Release\DShowNET.dll
+D:\utilities\Programming\c#\VoodooPOS\DShowNET\bin\Release\DShowNET.dll
+D:\utilities\Programming\c#\VoodooPOS\DShowNET\obj\Release\ResolveAssemblyReference.cache
+D:\utilities\Programming\c#\VoodooPOS\DShowNET\obj\Release\DShowNET.dll

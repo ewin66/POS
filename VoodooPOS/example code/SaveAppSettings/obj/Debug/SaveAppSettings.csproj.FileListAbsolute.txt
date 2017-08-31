@@ -1,0 +1,2 @@
+D:\utilities\Programming\c#\VoodooPOS\example code\SaveAppSettings\obj\Debug\SaveAppSettings.exe
+D:\utilities\Programming\c#\VoodooPOS\example code\SaveAppSettings\obj\Debug\SaveAppSettings.pdb

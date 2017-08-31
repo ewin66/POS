@@ -1,0 +1,40 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_10:40 AM</Name>
+    <Description>Credit Transaction</Description>
+    <Price>24.91</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-07-28T10:40:49.389875-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>2</ID>
+    <categoryID>-1</categoryID>
+    <Name>Lego Racers Storming Enforcer</Name>
+    <Description>Send the other racers running from the Storming Enforcer! 
+
+Load the 3-wheeled police bike onto the air stomper and get ready to burn rubber! Stomp on the pump and watch the Storming Enforcer take off like a hurricane! Give it your best stomp action!
+
+
+•Features cool racing details including an extra wide front wheel, powerful jet engine and bulldog logo
+•Storming Enforcer measures 6” (17cm) long, 2” (6cm) high and 3” (8cm) wide
+•Stomp the pump for real racing action!</Description>
+    <UPC>673419144179</UPC>
+    <Price>22.95</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>lego</Manufacturer>
+    <Quantity>1</Quantity>
+    <active>true</active>
+    <displayOnWeb>true</displayOnWeb>
+    <DateCreated>2012-07-28T10:40:49.87425-06:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

@@ -1,0 +1,34 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <categoryID>-1</categoryID>
+    <Name>New Cart_1:30 PM</Name>
+    <Description>Credit Transaction</Description>
+    <Price>14.1</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>0</Quantity>
+    <DateCreated>2012-02-15T13:30:23.265625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>2</ID>
+    <categoryID>-1</categoryID>
+    <Name>Dinosaur playmat</Name>
+    <Description>The ZipBin Mini Dinosaur toy tote 's dramatic exterior identifies the contents and is the perfect size for travel. When the bin is unzipped, it becomes a dinosaur island Playscape™! 
+
+This activity mat is perfect for playing with dinosaurs, animals, vehicles, boats, action figures, etc. Fantasy play is encouraged by a prehistoric world featuring a volcano, a river, a tar pit and a mysterious cave.
+
+When play is done, the Playscape™ becomes a toy bin in a zip, capturing the toys inside for easy clean up! This mini Playset includes three dinosaurs.</Description>
+    <UPC>858109001431</UPC>
+    <Price>12.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Neat Oh Heidi</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\dinosaurzip.jpg</PicturePath>
+    <DateCreated>2012-02-15T13:30:23.5-07:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

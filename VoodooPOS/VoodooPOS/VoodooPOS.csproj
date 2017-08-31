@@ -1,0 +1,722 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{49E756FE-FA2D-4130-B563-FF8AC1647C05}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>VoodooPOS</RootNamespace>
+    <AssemblyName>VoodooPOS</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="VoodooPOS, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <ExecutableExtension>.exe</ExecutableExtension>
+      <HintPath>obj\Debug\VoodooPOS.exe</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="activationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="activationForm.Designer.cs">
+      <DependentUpon>activationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ApplicationProperties.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApplicationProperties.Designer.cs">
+      <DependentUpon>ApplicationProperties.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BackgroundPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="BarcodeScanner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CashDrawerChangeReason.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CashDrawerChangeReason.Designer.cs">
+      <DependentUpon>CashDrawerChangeReason.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CashRegisterDrawer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CashRegisterDrawer.Designer.cs">
+      <DependentUpon>CashRegisterDrawer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CashRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CashRegister.Designer.cs">
+      <DependentUpon>CashRegister.cs</DependentUpon>
+    </Compile>
+    <Compile Include="checkout_cash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="checkout_cash.Designer.cs">
+      <DependentUpon>checkout_cash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="clsBarcodeImaging.cs" />
+    <Compile Include="common.cs" />
+    <Compile Include="checkout_cashAndCredit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="checkout_cashAndCredit.Designer.cs">
+      <DependentUpon>checkout_cashAndCredit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ControlFactory.cs" />
+    <Compile Include="data\CashRegisterDrawer.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CashRegisterDrawer.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="data\Categories.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Categories.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="data\GiftCertificateActivity.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GiftCertificateActivity.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="data\GiftCertificates.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GiftCertificates.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="data\GiftCertificateStatus.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GiftCertificateStatus.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="data\InventoryItems.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>InventoryItems.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="data\LabelPrintingSettings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LabelPrintingSettings.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="data\L_inventoryItemsToFeaturedItems.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>L_inventoryItemsToFeaturedItems.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="data\Templates.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Templates.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeEdit.Designer.cs">
+      <DependentUpon>EmployeeEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employees.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employees.Designer.cs">
+      <DependentUpon>Employees.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FlowPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Inventory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inventory.Designer.cs">
+      <DependentUpon>Inventory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InventoryItemInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InventoryItemInfo.Designer.cs">
+      <DependentUpon>InventoryItemInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="data\L_inventoryItemsToCategories.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>L_inventoryItemsToCategories.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="GelButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="GiftCertificateRedeem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GiftCertificateRedeem.Designer.cs">
+      <DependentUpon>GiftCertificateRedeem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ean13.cs" />
+    <Compile Include="InventoryItemEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InventoryItemEdit.Designer.cs">
+      <DependentUpon>InventoryItemEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LabelTemplate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LabelTemplate.Designer.cs">
+      <DependentUpon>LabelTemplate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MiscItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MiscItem.Designer.cs">
+      <DependentUpon>MiscItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Discount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Discount.Designer.cs">
+      <DependentUpon>Discount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GiftCertificateCreate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GiftCertificateCreate.Designer.cs">
+      <DependentUpon>GiftCertificateCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewInventoryItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewInventoryItem.Designer.cs">
+      <DependentUpon>NewInventoryItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="objects\Cart.cs" />
+    <Compile Include="objects\CashRegisterDrawer.cs" />
+    <Compile Include="objects\Category.cs" />
+    <Compile Include="objects\L_InventoryItemsToQuickButtons.cs" />
+    <Compile Include="objects\L_inventoryItemsToSalesCalendar.cs" />
+    <Compile Include="objects\LabelPrintingSettings.cs" />
+    <Compile Include="objects\L_inventoryItemsToCategories.cs" />
+    <Compile Include="objects\GiftCertificateActivity.cs" />
+    <Compile Include="objects\GiftCertificate.cs" />
+    <Compile Include="objects\InventoryItem.cs">
+    </Compile>
+    <Compile Include="objects\L_inventoryItemsToFeaturedItems.cs" />
+    <Compile Include="objects\PropertyBag.cs" />
+    <Compile Include="objects\SecurityLevel.cs" />
+    <Compile Include="ObjectXMLSerializer.cs" />
+    <Compile Include="Printer.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="activationForm.resx">
+      <DependentUpon>activationForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ApplicationProperties.resx">
+      <DependentUpon>ApplicationProperties.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BarcodeScanner.resx">
+      <DependentUpon>BarcodeScanner.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CashDrawerChangeReason.resx">
+      <DependentUpon>CashDrawerChangeReason.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CashRegister.resx">
+      <DependentUpon>CashRegister.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CashRegisterDrawer.resx">
+      <DependentUpon>CashRegisterDrawer.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="checkout_cash.resx">
+      <DependentUpon>checkout_cash.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="checkout_cashAndCredit.resx">
+      <DependentUpon>checkout_cashAndCredit.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeEdit.resx">
+      <DependentUpon>EmployeeEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employees.resx">
+      <DependentUpon>Employees.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inventory.resx">
+      <DependentUpon>Inventory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InventoryItemInfo.resx">
+      <DependentUpon>InventoryItemInfo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GiftCertificateRedeem.resx">
+      <DependentUpon>GiftCertificateRedeem.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InventoryItemEdit.resx">
+      <DependentUpon>InventoryItemEdit.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LabelTemplate.resx">
+      <DependentUpon>LabelTemplate.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MiscItem.resx">
+      <DependentUpon>MiscItem.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Discount.resx">
+      <DependentUpon>Discount.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GiftCertificateCreate.resx">
+      <DependentUpon>GiftCertificateCreate.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewInventoryItem.resx">
+      <DependentUpon>NewInventoryItem.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports.resx">
+      <DependentUpon>Reports.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Content Include="data\InventoryItems.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>InventoryItems.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Reports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports.Designer.cs">
+      <DependentUpon>Reports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XmlData.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Common\Common.csproj">
+      <Project>{7EAE13AD-8487-4E9E-9100-B02D69AD90F0}</Project>
+      <Name>Common %28Common\Common%29</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\globalKeyboardHook\GlobalHook\Gma.UserActivityMonitor\Gma.UserActivityMonitor.csproj">
+      <Project>{F52AA97E-180A-40ED-8F2B-09080171D6C7}</Project>
+      <Name>Gma.UserActivityMonitor</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DirectX.Capture\DirectX.Capture.csproj">
+      <Project>{8C0015DB-69E1-46E7-8705-3A4F8BE2E5E7}</Project>
+      <Name>DirectX.Capture</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DShowNET\DShowNET.csproj">
+      <Project>{CE009BFA-5EF6-4153-B2A1-2FA79698A9AE}</Project>
+      <Name>DShowNET</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="data\CashRegisterDrawer.xsc">
+      <DependentUpon>CashRegisterDrawer.xsd</DependentUpon>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <Content Include="data\CashRegisterDrawer.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CashRegisterDrawer.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <None Include="data\CashRegisterDrawer.xss">
+      <DependentUpon>CashRegisterDrawer.xsd</DependentUpon>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <Content Include="data\Categories.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Categories.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\Categories.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\L_inventoryItemsToSalesCalendar.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\L_inventoryItemsToQuickButtons.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\Employees.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\SecurityLevels.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\Templates.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Templates.Designer.cs</LastGenOutput>
+      <SubType>
+      </SubType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <None Include="data\Categories.xsc">
+      <DependentUpon>Categories.xsd</DependentUpon>
+    </None>
+    <None Include="data\Categories.xss">
+      <DependentUpon>Categories.xsd</DependentUpon>
+    </None>
+    <Content Include="data\Employees.xsd">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\SecurityLevels.xsd">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\L_inventoryItemsToQuickButtons.xsd">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\L_inventoryItemsToSalesCalendar.xsd">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <None Include="data\Templates.xsc">
+      <DependentUpon>Templates.xsd</DependentUpon>
+    </None>
+    <None Include="data\Templates.xss">
+      <DependentUpon>Templates.xsd</DependentUpon>
+    </None>
+    <None Include="data\GiftCertificateActivity.xsc">
+      <DependentUpon>GiftCertificateActivity.xsd</DependentUpon>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <Content Include="data\GiftCertificateActivity.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>GiftCertificateActivity.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <None Include="data\GiftCertificateActivity.xss">
+      <DependentUpon>GiftCertificateActivity.xsd</DependentUpon>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="data\GiftCertificates.xsc">
+      <DependentUpon>GiftCertificates.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <Content Include="data\GiftCertificateActivity.xml" />
+    <Content Include="data\GiftCertificates.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\GiftCertificates.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>GiftCertificates.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="data\GiftCertificates.xss">
+      <DependentUpon>GiftCertificates.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="data\GiftCertificateStatus.xsc">
+      <DependentUpon>GiftCertificateStatus.xsd</DependentUpon>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <Content Include="data\GiftCertificateStatus.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>GiftCertificateStatus.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <None Include="data\GiftCertificateStatus.xss">
+      <DependentUpon>GiftCertificateStatus.xsd</DependentUpon>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <Content Include="data\InventoryItems.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\GiftCertificateStatus.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\LabelPrintingSettings.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LabelPrintingSettings.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <None Include="data\InventoryItems.xsc">
+      <DependentUpon>InventoryItems.xsd</DependentUpon>
+    </None>
+    <None Include="data\InventoryItems.xss">
+      <DependentUpon>InventoryItems.xsd</DependentUpon>
+    </None>
+    <Content Include="data\L_inventoryItemsToCategories.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\L_inventoryItemsToFeaturedItems.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>L_inventoryItemsToFeaturedItems.Designer.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\barcode.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\barcode2.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\barcode3.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\barcode4.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <None Include="images\debit-credit-card-md.png" />
+    <Content Include="images\coming-soon.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\discount.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\frameshot_1_cropped.bmp">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\frameshot_1_test.bmp">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\frameshot_2_test.bmp">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <None Include="data\InventoryImages\buildAFort.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="data\InventoryImages\HappyNappers.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="data\InventoryImages\whoppAir.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="data\L_inventoryItemsToCategories.xsc">
+      <DependentUpon>L_inventoryItemsToCategories.xsd</DependentUpon>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <Content Include="data\L_inventoryItemsToCategories.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>L_inventoryItemsToCategories.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <None Include="data\L_inventoryItemsToCategories.xss">
+      <DependentUpon>L_inventoryItemsToCategories.xsd</DependentUpon>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <Content Include="data\L_inventoryItemsToFeaturedItems.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\InventoryImages\imageNotAvailable.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\background.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <None Include="images\money.png" />
+    <Content Include="images\giftCertificate.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\horsetoothWithMoon.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\logo.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\logo2.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\logo3.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\logo4.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\logo5.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\printer.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\VoodooDollTransparent.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sounds\drawerOpen.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sounds\scanner\ba-da-dum.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sounds\scanner\baby-laugh.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sounds\scanner\beep.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sounds\scanner\beep10.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sounds\scanner\beep6.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sounds\scanner\bingbong.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sounds\scanner\cow.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sounds\scanner\cowbell.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sounds\scanner\db-bell-shot-001.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sounds\scanner\door-bell.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sounds\scanner\duck2.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sounds\scanner\frog.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sounds\scanner\goat.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sounds\scanner\jawsharp2.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sounds\scanner\jupeee.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sounds\scanner\laser.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sounds\scanner\meeb-meeb.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sounds\scanner\meow2.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sounds\scanner\modelahorn.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sounds\scanner\old-church-bell.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sounds\scanner\one-blast-whistle.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sounds\scanner\phonerings.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sounds\scanner\smallBell.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sounds\scanner\spaceSound1.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sounds\scanner\spaceSound2.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sounds\scanner\stomachache.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sounds\scanner\trainwhistle.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sounds\scanner\woohooooohhhh.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="data\reports\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,453 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <Name>Design Your Own Umbrella</Name>
+    <Description />
+    <UPC>085761142312</UPC>
+    <Price>16.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-11-05T10:09:05.7051971-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>2</ID>
+    <Name>Sticky Mosaics Flower Power</Name>
+    <Description />
+    <UPC>622222062804</UPC>
+    <Price>22.5</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-11-05T10:16:22.459178-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>3</ID>
+    <Name>Sticky Mosaics Ladybugs and Friends</Name>
+    <Description />
+    <UPC>622222063757</UPC>
+    <Price>22.5</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-11-05T10:18:38.1189373-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>4</ID>
+    <Name>Sticky Mosaics Dance</Name>
+    <Description />
+    <UPC>622222063443</UPC>
+    <Price>22.5</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-11-05T10:19:33.5111056-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>5</ID>
+    <Name>Lego Racers Toolbox and Playmat</Name>
+    <Description />
+    <UPC>878119001245</UPC>
+    <Price>14.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-11-05T10:25:47.0784724-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>6</ID>
+    <Name>Small Town Toy Box Playmat</Name>
+    <Description />
+    <UPC>0858109001417</UPC>
+    <Price>14.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-11-05T10:26:58.8105753-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>7</ID>
+    <Name>Dinosaur Toybox Playmat</Name>
+    <Description />
+    <UPC>858109001677</UPC>
+    <Price>22.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-11-05T10:29:33.2754101-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>8</ID>
+    <Name>Doll House Play Pack</Name>
+    <Description />
+    <UPC>878119001320</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-11-05T10:31:52.6873841-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>9</ID>
+    <Name>Doll House Play Pack</Name>
+    <Description />
+    <UPC>878119001320</UPC>
+    <Price>14.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath>D:\utilities\Programming\VoodooPOS\VoodooPOS\bin\Debug\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-11-05T10:32:17.0357767-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>10</ID>
+    <Name>Party Favor Bags</Name>
+    <Description />
+    <UPC>085761088856</UPC>
+    <Price>1.25</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-11-05T10:57:42.6500368-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>11</ID>
+    <Name>Who Doesn't Love Cake Banner</Name>
+    <Description />
+    <UPC>634680814086</UPC>
+    <Price>1.75</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-11-05T11:03:12.9939314-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>12</ID>
+    <Name>Mary's Soft Dough Chocolate</Name>
+    <Description />
+    <UPC />
+    <Price>2.5</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-11-05T11:09:43.5142679-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>13</ID>
+    <Name>Mary's Soft Dough Strawberry</Name>
+    <Description />
+    <UPC />
+    <Price>2.5</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-11-05T11:10:02.7023654-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>14</ID>
+    <Name>Mary's Soft Dough Orange</Name>
+    <Description />
+    <UPC />
+    <Price>2.5</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-11-05T11:10:32.0780456-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>15</ID>
+    <Name>Mary's Soft Dough Tutti Frutti</Name>
+    <Description />
+    <UPC />
+    <Price>2.5</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-11-05T11:11:31.441441-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>16</ID>
+    <Name>Mary's Soft Dough </Name>
+    <Description />
+    <UPC />
+    <Price>4.5</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-11-05T11:12:13.8028639-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>17</ID>
+    <Name>Mary's Soft Dough Rose</Name>
+    <Description />
+    <UPC />
+    <Price>2.5</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-11-05T11:13:10.4221024-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>18</ID>
+    <Name>Mary's Soft Dough Vanilla</Name>
+    <Description />
+    <UPC />
+    <Price>2.5</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-11-05T11:13:32.4413618-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>19</ID>
+    <Name>Mary's Soft Dough Lavender</Name>
+    <Description />
+    <UPC />
+    <Price>2.5</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-11-05T11:13:58.1868344-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>20</ID>
+    <Name>Mary's Soft Dough Lemon</Name>
+    <Description />
+    <UPC />
+    <Price>2.5</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-11-05T11:14:15.8068422-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>21</ID>
+    <Name>Mary's Soft Dough Lime</Name>
+    <Description />
+    <UPC />
+    <Price>2.5</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-11-05T11:14:34.2268957-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>22</ID>
+    <Name>Mary's Soft Dough Root Beer</Name>
+    <Description />
+    <UPC />
+    <Price>2.5</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-11-05T11:15:14.5742035-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>23</ID>
+    <Name>Mary's Soft Dough Birthday Cake</Name>
+    <Description />
+    <UPC />
+    <Price>2.5</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-11-05T11:16:39.780077-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>24</ID>
+    <Name>Mary's Soft Dough Peppermint</Name>
+    <Description />
+    <UPC />
+    <Price>2.5</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-11-05T11:17:06.1755867-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>25</ID>
+    <Name>Mary's Soft Dough Green Apple</Name>
+    <Description />
+    <UPC />
+    <Price>2.5</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-11-05T11:17:27.0127785-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>26</ID>
+    <Name>Mary's Soft Dough Bubble Gum</Name>
+    <Description />
+    <UPC />
+    <Price>2.5</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-11-05T11:18:04.8649435-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>27</ID>
+    <Name>Mary's Soft Dough Grape</Name>
+    <Description />
+    <UPC />
+    <Price>2.5</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-11-05T11:18:27.5232395-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>28</ID>
+    <Name>Mary's Soft Dough Banana</Name>
+    <Description />
+    <UPC />
+    <Price>2.5</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-11-05T11:18:47.1463619-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>29</ID>
+    <Name>Mary's Soft Dough Tool Set</Name>
+    <Description />
+    <UPC />
+    <Price>7.99</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-11-05T11:20:54.5726503-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>30</ID>
+    <Name>Mary's Soft Dough  Glow</Name>
+    <Description />
+    <UPC />
+    <Price>4.5</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath>D:\utilities\Programming\VoodooPOS\VoodooPOS\bin\Debug\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-11-05T12:06:01.4404742-06:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

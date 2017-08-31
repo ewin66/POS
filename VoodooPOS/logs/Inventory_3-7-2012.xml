@@ -1,0 +1,393 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <categoryID>-1</categoryID>
+    <Name>TONKA T.S. 4000 Dump Truck</Name>
+    <Description>Get down and dirty with this T.S. 4000 Dump Truck vehicle! Built with a steel cab, steel dump bed and signature steel grille, this vehicle is tough enough to stand up to your hardest "construction jobs". Fill up the dump bed, "drive" it to its destination and then use the real dumping action to unload it! Just like the real thing, this dump truck vehicle is built to operate in the toughest outdoor conditions. So load it up and move it out!
+
+Ages 3 and up.</Description>
+    <UPC>653569534136</UPC>
+    <Price>38.95</Price>
+    <WholesalePrice>24.95</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Walmart</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\tonkadumptruck.jpg</PicturePath>
+    <DateCreated>2012-03-07T12:46:42.734375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>2</ID>
+    <categoryID>-1</categoryID>
+    <Name>11543326533</Name>
+    <Description>CAT Tough Tracks Pickup is ready to get to you to the job site. This durable 14" wheel loader is great for indoor or outdoor play when the weather is warm. Great addition to the beach toy bag to help build sand castles. No batteries required. Recommended for ages 2 and up. 
+t's the perfect machine for little hands in the sandbox! Durable plastic 14" Junior Loader has real moving wheels and parts. Appropriate for children 18 months and up. Realistic-looking bright yellow Cat Junior Loader even has authentic Cat logos. 
+</Description>
+    <UPC>6535695341360</UPC>
+    <Price>26.95</Price>
+    <WholesalePrice>10</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>walmart</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\Catloader.jpg</PicturePath>
+    <DateCreated>2012-03-07T12:59:31.140625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>3</ID>
+    <categoryID>-1</categoryID>
+    <Name>Cat SUV</Name>
+    <Description>CAT Tough Tracks Pickup is ready to get to you to the job site. This durable 14" Pickup is great for indoor or outdoor play. when the weather is warm its a Great addition to the beach toy bag to help build sand castles. No batteries required. Recommended for ages 2 and up. </Description>
+    <UPC>011543326540</UPC>
+    <Price>26.95</Price>
+    <WholesalePrice>10</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>walmart</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\Catsuv.jpg</PicturePath>
+    <DateCreated>2012-03-07T13:12:30.21875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>4</ID>
+    <categoryID>-1</categoryID>
+    <Name>Cat Front Loader</Name>
+    <Description> CAT Tough Tracks Loader is ready to get to you to the job site. This durable 14" wheel loader is great for indoor or outdoor play when the weather is warm. Great addition to the beach toy bag to help build sand castles. No batteries required. Recommended for ages 2 and up.  
+•great for indoor or outdoor play when the weather is warm
+•Great addition to the beach toy bag to help build sand castles
+•No batteries required
+•Recommended for ages 2 and up 
+ 
+</Description>
+    <UPC>011543326533</UPC>
+    <Price>26.95</Price>
+    <WholesalePrice>10</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>walmart</Manufacturer>
+    <Quantity>1</Quantity>
+    <DateCreated>2012-03-07T13:19:21.28125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>5</ID>
+    <categoryID>-1</categoryID>
+    <Name>Cat Bulldozer</Name>
+    <Description>  
+ CAT Tough Tracks Bulldozer is ready to get to you to the job site. This durable 14" Truck is great for indoor or outdoor play when the weather is warm. Great addition to the beach toy bag to help build sand castles. No batteries required. Recommended for ages 2 and up.  
+•14″ Free-wheeling construction trucks with kid-friendly styling
+•ages 2+
+•No Batteries Required </Description>
+    <UPC>011543326526</UPC>
+    <Price>26.95</Price>
+    <WholesalePrice>10</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>walmart</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\Catbulldozer.jpg</PicturePath>
+    <DateCreated>2012-03-07T13:27:36.859375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>6</ID>
+    <categoryID>-1</categoryID>
+    <Name>That's Gross Squish Toy</Name>
+    <Description>Aside from just being cool toys, the collection is good for a few very specific purposes. For a kid's Halloween party, I can dream up no better line of party favors. Most of the toys are only fun for the first three minutes, but for children who enjoy being grossed out or grossing somebody else out, that's one heck of a three minutes. Assuming you're willing to offend a few young girls on Halloween night, the "That's Gross" toys would also make for some terrific, memorable giveaways for any incoming trick-or-treaters. They won't remember all of the eighty people who gave them Butterfinger bars, but no child will forget the house that brought them a "Lite Up Eyeball." Those are just two of a dozen purposes the toys could serve. Can you figure out the other ten?
+</Description>
+    <UPC>075656000315</UPC>
+    <Price>1.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>dollar tree</Manufacturer>
+    <Quantity>0</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\thatsgross.jpg</PicturePath>
+    <DateCreated>2012-03-07T13:39:44.78125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>7</ID>
+    <categoryID>-1</categoryID>
+    <Name>Mini Chalk Board</Name>
+    <Description>Fun for kids that’s new and different every time! Each chalk board features a bright Disney characters design and comes with 2 pieces of chalk, a fun-shaped sponge eraser, and has a top rope for easy hanging. Play time with fairies, the Princesses, Mickey's Clubhouse, Cars, and Winnie the Pooh will brighten up any child’s day! Ideal for home, travel, camps, day care centers, schools, and resale in gift and toy shops. Case includes 24 – 8½x7" Disney® friends chalk boards assorted among the styles shown. Ages 3+. Packages are peggable for easy resale display.
+
+</Description>
+    <UPC>639277101495</UPC>
+    <Price>3.5</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Quantity>4</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\disneychalkboard.jpg</PicturePath>
+    <DateCreated>2012-03-07T13:46:38.375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>8</ID>
+    <categoryID>-1</categoryID>
+    <Name>Chatter Teeth</Name>
+    <Description>The classic gag toy! Just wind the teeth up and let ‘em chatter and hop across the table for a laugh! Set a bunch off at once for a crazy race. Packaging is peggable for easy resale in novelty and toy stores. Case includes 24 Jokes &amp; Gags™ Wind Up Chatter Teeth. Ages 4+.
+
+</Description>
+    <UPC>639277246776</UPC>
+    <Price>3.95</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>dollar tree</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\Chatterteeth.jpg</PicturePath>
+    <DateCreated>2012-03-07T13:53:56.1875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>9</ID>
+    <categoryID>-1</categoryID>
+    <Name>Orange frog kids apron</Name>
+    <Description>Give all your little helpers their very own apron! Kids will love the colorful designs that feature nature friends, while adults love that they keep clothes clean. Great for gardening, baking, painting, and crafts, they’re a must have for preschools, day cares, and churches... plus they’re ideal for resale in gift, garden, and children’s shops. Fabric aprons have ties at neck and waist. Ages 3+.</Description>
+    <UPC>639277101334</UPC>
+    <Price>4.95</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\kidsapron.jpg</PicturePath>
+    <DateCreated>2012-03-07T14:52:43.375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>10</ID>
+    <categoryID>-1</categoryID>
+    <Name>kids apron</Name>
+    <Description>Give all your little helpers their very own apron! Kids will love the colorful designs that feature nature friends, while adults love that they keep clothes clean. Great for gardening, baking, painting, and crafts, they’re a must have for preschools, day cares, and churches... plus they’re ideal for resale in gift, garden, and children’s shops. Fabric aprons have ties at neck and waist. Ages 3+.</Description>
+    <UPC>639277101334</UPC>
+    <Price>4.95</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\kidsapron.jpg</PicturePath>
+    <DateCreated>2012-03-07T14:56:29.203125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>11</ID>
+    <categoryID>-1</categoryID>
+    <Name>kids apron</Name>
+    <Description>Give all your little helpers their very own apron! Kids will love the colorful designs that feature nature friends, while adults love that they keep clothes clean. Great for gardening, baking, painting, and crafts, they’re a must have for preschools, day cares, and churches... plus they’re ideal for resale in gift, garden, and children’s shops. Fabric aprons have ties at neck and waist. Ages 3+.</Description>
+    <UPC>639277101334</UPC>
+    <Price>4.95</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>4</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\kidsapron.jpg</PicturePath>
+    <DateCreated>2012-03-07T14:59:48.765625-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>12</ID>
+    <categoryID>-1</categoryID>
+    <Name>Abc Magnet set</Name>
+    <Description>•  Colorful beautiful fridge magnets would be good choice for your house decoration
+•  Perfect for kids early education to learn and spell words 
+•  Also suitable for you to put words with special meanings 
+•  Every letter big enough to catch eye attention 
+</Description>
+    <UPC>075656014077</UPC>
+    <Price>2.5</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\abcmagnet.jpg</PicturePath>
+    <DateCreated>2012-03-07T15:08:08.375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>13</ID>
+    <categoryID>-1</categoryID>
+    <Name>Magnetic wooden numbers</Name>
+    <Description>•  Colorful beautiful fridge magnets would be good choice for your house decoration
+•  Perfect for kids early education to learn and spell words 
+•  Also suitable for you to put words with special meanings 
+•  Every letter big enough to catch eye attention 
+</Description>
+    <UPC>639277875839</UPC>
+    <Price>4.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>dollar tree</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\abcmagnet.jpg</PicturePath>
+    <DateCreated>2012-03-07T15:12:12.71875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>14</ID>
+    <categoryID>-1</categoryID>
+    <Name>Ticking Grenade</Name>
+    <Description>•4 Inch Realistic Battery Operated Grenade
+•Hold trigger and timer sounds for 10 seconds before explosion.
+•There is a release pin that can be inserted and pulled out.
+•Simulates real grenade.
+•Realistic sounding and exploding Grenade for kids with removable pins
+</Description>
+    <UPC>639277040404</UPC>
+    <Price>2.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>0</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\grenade.jpg</PicturePath>
+    <DateCreated>2012-03-07T15:18:56.234375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>15</ID>
+    <categoryID>-1</categoryID>
+    <Name>Ticking Grenade</Name>
+    <Description>•4 Inch Realistic Battery Operated Grenade
+•Hold trigger and timer sounds for 10 seconds before explosion.
+•There is a release pin that can be inserted and pulled out.
+•Simulates real grenade.
+•Realistic sounding and exploding Grenade for kids with removable pins
+</Description>
+    <UPC>639277040404</UPC>
+    <Price>2.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>0</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\grenade.jpg</PicturePath>
+    <DateCreated>2012-03-07T15:23:03.421875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>16</ID>
+    <categoryID>-1</categoryID>
+    <Name>Squeeze Cars</Name>
+    <UPC>639277246707</UPC>
+    <Price>3.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>3</Quantity>
+    <DateCreated>2012-03-07T15:44:58.46875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>17</ID>
+    <categoryID>-1</categoryID>
+    <Name>TONKA T.S. 4000 Dump Truck</Name>
+    <Description>Get down and dirty with this T.S. 4000 Dump Truck vehicle! Built with a steel cab, steel dump bed and signature steel grille, this vehicle is tough enough to stand up to your hardest "construction jobs". Fill up the dump bed, "drive" it to its destination and then use the real dumping action to unload it! Just like the real thing, this dump truck vehicle is built to operate in the toughest outdoor conditions. So load it up and move it out!
+
+Ages 3 and up.</Description>
+    <UPC>653569534136</UPC>
+    <Price>38.95</Price>
+    <WholesalePrice>24.95</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Walmart</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\tonkadumptruck.jpg</PicturePath>
+    <DateCreated>2012-03-07T16:20:17.734375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>18</ID>
+    <categoryID>-1</categoryID>
+    <Name>TONKA T.S. 4000 Dump Truck</Name>
+    <Description>Get down and dirty with this T.S. 4000 Dump Truck vehicle! Built with a steel cab, steel dump bed and signature steel grille, this vehicle is tough enough to stand up to your hardest "construction jobs". Fill up the dump bed, "drive" it to its destination and then use the real dumping action to unload it! Just like the real thing, this dump truck vehicle is built to operate in the toughest outdoor conditions. So load it up and move it out!
+
+Ages 3 and up.</Description>
+    <UPC>653569534136</UPC>
+    <Price>38.95</Price>
+    <WholesalePrice>24.95</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Walmart</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\tonkadumptruck.jpg</PicturePath>
+    <DateCreated>2012-03-07T16:21:02.046875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>19</ID>
+    <categoryID>-1</categoryID>
+    <Name>Cat Bulldozer</Name>
+    <Description>  
+ CAT Tough Tracks Bulldozer is ready to get to you to the job site. This durable 14" Truck is great for indoor or outdoor play when the weather is warm. Great addition to the beach toy bag to help build sand castles. No batteries required. Recommended for ages 2 and up.  
+•14″ Free-wheeling construction trucks with kid-friendly styling
+•ages 2+
+•No Batteries Required </Description>
+    <UPC>011543326526</UPC>
+    <Price>26.95</Price>
+    <WholesalePrice>10</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>walmart</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\Catbulldozer.jpg</PicturePath>
+    <DateCreated>2012-03-07T16:22:46.171875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>20</ID>
+    <categoryID>-1</categoryID>
+    <Name>Cat Front Loader</Name>
+    <Description> CAT Tough Tracks Loader is ready to get to you to the job site. This durable 14" wheel loader is great for indoor or outdoor play when the weather is warm. Great addition to the beach toy bag to help build sand castles. No batteries required. Recommended for ages 2 and up.  
+•great for indoor or outdoor play when the weather is warm
+•Great addition to the beach toy bag to help build sand castles
+•No batteries required
+•Recommended for ages 2 and up 
+ 
+</Description>
+    <UPC>011543326533</UPC>
+    <Price>26.95</Price>
+    <WholesalePrice>10</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>walmart</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-03-07T16:23:17.34375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>21</ID>
+    <categoryID>-1</categoryID>
+    <Name>Cat SUV</Name>
+    <Description>CAT Tough Tracks Pickup is ready to get to you to the job site. This durable 14" Pickup is great for indoor or outdoor play. when the weather is warm its a Great addition to the beach toy bag to help build sand castles. No batteries required. Recommended for ages 2 and up. </Description>
+    <UPC>011543326540</UPC>
+    <Price>26.95</Price>
+    <WholesalePrice>10</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>walmart</Manufacturer>
+    <Quantity>1</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\Catsuv.jpg</PicturePath>
+    <DateCreated>2012-03-07T16:23:53.3125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>22</ID>
+    <categoryID>-1</categoryID>
+    <Name>Blast Bow</Name>
+    <UPC>085761015357</UPC>
+    <Price>24.95</Price>
+    <WholesalePrice>10</WholesalePrice>
+    <SalePrice>17.5</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Quantity>7</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\InventoryImages\blastbow3.jpg</PicturePath>
+    <DateCreated>2012-03-07T16:24:39-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>23</ID>
+    <categoryID>-1</categoryID>
+    <Name>FBI Action Play Set</Name>
+    <UPC>639277193407</UPC>
+    <Price>3.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Quantity>2</Quantity>
+    <PicturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</PicturePath>
+    <DateCreated>2012-03-07T16:27:26.25-07:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

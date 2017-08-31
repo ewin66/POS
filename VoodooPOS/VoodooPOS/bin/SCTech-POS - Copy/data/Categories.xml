@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Categories>
+    <id>1</id>
+    <category>Featured Items</category>
+    <datecreated>2011-12-09T08:47:04.36-07:00</datecreated>
+  </Categories>
+  <Categories>
+    <id>2</id>
+    <category>On Sale</category>
+    <datecreated>2011-12-09T08:47:11.127-07:00</datecreated>
+  </Categories>
+  <Categories>
+    <id>3</id>
+    <category>Misc.</category>
+    <datecreated>2011-12-09T08:47:29.84-07:00</datecreated>
+  </Categories>
+</DocumentElement>

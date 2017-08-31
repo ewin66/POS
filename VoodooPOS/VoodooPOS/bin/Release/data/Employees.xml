@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+<Employees xmlns="EmployeesSchema">
+<ID>1</ID>
+<firstName>Employee</firstName>
+<lastName>tester</lastName>
+<emailAddress>testing@testing.com</emailAddress>
+<username>test</username>
+<password>test</password>
+<securityLevel>1</securityLevel>
+<dateCreated>2015-03-26T21:06:06.073</dateCreated>
+</Employees>
+<Employees xmlns="EmployeesSchema">
+<ID>2</ID>
+<firstName>Admin</firstName>
+<lastName>tester</lastName>
+<emailAddress>admin@testing.com</emailAddress>
+<username>admin</username>
+<password>test</password>
+<securityLevel>10</securityLevel>
+<dateCreated>2015-03-26T21:06:33.057</dateCreated>
+</Employees>
+</DocumentElement>

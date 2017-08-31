@@ -1,0 +1,1095 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>1</ID>
+    <Name>Cash Register</Name>
+    <Description />
+    <UPC>0085761066403</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>4</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-28T10:27:55.8909822-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>2</ID>
+    <Name>Cash Register</Name>
+    <Description />
+    <UPC>0085761066403</UPC>
+    <Price>34.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>4</Quantity>
+    <picturePath>D:\utilities\Programming\VoodooPOS\VoodooPOS\bin\Debug\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-28T10:29:02.7288051-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>3</ID>
+    <Name>Cash Register</Name>
+    <Description />
+    <UPC>0085761066403</UPC>
+    <Price>34.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>4</Quantity>
+    <picturePath>D:\utilities\Programming\VoodooPOS\VoodooPOS\bin\Debug\data\inventoryImages\cashregister.jpg</picturePath>
+    <DateCreated>2011-10-28T10:29:16.9156165-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>4</ID>
+    <Name>Zombie Zack</Name>
+    <Description />
+    <UPC>0085761142749</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>24</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-28T10:52:47.9913254-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>5</ID>
+    <Name>Mini Crayon Set</Name>
+    <Description />
+    <UPC>0085761012158</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>72</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-28T10:54:50.9303571-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>6</ID>
+    <Name>Harmonica</Name>
+    <Description />
+    <UPC>0085761080706</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-28T10:55:49.9887351-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>7</ID>
+    <Name>Harmonica</Name>
+    <Description />
+    <UPC>0085761080706</UPC>
+    <Price>5.25</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath>D:\utilities\Programming\VoodooPOS\VoodooPOS\bin\Debug\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-28T10:56:15.355186-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>8</ID>
+    <Name>Mini Crayon Set</Name>
+    <Description />
+    <UPC>0085761012158</UPC>
+    <Price>0.85</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>72</Quantity>
+    <picturePath>D:\utilities\Programming\VoodooPOS\VoodooPOS\bin\Debug\data\inventoryImages\minicrayons.jpg</picturePath>
+    <DateCreated>2011-10-28T10:57:02.6958937-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>9</ID>
+    <Name>Harmonica</Name>
+    <Description />
+    <UPC>0085761080706</UPC>
+    <Price>5.25</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath>D:\utilities\Programming\VoodooPOS\VoodooPOS\bin\Debug\data\inventoryImages\metalharmonica.jpg</picturePath>
+    <DateCreated>2011-10-28T10:57:24.3381316-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>10</ID>
+    <Name>Zombie Zack</Name>
+    <Description />
+    <UPC>0085761142749</UPC>
+    <Price>3.25</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>24</Quantity>
+    <picturePath>D:\utilities\Programming\VoodooPOS\VoodooPOS\bin\Debug\data\inventoryImages\zombiezack.jpg</picturePath>
+    <DateCreated>2011-10-28T10:58:13.3989377-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>11</ID>
+    <Name>Kazoo</Name>
+    <Description />
+    <UPC>085761080553</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>24</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-28T11:00:00.5890686-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>12</ID>
+    <Name>Kazoo</Name>
+    <Description />
+    <UPC>085761080553</UPC>
+    <Price>3.75</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>24</Quantity>
+    <picturePath>D:\utilities\Programming\VoodooPOS\VoodooPOS\bin\Debug\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-28T11:00:18.27208-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>13</ID>
+    <Name>Kazoo</Name>
+    <Description />
+    <UPC>085761080553</UPC>
+    <Price>3.75</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>24</Quantity>
+    <picturePath>D:\utilities\Programming\VoodooPOS\VoodooPOS\bin\Debug\data\inventoryImages\metalkazoo.jpg</picturePath>
+    <DateCreated>2011-10-28T11:00:47.7847681-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>14</ID>
+    <Name>Neo Tracks Cars</Name>
+    <Description />
+    <UPC>603625917441</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-28T11:02:44.8984666-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>15</ID>
+    <Name>Mystical Garden</Name>
+    <Description />
+    <UPC>0085761012882</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-28T11:04:28.7714078-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>16</ID>
+    <Name>Mystical Garden</Name>
+    <Description />
+    <UPC>0085761012882</UPC>
+    <Price>8.5</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath>D:\utilities\Programming\VoodooPOS\VoodooPOS\bin\Debug\data\inventoryImages\mysticalgarden.jpg</picturePath>
+    <DateCreated>2011-10-28T11:05:32.0240256-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>17</ID>
+    <Name>Ginormous Grow Dino</Name>
+    <Description />
+    <UPC>085761086029</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>24</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-28T11:07:09.1055784-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>18</ID>
+    <Name>Ginormous Grow Dino</Name>
+    <Description />
+    <UPC>085761086029</UPC>
+    <Price>3.99</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>24</Quantity>
+    <picturePath>D:\utilities\Programming\VoodooPOS\VoodooPOS\bin\Debug\data\inventoryImages\ginormousgrowdinosaur.jpg</picturePath>
+    <DateCreated>2011-10-28T11:07:43.0215182-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>19</ID>
+    <Name>Glow Bracelets</Name>
+    <Description />
+    <UPC />
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>360</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-28T11:11:22.4870709-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>20</ID>
+    <Name>Firefly</Name>
+    <Description />
+    <UPC>665766081207</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>24</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-28T11:12:59.6536286-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>21</ID>
+    <Name>Bungee Watch</Name>
+    <Description />
+    <UPC>085761147287</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>24</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-28T11:14:14.9129331-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>22</ID>
+    <Name>Fresh Metal Cars</Name>
+    <Description />
+    <UPC>085761139718</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>36</Quantity>
+    <picturePath>D:\utilities\Programming\VoodooPOS\VoodooPOS\bin\Debug\data\inventoryImages\freshmetalcars.jpg</picturePath>
+    <DateCreated>2011-10-28T11:17:36.7524777-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>23</ID>
+    <Name>Pop Pop Snappers</Name>
+    <Description />
+    <UPC>8052531604815</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>50</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-28T11:19:07.2936564-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>24</ID>
+    <Name>Pop Pop Snappers</Name>
+    <Description />
+    <UPC>8052531604815</UPC>
+    <Price>2.25</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>50</Quantity>
+    <picturePath>D:\utilities\Programming\VoodooPOS\VoodooPOS\bin\Debug\data\inventoryImages\poppoppoppers.jpg</picturePath>
+    <DateCreated>2011-10-28T11:19:49.5310722-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>25</ID>
+    <Name>Cosmic Thruster</Name>
+    <Description />
+    <UPC>085761052994</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath>D:\utilities\Programming\VoodooPOS\VoodooPOS\bin\Debug\data\inventoryImages\cosmicthruster.jpg</picturePath>
+    <DateCreated>2011-10-28T11:24:52.149381-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>26</ID>
+    <Name>Cosmic Thruster</Name>
+    <Description />
+    <UPC>085761052994</UPC>
+    <Price>24.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath>D:\utilities\Programming\VoodooPOS\VoodooPOS\bin\Debug\data\inventoryImages\cosmicthruster.jpg</picturePath>
+    <DateCreated>2011-10-28T11:25:10.7634456-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>27</ID>
+    <Name>Stink Bomb</Name>
+    <Description />
+    <UPC>0031828040657</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-28T11:27:23.2790251-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>28</ID>
+    <Name>Stink Bomb</Name>
+    <Description />
+    <UPC>0031828040657</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-28T11:27:30.3274282-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>29</ID>
+    <Name>Punch Ball</Name>
+    <Description />
+    <UPC>085761027275</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>24</Quantity>
+    <picturePath>D:\utilities\Programming\VoodooPOS\VoodooPOS\bin\Debug\data\inventoryImages\punchballoons.jpg</picturePath>
+    <DateCreated>2011-10-28T11:30:13.076737-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>30</ID>
+    <Name>Whoopee Cushion</Name>
+    <Description />
+    <UPC>085761097162</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>24</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-28T11:31:27.8660147-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>31</ID>
+    <Name>Whoopee Cushion</Name>
+    <Description />
+    <UPC>085761097162</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>24</Quantity>
+    <picturePath>D:\utilities\Programming\VoodooPOS\VoodooPOS\bin\Debug\data\inventoryImages\whoopiecushion.jpg</picturePath>
+    <DateCreated>2011-10-28T11:31:46.4450773-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>32</ID>
+    <Name>Whoopee Cushion</Name>
+    <Description />
+    <UPC>085761097162</UPC>
+    <Price>3.5</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>24</Quantity>
+    <picturePath>D:\utilities\Programming\VoodooPOS\VoodooPOS\bin\Debug\data\inventoryImages\whoopiecushion.jpg</picturePath>
+    <DateCreated>2011-10-28T11:32:02.9210197-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>33</ID>
+    <Name>Blue Mouth Sweets</Name>
+    <Description />
+    <UPC>0031828010353</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-28T11:33:50.4881722-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>34</ID>
+    <Name>Blue Mouth Sweets</Name>
+    <Description />
+    <UPC>0031828010353</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath>D:\utilities\Programming\VoodooPOS\VoodooPOS\bin\Debug\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-28T11:34:47.3684256-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>35</ID>
+    <Name>Magic Candles</Name>
+    <Description />
+    <UPC>0097138669711</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-28T11:37:32.0158429-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>36</ID>
+    <Name>Pin Through Nose</Name>
+    <Description />
+    <UPC>0099996007445</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-28T11:38:29.5781352-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>37</ID>
+    <Name>Surprise Buzzer</Name>
+    <Description />
+    <UPC>0031828040756</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-28T11:39:20.0350212-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>38</ID>
+    <Name>Blood Capsules</Name>
+    <Description />
+    <UPC>0031828010155</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-28T11:40:05.9976501-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>39</ID>
+    <Name>Friendship Bracelet Kit</Name>
+    <Description />
+    <UPC>085761081505</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>18</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-28T11:41:57.2700145-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>40</ID>
+    <Name>Friendship Bracelet Kit</Name>
+    <Description />
+    <UPC>085761081505</UPC>
+    <Price>8.25</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>18</Quantity>
+    <picturePath>D:\utilities\Programming\VoodooPOS\VoodooPOS\bin\Debug\data\inventoryImages\friendshipbraceletkit2.jpg</picturePath>
+    <DateCreated>2011-10-28T11:42:52.8901958-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>41</ID>
+    <Name>Slam Shot Rocket</Name>
+    <Description />
+    <UPC>0085761015128</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-28T11:44:02.3071662-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>42</ID>
+    <Name>Slam Shot Rocket</Name>
+    <Description />
+    <UPC>0085761015128</UPC>
+    <Price>15.25</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath>D:\utilities\Programming\VoodooPOS\VoodooPOS\bin\Debug\data\inventoryImages\slamshotrocket.jpg</picturePath>
+    <DateCreated>2011-10-28T11:45:00.0644698-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>43</ID>
+    <Name>Medical Set</Name>
+    <Description />
+    <UPC>0062243181977</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-28T11:45:36.3515453-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>44</ID>
+    <Name>Medical Set</Name>
+    <Description />
+    <UPC>0062243181977</UPC>
+    <Price>26.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath>D:\utilities\Programming\VoodooPOS\VoodooPOS\bin\Debug\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <DateCreated>2011-10-28T11:46:09.1244198-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>45</ID>
+    <Name>Medical Set</Name>
+    <Description />
+    <UPC>0062243181977</UPC>
+    <Price>26.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath>D:\utilities\Programming\VoodooPOS\VoodooPOS\bin\Debug\data\inventoryImages\medicalkit.jpg</picturePath>
+    <DateCreated>2011-10-28T11:46:30.965669-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>46</ID>
+    <Name>Contractor's Tool Kit</Name>
+    <Description />
+    <UPC>0062243203556</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-28T11:47:08.4018102-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>47</ID>
+    <Name>Contractor's Tool Kit</Name>
+    <Description />
+    <UPC>0062243203556</UPC>
+    <Price>26.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath>D:\utilities\Programming\VoodooPOS\VoodooPOS\bin\Debug\data\inventoryImages\contractortoolkit.jpg</picturePath>
+    <DateCreated>2011-10-28T11:47:44.6258821-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>48</ID>
+    <Name>Neo Tracks Extra Track</Name>
+    <Description />
+    <UPC>0603625917434</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-28T11:48:51.8947297-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>49</ID>
+    <Name>Incy Bincies</Name>
+    <Description />
+    <UPC>845218001131</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>24</Quantity>
+    <picturePath>D:\utilities\Programming\VoodooPOS\VoodooPOS\bin\Debug\data\inventoryImages\incybincies.jpg</picturePath>
+    <DateCreated>2011-10-28T11:50:18.0676585-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>50</ID>
+    <Name>Super Stacking Tops</Name>
+    <Description />
+    <UPC>085761063655</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath>D:\utilities\Programming\VoodooPOS\VoodooPOS\bin\Debug\data\inventoryImages\superstackingtops.jpg</picturePath>
+    <DateCreated>2011-10-28T11:52:25.0529217-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>51</ID>
+    <Name>Super Stacking Tops</Name>
+    <Description />
+    <UPC>085761063655</UPC>
+    <Price>15.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>12</Quantity>
+    <picturePath>D:\utilities\Programming\VoodooPOS\VoodooPOS\bin\Debug\data\inventoryImages\superstackingtops.jpg</picturePath>
+    <DateCreated>2011-10-28T11:52:46.3431394-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>52</ID>
+    <Name>Blast Bow</Name>
+    <Description />
+    <UPC>085761015357</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-28T11:56:01.0872781-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>53</ID>
+    <Name>Blast Bow</Name>
+    <Description />
+    <UPC>085761015357</UPC>
+    <Price>24.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath>D:\utilities\Programming\VoodooPOS\VoodooPOS\bin\Debug\data\inventoryImages\blastbow3.jpg</picturePath>
+    <DateCreated>2011-10-28T11:56:19.635339-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>54</ID>
+    <Name>Princess Gemstone Ring</Name>
+    <Description />
+    <UPC>085761075498</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>24</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-28T12:06:30.614285-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>55</ID>
+    <Name>Princess Gemstone Ring</Name>
+    <Description />
+    <UPC>085761075498</UPC>
+    <Price>4.5</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>24</Quantity>
+    <picturePath>D:\utilities\Programming\VoodooPOS\VoodooPOS\bin\Debug\data\inventoryImages\princessgemstonering.jpg</picturePath>
+    <DateCreated>2011-10-28T12:07:19.1720623-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>56</ID>
+    <Name>Duck Top</Name>
+    <Description />
+    <UPC>085761053991</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-28T12:08:32.2732435-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>57</ID>
+    <Name>Duck Top</Name>
+    <Description />
+    <UPC>085761053991</UPC>
+    <Price>9.95</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath>D:\utilities\Programming\VoodooPOS\VoodooPOS\bin\Debug\data\inventoryImages\ducktop2.jpg</picturePath>
+    <DateCreated>2011-10-28T12:09:25.2952762-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>58</ID>
+    <Name>Mini Touchable Bubbles</Name>
+    <Description />
+    <UPC>085761044296</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>60</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-28T12:10:38.0624382-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>59</ID>
+    <Name>Mini Touchable Bubbles</Name>
+    <Description />
+    <UPC>085761044296</UPC>
+    <Price>1.75</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>60</Quantity>
+    <picturePath>D:\utilities\Programming\VoodooPOS\VoodooPOS\bin\Debug\data\inventoryImages\minitesttouchbubbles.jpg</picturePath>
+    <DateCreated>2011-10-28T12:11:32.2515377-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>60</ID>
+    <Name>Train Whistle</Name>
+    <Description />
+    <UPC>0085761061941</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>24</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-28T12:12:28.2007378-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>61</ID>
+    <Name>Train Whistle</Name>
+    <Description />
+    <UPC>0085761061941</UPC>
+    <Price>5.25</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>24</Quantity>
+    <picturePath>D:\utilities\Programming\VoodooPOS\VoodooPOS\bin\Debug\data\inventoryImages\trainwhistle.jpg</picturePath>
+    <DateCreated>2011-10-28T12:13:07.1479654-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>62</ID>
+    <Name>Jupiter Juice</Name>
+    <Description />
+    <UPC>0085761089921</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>20</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-28T12:13:51.269489-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>63</ID>
+    <Name>Jupiter Juice</Name>
+    <Description />
+    <UPC>0085761089921</UPC>
+    <Price>3.5</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>20</Quantity>
+    <picturePath>D:\utilities\Programming\VoodooPOS\VoodooPOS\bin\Debug\data\inventoryImages\jupiterjuice2.jpg</picturePath>
+    <DateCreated>2011-10-28T12:14:35.5460215-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>64</ID>
+    <Name>Gummi Pizza</Name>
+    <Description />
+    <UPC />
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>48</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-28T12:15:34.7454075-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>65</ID>
+    <Name>Gummi Pizza</Name>
+    <Description />
+    <UPC>.99</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>48</Quantity>
+    <picturePath>D:\utilities\Programming\VoodooPOS\VoodooPOS\bin\Debug\data\inventoryImages\gummipizza.jpg</picturePath>
+    <DateCreated>2011-10-28T12:16:10.2004354-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>66</ID>
+    <Name>Sour Gecko</Name>
+    <Description />
+    <UPC />
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>80</Quantity>
+    <picturePath>D:\utilities\Programming\VoodooPOS\VoodooPOS\bin\Debug\data\inventoryImages\sourgecko.jpg</picturePath>
+    <DateCreated>2011-10-28T12:17:35.1662952-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>67</ID>
+    <Name>Mini Burger</Name>
+    <Description />
+    <UPC />
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>120</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-28T12:18:54.870854-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>68</ID>
+    <Name>Mini Burger</Name>
+    <Description />
+    <UPC />
+    <Price>0.5</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>120</Quantity>
+    <picturePath>D:\utilities\Programming\VoodooPOS\VoodooPOS\bin\Debug\data\inventoryImages\gummihamburger.jpg</picturePath>
+    <DateCreated>2011-10-28T12:19:32.9780336-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>69</ID>
+    <Name>Jazzy Jingles</Name>
+    <Description />
+    <UPC />
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>24</Quantity>
+    <picturePath>D:\utilities\Programming\VoodooPOS\VoodooPOS\bin\Debug\data\inventoryImages\jazzyjinggles.jpg</picturePath>
+    <DateCreated>2011-10-28T12:20:54.1516765-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>70</ID>
+    <Name>Jazzy Jingles</Name>
+    <Description />
+    <UPC />
+    <Price>3.5</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>24</Quantity>
+    <picturePath>D:\utilities\Programming\VoodooPOS\VoodooPOS\bin\Debug\data\inventoryImages\jazzyjinggles.jpg</picturePath>
+    <DateCreated>2011-10-28T12:21:11.7126809-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>71</ID>
+    <Name>Boinks</Name>
+    <Description />
+    <UPC>0085761031340</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>100</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-28T12:38:13.4061185-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>72</ID>
+    <Name>Boinks</Name>
+    <Description />
+    <UPC>0085761031340</UPC>
+    <Price>0.99</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>100</Quantity>
+    <picturePath>D:\utilities\Programming\VoodooPOS\VoodooPOS\bin\Debug\data\inventoryImages\boink.jpg</picturePath>
+    <DateCreated>2011-10-28T12:38:59.7687703-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>73</ID>
+    <Name>Mini Puzzle</Name>
+    <Description />
+    <UPC />
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>48</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-28T12:40:28.93087-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>74</ID>
+    <Name>Mini Puzzle</Name>
+    <Description />
+    <UPC />
+    <Price>6.25</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>48</Quantity>
+    <picturePath>D:\utilities\Programming\VoodooPOS\VoodooPOS\bin\Debug\data\inventoryImages\miniwirepuzzles.jpg</picturePath>
+    <DateCreated>2011-10-28T12:41:13.4314153-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>75</ID>
+    <Name>Noise Putty</Name>
+    <Description />
+    <UPC>085761097155</UPC>
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>24</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-28T12:47:38.2594262-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>76</ID>
+    <Name>Noise Putty</Name>
+    <Description />
+    <UPC>085761097155</UPC>
+    <Price>3.25</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>24</Quantity>
+    <picturePath>D:\utilities\Programming\VoodooPOS\VoodooPOS\bin\Debug\data\inventoryImages\noiseputty.jpg</picturePath>
+    <DateCreated>2011-10-28T12:48:20.3808354-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>77</ID>
+    <Name>Rock Paper Scissors</Name>
+    <Description />
+    <UPC />
+    <Price>0</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>24</Quantity>
+    <picturePath />
+    <DateCreated>2011-10-28T12:49:10.7417159-06:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>78</ID>
+    <Name>Rock Paper Scissors</Name>
+    <Description />
+    <UPC />
+    <Price>3.5</Price>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>24</Quantity>
+    <picturePath>D:\utilities\Programming\VoodooPOS\VoodooPOS\bin\Debug\data\inventoryImages\rockpaperscissors2.gif</picturePath>
+    <DateCreated>2011-10-28T12:50:06.9499308-06:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

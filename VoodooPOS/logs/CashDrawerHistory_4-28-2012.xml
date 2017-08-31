@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <CashRegisterDrawer>
+    <ID>1</ID>
+    <Amount>1132.16</Amount>
+    <Description>Drawer opened to give change</Description>
+    <DateCreated>2012-04-28T11:08:26.875-06:00</DateCreated>
+  </CashRegisterDrawer>
+  <CashRegisterDrawer>
+    <ID>2</ID>
+    <Amount>1138.66</Amount>
+    <Description>Cash Transaction for $6.50</Description>
+    <DateCreated>2012-04-28T11:09:24.453125-06:00</DateCreated>
+  </CashRegisterDrawer>
+  <CashRegisterDrawer>
+    <ID>3</ID>
+    <Amount>1138.66</Amount>
+    <Description>Drawer opened to give change</Description>
+    <DateCreated>2012-04-28T11:09:52.359375-06:00</DateCreated>
+  </CashRegisterDrawer>
+  <CashRegisterDrawer>
+    <ID>4</ID>
+    <Amount>1160.36</Amount>
+    <Description>Cash Transaction for $21.70</Description>
+    <DateCreated>2012-04-28T12:04:57.328125-06:00</DateCreated>
+  </CashRegisterDrawer>
+  <CashRegisterDrawer>
+    <ID>5</ID>
+    <Amount>1160.36</Amount>
+    <Description>Drawer opened to give change</Description>
+    <DateCreated>2012-04-28T12:12:38.90625-06:00</DateCreated>
+  </CashRegisterDrawer>
+  <CashRegisterDrawer>
+    <ID>6</ID>
+    <Amount>1199.64</Amount>
+    <Description>Cash Transaction for $39.28</Description>
+    <DateCreated>2012-04-28T15:22:16.109375-06:00</DateCreated>
+  </CashRegisterDrawer>
+  <CashRegisterDrawer>
+    <ID>7</ID>
+    <Amount>1200.94</Amount>
+    <Description>Cash Transaction for $1.30</Description>
+    <DateCreated>2012-04-28T16:42:16.65625-06:00</DateCreated>
+  </CashRegisterDrawer>
+</NewDataSet>

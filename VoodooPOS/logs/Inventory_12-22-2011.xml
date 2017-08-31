@@ -1,0 +1,183 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <InventoryItems>
+    <ID>296</ID>
+    <Name>Card Games</Name>
+    <Description />
+    <UPC />
+    <Price>0.99</Price>
+    <WholesalePrice>0.33</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-22T11:45:31.921875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>297</ID>
+    <Name>Incy Bincies Singles</Name>
+    <Description />
+    <UPC />
+    <Price>0.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath />
+    <status />
+    <DateCreated>2011-12-22T11:51:05.59375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>112</ID>
+    <Name>Incy Bincies 10 pack</Name>
+    <Description />
+    <UPC>845218001131</UPC>
+    <Price>8.95</Price>
+    <WholesalePrice>4</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>24</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-22T11:52:22.28125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>310</ID>
+    <Name>Incy Bincies Singles</Name>
+    <Description />
+    <UPC />
+    <Price>0.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer />
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-22T11:56:16.34375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>304</ID>
+    <Name>simon flash</Name>
+    <Description />
+    <UPC />
+    <Price>34.95</Price>
+    <WholesalePrice>14.99</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>king soopers</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-22T12:00:26.8125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>303</ID>
+    <Name>scrabble flash</Name>
+    <Description />
+    <UPC>0653569521044</UPC>
+    <Price>34.95</Price>
+    <WholesalePrice>14.99</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>king soopers</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>1</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-22T12:02:59.28125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>276</ID>
+    <Name>Creepy Crawlers</Name>
+    <Description />
+    <UPC />
+    <Price>3.99</Price>
+    <WholesalePrice>0</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-22T16:19:24.671875-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>294</ID>
+    <Name>Words'N Beads</Name>
+    <Description />
+    <UPC />
+    <Price>2.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-22T16:20:23.828125-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>294</ID>
+    <Name>Words 'N Beads</Name>
+    <Description />
+    <UPC />
+    <Price>2.99</Price>
+    <WholesalePrice>1</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Dollar Tree</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>0</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-22T16:20:44.84375-07:00</DateCreated>
+  </InventoryItems>
+  <InventoryItems>
+    <ID>20</ID>
+    <Name>Plasma Orb Light</Name>
+    <Description />
+    <UPC>085761037038</UPC>
+    <Price>19.95</Price>
+    <WholesalePrice>8.5</WholesalePrice>
+    <SalePrice>0</SalePrice>
+    <OnSale>false</OnSale>
+    <Manufacturer>Toysmith</Manufacturer>
+    <Model />
+    <Size />
+    <Color />
+    <Quantity>6</Quantity>
+    <picturePath>C:\Program Files\SCTech\Voodoo Cash Register\data\inventoryImages\imageNotAvailable.jpg</picturePath>
+    <status />
+    <DateCreated>2011-12-22T16:58:36.890625-07:00</DateCreated>
+  </InventoryItems>
+</NewDataSet>

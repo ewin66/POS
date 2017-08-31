@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <GiftCertificates>
+    <ID>1</ID>
+    <Name>Luke</Name>
+    <DisplayName>Luke 6/28/2012  $12.50</DisplayName>
+    <Status>NotActivated</Status>
+    <OriginalAmount>12.5</OriginalAmount>
+    <Amount>12.5</Amount>
+    <AmountToApply>-12.5</AmountToApply>
+    <UPC>00062820121600107</UPC>
+    <DateCreated>2012-06-28T16:02:09.828125-06:00</DateCreated>
+  </GiftCertificates>
+</NewDataSet>
